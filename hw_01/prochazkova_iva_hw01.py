@@ -1,7 +1,7 @@
 import json
 
 # Open the file in read mode
-with open('Alice.txt', 'r', encoding='utf-8') as file:
+with open('alice.txt', 'r', encoding='utf-8') as file:
     # Read the whole text
     text = file.read()
 
