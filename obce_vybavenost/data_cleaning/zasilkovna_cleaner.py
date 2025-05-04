@@ -90,10 +90,16 @@ def clean_zasilkovna_data(input_file, output_file):
     df[['number', 'number2']] = df['number'].str.split('/', expand=True)
 
     # Replace 'nám.' or 'nám.' with 'náměstí' in the street column
-    df['street'] = df['street'].str.replace(r'\bnám\.\b', 'náměstí', regex=True)
+    # this should cater for bothj cases when "nám." is at the end of the street name or in the middle
+    # if this is at the beginning or in the middle it should preserve the space 
+    df['street'] = df['street'].str.replace(r'\bnám\.\s*', 'náměstí ', regex=True)
+
+    # Remove leading and trailing spaces
+    df['street'] = df['street'].str.strip()    
 
     # Select only the relevant columns and rename them
-    relevant_columns = {        
+    relevant_columns = {  
+        'branchCode': 'branch_code',     
         'name': 'name',
         'city': 'city',        
         'street': 'street',
