@@ -16,6 +16,7 @@ def enrich_alzabox_data(alzabox_file, adresy_file, output_file):
     # Select only the relevant columns from the addresses_df dataset
     relevant_columns = ['city_code', 'city','postal_code']
     addresses_df = addresses_df[relevant_columns]
+    addresses_df = addresses_df.drop_duplicates()
     
     # Apply case insensitive merge
 
@@ -30,6 +31,12 @@ def enrich_alzabox_data(alzabox_file, adresy_file, output_file):
 
     # Drop the temporary columns used for merging
     enriched_df = enriched_df.drop(columns=['city_lower',])
+
+    # drop all the columns with _y suffix
+    enriched_df = enriched_df.loc[:, ~enriched_df.columns.str.endswith('_y')]
+
+    # rename the columns with _x suffix to remove the suffix
+    enriched_df = enriched_df.rename(columns=lambda x: x.replace('_x', ''))
 
     # Drop duplicates if any
     enriched_df = enriched_df.drop_duplicates()

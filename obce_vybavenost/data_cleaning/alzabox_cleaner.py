@@ -22,7 +22,10 @@ def clean_alzabox_data(input_file, output_file):
     df[['Number', 'Number2']] = df['Number'].str.split('/', expand=True)
 
     # Replace 'nám.' or 'nám.' with 'náměstí' in the street column
-    df['Street'] = df['Street'].str.replace(r'\bnám\.\s*', 'náměstí', regex=True)
+    df['street'] = df['street'].str.replace(r'\bnám\.\s*', 'náměstí ', regex=True)
+
+    # Remove leading and trailing spaces
+    df['street'] = df['street'].str.strip()    
 
     # select only the relevant columns and rename them
     relevant_columns = {
