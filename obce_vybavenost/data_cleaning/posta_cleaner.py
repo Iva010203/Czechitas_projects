@@ -20,7 +20,7 @@ def clean_post_office_data(input_file, output_file):
         'NAZ_ULICE': 'street',
         'CISLO_POP': 'building_number',
         'CISLO_OR': 'orientation_number',
-        
+        'KOD_RUIAN': 'ruian_code',        
     }
     df = df[list(relevant_columns.keys())].rename(columns=relevant_columns)
 

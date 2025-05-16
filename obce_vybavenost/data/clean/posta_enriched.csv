@@ -1,0 +1,2952 @@
+name,city,postal_code,street,building_number,orientation_number,ruian_code,city_code
+Praha 10,Praha,10000,Černokostelecká,2020,20,22623701.0,554782.0
+Praha 104,Praha,10004,Nákupní,389,3,25671022.0,554782.0
+Praha 107,Praha,10007,Švehlova,1391,32,25302892.0,554782.0
+Praha 101,Praha,10100,Sportovní,846,22,22664611.0,554782.0
+Praha 113,Praha,10300,K poště,416,3,22582398.0,554782.0
+Praha 114,Praha,10400,Nové náměstí,1370,11,27222136.0,554782.0
+Praha 106,Praha,10600,Malinová,1739,1,22678352.0,554782.0
+Praha 112,Praha,10700,Za pavilónem,666,0,28339274.0,554782.0
+Praha 111,Praha,10900,Veronské náměstí,403,0,25380991.0,554782.0
+Praha 1,Praha,11000,Jindřišská,909,14,21707138.0,554782.0
+Praha 05,Praha,11005,Rybná,682,14,22725873.0,554782.0
+Dolní Měcholupy,Praha,11101,Dolnoměcholupská,168,37,22550151.0,554782.0
+Mobilní pošta 11,Opava,11111,Partyzánská,1521,7,24370428.0,505927.0
+Praha 011,Praha,11800,Malostranské náměstí,36,22,21694397.0,554782.0
+Praha 012,Praha,11900,Hrad III. nádvoří,48,2,21690731.0,554782.0
+Praha 2,Praha,12000,Moravská,1530,9,21754551.0,554782.0
+Praha 28,Praha,12800,Karlovo náměstí,2097,10,25642766.0,554782.0
+Praha 3,Praha,13000,Olšanská,38,9,21767483.0,554782.0
+Praha 4,Praha,14000,Na strži,1709,42,21874581.0,554782.0
+Praha 44,Praha,14004,K Libuši,7,10,21875537.0,554782.0
+Praha 416,Praha,14016,Křesomyslova,593,12,21945063.0,554782.0
+Praha 418,Praha,14018,Novodvorská,434,149,21892725.0,554782.0
+Praha 41,Praha,14100,Hlavní,2459,108,22702571.0,554782.0
+Praha 411,Praha,14200,Durychova,972,72,21894787.0,554782.0
+Praha 412,Praha,14300,Sofijské náměstí,3406,1,21940592.0,554782.0
+Praha 413,Praha,14400,Libušská,1,204,21895031.0,554782.0
+Praha 414,Praha,14800,Roztylská,2321,19,26224186.0,554782.0
+Praha 415,Praha,14900,Podjavorinské,1595,1,21841497.0,554782.0
+Praha 5,Praha,15000,Preslova,73,12,22075071.0,554782.0
+Praha 53,Praha,15003,Na Zatlance,1823,2,22094407.0,554782.0
+Praha 56,Praha,15006,Plzeňská,1348,95,83213961.0,554782.0
+Praha 550,Praha,15015,Radlická,520,117,22753851.0,554782.0
+Praha 519,Praha,15019,Janského,2254,45,22703951.0,554782.0
+Praha 500,Praha,15020,Voskovcova,1075,51,22771743.0,554782.0
+Praha 52,Praha,15200,Tilleho náměstí,792,2,22006702.0,554782.0
+Praha 512,Praha,15300,náměstí Osvoboditelů,1409,0,25922416.0,554782.0
+Praha 514,Praha,15400,K Lochkovu,6,2,22067167.0,554782.0
+Praha 515,Praha,15500,Hábova,1516,3,22118721.0,554782.0
+Praha 513,Praha,15511,Hasičů,46,3,22061011.0,554782.0
+Praha 517,Praha,15521,Křivatcová,244,1,22145605.0,554782.0
+Praha 511,Praha,15531,Na Bambouzku,500,0,30807263.0,554782.0
+Praha 516,Praha,15600,Elišky Přemyslovny,1617,0,82039321.0,554782.0
+Praha 59,Praha,15900,Starochuchelská,7,0,22757244.0,554782.0
+Praha 6,Praha,16000,Kafkova,102,19,22186476.0,554782.0
+Praha 600,Praha,16020,Fajtlova,1090,1,26655241.0,554782.0
+Praha 650,Praha,16150,Drnovská,1167,0,84936690.0,554782.0
+Praha 616,Praha,16200,Na Petřinách,302,42,22282793.0,554782.0
+Praha 618,Praha,16300,Makovského,1349,2a,22709053.0,554782.0
+Praha 619,Praha,16400,Nebušická,128,0,22226851.0,554782.0
+Praha 620,Praha,16500,Suchdolské náměstí,734,3,22275673.0,554782.0
+Praha 69,Praha,16900,Břevnovská,1692,6,22167986.0,554782.0
+Praha 7,Praha,17000,Milady Horákové,383,81,22298711.0,554782.0
+Praha 74,Praha,17004,Dělnická,213,12,25914260.0,554782.0
+Praha 71,Praha,17100,Trojská,632,173b,22725008.0,554782.0
+Praha 8,Praha,18000,Sokolovská,260,143,22376682.0,554782.0
+Praha 88,Praha,18008,Osinalická,1104,13,78573742.0,554782.0
+Praha 81,Praha,18100,Lodžská,850,6,42732972.0,554782.0
+Praha 82,Praha,18200,Burešova,1663,6,22373942.0,554782.0
+Praha 84,Praha,18400,Spořická,443,23,22338853.0,554782.0
+Praha 9,Praha,19000,Verneřická,407,6,22517103.0,554782.0
+Praha 93,Praha,19003,Freyova,945,35,27431592.0,554782.0
+Praha 900,Praha,19009,Chlumecká,765,6,22758194.0,554782.0
+Praha 911,Praha,19011,Českobrodská,516,0,22404503.0,554782.0
+Praha 912,Praha,19012,Stará obec,5,0,22413707.0,554782.0
+Praha 914,Praha,19014,Slavětínská,33,53,22468579.0,554782.0
+Praha 915,Praha,19015,K Radonicům,81,3,22510052.0,554782.0
+Praha 916,Praha,19016,Staroújezdská,23,0,22520325.0,554782.0
+Praha 917,Praha,19017,Bohdanečská,97,0,22536892.0,554782.0
+Praha 913,Praha,19300,Náchodská,701,95,22436502.0,554782.0
+Praha 96,Praha,19600,Cukrovarská,2,27,22404724.0,554782.0
+Praha 97,Praha,19700,Semilská,885,4,30491576.0,554782.0
+Praha 98,Praha,19800,Bratří Venclíků,1139,3,22413642.0,554782.0
+Praha 99,Praha,19900,Bechyňská,638,0,22497790.0,554782.0
+Mobilní pošta 21,Kunčice pod Ondřejníkem,22222,,569,0,14158698.0,598356.0
+Brandýs nad Labem-Stará Boleslav 1,Brandýs nad Labem-Stará Boleslav,25001,Riegrova,630,2,14614995.0,538094.0
+Brandýs nad Labem-Stará Boleslav 2,Brandýs nad Labem-Stará Boleslav,25002,Boleslavská,1391,0,19969287.0,538094.0
+Hovorčovice,Hovorčovice,25006,Revoluční,327,0,14500957.0,538230.0
+Zápy,Zápy,25061,,7,0,11694246.0,505781.0
+Mratín,Mratín,25063,Kostelecká,131,0,14559234.0,538515.0
+Měšice u Prahy,Měšice,25064,Nová,275,0,14651840.0,538477.0
+Líbeznice,Líbeznice,25065,Mělnická,275,0,12652504.0,538442.0
+Zdiby,Zdiby,25066,U Pošty,54,0,21346895.0,539058.0
+Klecany,Klecany,25067,U školky,487,0,15583031.0,538311.0
+Řež,Husinec,25068,U Pošty,38,0,12642207.0,538256.0
+Vodochody,Vodochody,25069,U Pošty,63,0,14601192.0,539015.0
+Odolena Voda,Odolena Voda,25070,Velkoveská,34,0,12667803.0,538574.0
+Kojetice u Prahy,Kojetice,25072,Lipová,75,0,14544181.0,538345.0
+Jenštejn,Jenštejn,25073,9. května,60,0,12645176.0,538264.0
+Káraný,Káraný,25075,Václavská,19,0,20827768.0,564974.0
+Nehvizdy,Nehvizdy,25081,Pražská,255,0,11702478.0,538540.0
+Úvaly,Úvaly,25082,Riegerova,897,0,14665522.0,538957.0
+Škvorec,Škvorec,25083,Čs. armády,107,0,14589729.0,538884.0
+Sibřina,Sibřina,25084,Říčanská,15,0,18357172.0,538761.0
+Bašť,Bašť,25085,Dlouhá,52,0,12631515.0,538051.0
+Mochov,Mochov,25087,Husovo náměstí,16,0,14555166.0,538507.0
+Čelákovice,Čelákovice,25088,Stankovského,1650,0,12715557.0,538132.0
+Lázně Toušeň,Lázně Toušeň,25089,Za Školou,2,0,12685259.0,538914.0
+Jirny,Jirny,25090,Brandýská,9,0,14507463.0,538272.0
+Zeleneč v Čechách,Zeleneč,25091,Čsl. armády,113,2,12694274.0,539066.0
+Šestajovice,Šestajovice,25092,Revoluční,149,41,21324239.0,538876.0
+Říčany u Prahy,Říčany,25101,Masarykovo náměstí,62,32,12717517.0,538728.0
+Mukařov,Mukařov,25162,Příčná,11,0,14560011.0,538523.0
+Strančice,Strančice,25163,Revoluční,383,0,14655926.0,538809.0
+Mnichovice,Mnichovice,25164,Tyršova,194,0,21302341.0,538493.0
+Ondřejov,Ondřejov,25165,náměstí 9. května,68,0,14569337.0,538582.0
+Senohraby,Senohraby,25166,Hlavní,48,0,17247489.0,538752.0
+Pyšely,Pyšely,25167,náměstí T. G. Masaryka,66,0,2923068.0,538680.0
+Kamenice,Kamenice,25168,Jednosměrná,316,0,14530457.0,538299.0
+Velké Popovice,Velké Popovice,25169,Masarykova,15,0,18350828.0,538981.0
+Dobřejovice,Dobřejovice,25170,Na Návsi,3,0,11696664.0,538167.0
+Sulice,Sulice,25194,Školní,343,0,73975893.0,538833.0
+Jíloviště,Jíloviště,25202,Pražská,81,0,6440657.0,539341.0
+Řitka,Řitka,25203,Na návsi,54,0,6366945.0,539651.0
+Čisovice,Čisovice,25204,,35,0,6259685.0,539155.0
+Hvozdnice,Hvozdnice,25205,,160,0,8514879.0,539261.0
+Davle,Davle,25206,Na náměstí,63,0,6414206.0,539163.0
+Štěchovice,Štěchovice,25207,Hlavní,3,0,6490379.0,539732.0
+Slapy nad Vltavou,Slapy,25208,,348,0,6374557.0,539660.0
+Hradištko,Hradištko,25209,Pikovická,276,0,6278191.0,539252.0
+Mníšek pod Brdy,Mníšek pod Brdy,25210,Skalecká,2,0,12810177.0,540765.0
+Nučice,Nučice,25216,Báňská,154,0,6471218.0,531618.0
+Tachlovice,Tachlovice,25217,Jakubská náves,8,0,6388621.0,531821.0
+Úhonice,Úhonice,25218,Na Návsi,24,0,6498060.0,532991.0
+Rudná,Rudná,25219,Masarykova,105,47,6344186.0,531723.0
+Jinočany,Jinočany,25225,Náměstí 5. května,256,0,26167689.0,539350.0
+Třebotov,Třebotov,25226,Klidná,69,0,6392008.0,539759.0
+Černošice,Černošice,25228,Karlštejnská,259,0,6506836.0,539139.0
+Dobřichovice,Dobřichovice,25229,Palackého náměstí,951,0,25456521.0,539198.0
+Řevnice,Řevnice,25230,Mníšecká,1060,0,28324099.0,539643.0
+Všenory,Všenory,25231,U Silnice,151,0,6590616.0,539856.0
+Dolní Břežany,Dolní Břežany,25241,U Náměstí,712,0,27845087.0,539210.0
+Jesenice u Prahy,Jesenice,25242,Budějovická,130,0,12776254.0,539325.0
+Průhonice,Průhonice,25243,Říčanská,197,0,6535909.0,539571.0
+Psáry,Psáry,25244,Pražská,137,0,6476074.0,539597.0
+Zvole u Prahy,Zvole,25245,Na Výsluní,270,0,12867128.0,539902.0
+Vrané nad Vltavou,Vrané nad Vltavou,25246,U Pošty,205,0,12843547.0,539848.0
+Čestlice,Čestlice,25247,U Makra,102,0,25106856.0,538141.0
+Vestec,Vestec,25250,U Hrubých,650,0,76183645.0,513458.0
+Jeneč,Jeneč,25261,Lidická,82,0,12770663.0,539317.0
+Horoměřice,Horoměřice,25262,Požárníků,38,0,12748994.0,539236.0
+Roztoky u Prahy,Roztoky,25263,Tyršovo náměstí,2221,0,26668025.0,539627.0
+Velké Přílepy,Velké Přílepy,25264,Svrkyňská,63,0,6501737.0,539813.0
+Tursko,Tursko,25265,Čestmírovo náměstí,59,0,6396712.0,539775.0
+Libčice nad Vltavou,Libčice nad Vltavou,25266,Letecká,91,0,6317481.0,539414.0
+Tuchoměřice,Tuchoměřice,25267,K poště,460,0,42453534.0,539767.0
+Středokluky,Středokluky,25268,Lidická,61,0,6584403.0,539708.0
+Petrov,Petrov,25281,Hlavní,101,0,12738778.0,539546.0
+Kamenný Přívoz,Kamenný Přívoz,25282,,285,0,12787671.0,539368.0
+Hostivice,Hostivice,25301,Čsl. armády,1705,0,25854739.0,539244.0
+Chýně,Chýně,25303,Hlavní,200,0,18183280.0,539309.0
+Jílové u Prahy,Jílové u Prahy,25401,Rudných dolů,502,0,6561250.0,539333.0
+Benešov u Prahy,Benešov,25601,Poštovní,478,0,14429187.0,529303.0
+Teplýšovice,Teplýšovice,25602,,24,0,2934485.0,530760.0
+Postupice,Postupice,25701,Blanická,128,0,14387891.0,530450.0
+Popovice,Popovice,25702,,78,0,14380137.0,532649.0
+Jankov,Jankov,25703,Na náměstí,14,0,14334941.0,529842.0
+Odlochovice,Jankov,25704,,35,0,2960079.0,529842.0
+Zvěstov,Zvěstov,25705,,13,0,2961288.0,531049.0
+Louňovice pod Blaníkem,Louňovice pod Blaníkem,25706,J. Žižky,45,0,2962799.0,530107.0
+Kamberk,Kamberk,25707,,71,0,14427222.0,531031.0
+Načeradec,Načeradec,25708,Lhotecká,271,0,14364689.0,530212.0
+Pravonín,Pravonín,25709,,156,0,26054060.0,530476.0
+Poříčí nad Sázavou,Poříčí nad Sázavou,25721,Čerčanská,77,0,14382814.0,530441.0
+Čerčany,Čerčany,25722,Sokolská,200,0,2977711.0,529516.0
+Přestavlky u Čerčan,Přestavlky u Čerčan,25723,,48,0,18202772.0,530492.0
+Chocerady,Chocerady,25724,,100,0,2988241.0,529796.0
+Kozmice u Benešova,Kozmice,25725,,12,0,2992299.0,529940.0
+Divišov,Divišov,25726,Horní náměstí,17,0,14289687.0,529621.0
+Český Šternberk,Český Šternberk,25727,,27,0,2999927.0,529541.0
+Chotýšany,Chotýšany,25728,,54,0,14331934.0,529818.0
+Týnec nad Sázavou,Týnec nad Sázavou,25741,Družstevní,524,0,26780399.0,530841.0
+Krhanice,Týnec nad Sázavou,25742,,223,0,3014606.0,530841.0
+Netvořice,Netvořice,25744,Pražská,16,0,3019888.0,530298.0
+Křečovice,Křečovice,25748,,59,0,14349914.0,529991.0
+Bystřice u Benešova,Bystřice,25751,Ješutovo náměstí,14,0,14299755.0,529451.0
+Olbramovice,Olbramovice,25752,,5,0,3032426.0,530344.0
+Vrchotovy Janovice,Vrchotovy Janovice,25753,,2,0,3037029.0,530948.0
+Vojkov,Vojkov,25754,,16,0,14418924.0,530891.0
+Maršovice,Maršovice,25755,,74,0,3039803.0,530115.0
+Neveklov,Neveklov,25756,náměstí Jana Heřmana,63,0,3043037.0,530310.0
+Domašín,Vlašim,25761,,63,0,14326965.0,530883.0
+Kladruby u Vlašimi,Kladruby,25762,,39,0,26705982.0,533084.0
+Trhový Štěpánov,Trhový Štěpánov,25763,Náměstí,143,0,14292807.0,530816.0
+Zdislavice,Zdislavice,25764,,87,0,18209432.0,531022.0
+Čechtice,Čechtice,25765,náměstí Dr. Tyrše,332,0,3060845.0,529486.0
+Křivsoudov,Křivsoudov,25766,,97,0,3067351.0,530000.0
+Dolní Kralovice,Dolní Kralovice,25768,Fibichova,5,0,14326043.0,529648.0
+Bernartice,Bernartice,25769,,39,0,14296161.0,532568.0
+Soutice,Soutice,25771,,16,0,14408601.0,599387.0
+Neustupov,Neustupov,25785,,63,0,14371022.0,530301.0
+Miličín,Miličín,25786,,235,0,14359723.0,530166.0
+Střezimíř,Střezimíř,25787,,47,0,3081222.0,530701.0
+Červený Újezd,Červený Újezd,25788,,36,0,3082041.0,529532.0
+Heřmaničky,Heřmaničky,25789,,55,0,14329221.0,529702.0
+Smilkov,Smilkov,25790,,3,0,14406501.0,530611.0
+Sedlec-Prčice 1,Sedlec-Prčice,25791,Komenského,65,0,3089924.0,530573.0
+Vlašim,Vlašim,25801,Blanická,1108,0,3109321.0,530883.0
+Votice,Votice,25901,Nerudova,11,0,3117405.0,530905.0
+Příbram 1,Příbram,26101,Gen. R. Tesaříka,179,0,22987835.0,539911.0
+Příbram 2,Příbram,26102,třída Osvobození,305,0,23017074.0,539911.0
+Stará Huť,Stará Huť,26202,Karla Čapka,451.0,0,22965327.0,541338.0
+Nový Knín,Nový Knín,26203,náměstí Jiřího z Poděbrad,2.0,0,22925074.0,540901.0
+Nová Ves pod Pleší,Nová Ves pod Pleší,26204,Masarykova třída,125.0,0,22918701.0,540889.0
+Velká Lečice,Velká Lečice,26205,,85.0,0,22974733.0,513539.0
+Rosovice,Rosovice,26211,,60.0,0,16420942.0,541206.0
+Obořiště,Obořiště,26212,,45.0,0,22934138.0,540951.0
+Nečín,Nečín,26213,,3.0,0,22910000.0,540811.0
+Hřiměždice,Hřiměždice,26214,,46.0,0,22862846.0,540285.0
+Borotice,Borotice,26215,,31.0,0,12897647.0,539970.0
+Obecnice,Obecnice,26221,,159.0,0,17274974.0,540935.0
+Hluboš,Hluboš,26222,,3.0,0,16391781.0,540242.0
+Jince,Jince,26223,Slavíkova,4.0,0,22876235.0,540404.0
+Čenkov,Čenkov,26224,,19.0,0,27111911.0,540072.0
+Pičín,Pičín,26225,,154.0,0,22942297.0,541052.0
+Milín,Milín,26231,11. května,27.0,0,16415256.0,540757.0
+Pečice,Pečice,26232,,101.0,0,22936980.0,541028.0
+Solenice,Solenice,26233,,37.0,0,22959602.0,541320.0
+Milešov,Milešov,26234,,73.0,0,17268842.0,540749.0
+Klučenice,Klučenice,26235,,77.0,0,16402057.0,540447.0
+Smolotely,Smolotely,26236,,21.0,0,22958495.0,541311.0
+Bohutín,Bohutín,26241,,131.0,0,12893382.0,539953.0
+Rožmitál pod Třemšínem,Rožmitál pod Třemšínem,26242,Náměstí,24.0,0,23024348.0,541231.0
+Věšín,Věšín,26243,,3.0,0,16432061.0,541508.0
+Hvožďany,Hvožďany,26244,,16.0,0,16394542.0,540315.0
+Dublovice,Dublovice,26251,,33.0,0,22856854.0,540218.0
+Vysoký Chlumec,Vysoký Chlumec,26252,,14.0,0,16439694.0,541591.0
+Počepice,Počepice,26253,,60.0,0,22944672.0,541087.0
+Nechvalice,Nechvalice,26254,,62.0,0,22916121.0,540846.0
+Petrovice u Sedlčan,Petrovice,26255,,64.0,0,22938788.0,541044.0
+Krásná Hora nad Vltavou,Krásná Hora nad Vltavou,26256,,26.0,0,22886915.0,540552.0
+Višňová u Příbramě,Višňová,26261,,153.0,0,16436466.0,541516.0
+Dolní Hbity,Dolní Hbity,26262,,55.0,0,22851453.0,540129.0
+Kamýk nad Vltavou,Kamýk nad Vltavou,26263,,182.0,0,16398505.0,540439.0
+Svatý Jan,Svatý Jan,26264,,33.0,0,17282519.0,541397.0
+Třebsko,Třebsko,26271,,36.0,0,22972544.0,541451.0
+Březnice,Březnice,26272,Rožmitálská,21.0,0,17293715.0,540013.0
+Tochovice,Tochovice,26281,,11.0,0,16426789.0,541427.0
+Starosedlský Hrádek,Starosedlský Hrádek,26282,,,0,,
+Chraštice,Chraštice,26283,,2.0,0,22870199.0,540358.0
+Zalužany,Zalužany,26284,,30.0,0,17291682.0,541613.0
+Drahenice,Drahenice,26285,,87.0,0,17256500.0,599298.0
+Kosova Hora,Kosova Hora,26291,,45.0,0,17263247.0,540498.0
+Štětkovice,Štětkovice,26292,,71.0,0,17287201.0,541419.0
+Nalžovice,Nalžovice,26293,,21.0,0,22906231.0,540790.0
+Jesenice,Jesenice,26294,,11.0,0,22875123.0,540391.0
+Dobříš,Dobříš,26301,náměstí Komenského,536.0,0,12922161.0,540111.0
+Sedlčany,Sedlčany,26401,Nádražní,106.0,0,23034254.0,541281.0
+Beroun 1,Beroun,26601,Kostelní,121.0,27,5928401.0,531057.0
+Králův Dvůr u Berouna,Králův Dvůr,26701,Plzeňská,327.0,0,22787313.0,533203.0
+Hudlice,Hudlice,26703,Jungmannova,64.0,0,1574591.0,531227.0
+Nižbor,Nižbor,26705,Křivoklátská,108,0,15465918.0,531596.0
+Hýskov,Hýskov,26706,Na Břasích,206,0,5913721.0,531243.0
+Chyňava,Chyňava,26707,Velká Strana,39,0,1551035.0,531294.0
+Vráž u Berouna,Vráž,26711,Květnová,64,0,1598791.0,531944.0
+Loděnice u Berouna,Loděnice,26712,Husovo náměstí,4,0,24973939.0,531464.0
+Vysoký Újezd,Vysoký Újezd,26716,Tyršova náves,113,0,1591801.0,531961.0
+Mořina,Mořina,26717,,81,0,1515772.0,531545.0
+Karlštejn,Karlštejn,26718,,17,0,5954819.0,531316.0
+Tmaň,Tmaň,26721,Sídliště,50,0,12582549.0,531855.0
+Suchomasty,Suchomasty,26722,,89,0,15474798.0,531782.0
+Lochovice,Lochovice,26723,,349,0,26333139.0,531472.0
+Hostomice pod Brdy,Hostomice,26724,Tyršovo náměstí,248,0,21058610.0,531201.0
+Osov,Osov,26725,,108,0,26123452.0,531642.0
+Všeradice,Všeradice,26726,,122,0,12584908.0,531952.0
+Liteň,Liteň,26727,Nádražní,401,0,22795529.0,531456.0
+Svinaře,Svinaře,26728,Obecní,77,0,22808230.0,531812.0
+Zadní Třebaň,Zadní Třebaň,26729,Na Návsi,4,0,8505438.0,531979.0
+Kublov,Kublov,26741,,136,0,1606590.0,531375.0
+Broumy,Broumy,26742,U radnice,73,0,1608606.0,531081.0
+Bzová u Hořovic,Bzová,26743,,52,0,1541340.0,531120.0
+Zdice,Zdice,26751,Husova,953,0,22820523.0,532011.0
+Žebrák,Žebrák,26753,Náměstí,14,0,5918936.0,532029.0
+Praskolesy,Praskolesy,26754,,130,0,21064903.0,531693.0
+Cerhovice,Cerhovice,26761,náměstí Kapitána Kučery,72,0,1507079.0,531138.0
+Komárov u Hořovic,Komárov,26762,náměstí Otty z Losu,15,0,26781875.0,531324.0
+Zaječov,Zaječov,26763,,236,0,1530518.0,531995.0
+Olešná u Hořovic,Olešná,26764,,39,0,1594630.0,531626.0
+Hořovice,Hořovice,26801,Pražská,988,35,1640313.0,531189.0
+Rakovník 1,Rakovník,26901,Husovo náměstí,21,0,8640980.0,541656.0
+Kněževes u Rakovníka,Kněževes,27001,Václavské náměstí,124,0,16454529.0,541877.0
+Kolešovice,Kolešovice,27002,,6,0,8545961.0,541893.0
+Hořovičky,Hořovičky,27003,,9,0,16450094.0,541737.0
+Hořesedly,Hořesedly,27004,,80,0,16448740.0,541729.0
+Milostín,Milostín,27005,,38,0,21365008.0,542075.0
+Kounov u Rakovníka,Kounov,27006,,44,0,8549257.0,541907.0
+Mutějovice,Mutějovice,27007,Na Mostě,311,0,28450124.0,542121.0
+Hředle,Hředle,27008,,110,0,8531935.0,541770.0
+Krupá,Krupá,27009,,14,0,8552207.0,541966.0
+Pavlíkov,Pavlíkov,27021,,106,0,16472101.0,544248.0
+Křivoklát,Křivoklát,27023,,142,0,21358451.0,541982.0
+Zbečno,Zbečno,27024,,7,0,8636826.0,542610.0
+Senomaty,Senomaty,27031,Rakovnická,205,0,16477707.0,542377.0
+Oráčov,Oráčov,27032,,134,0,16470796.0,542202.0
+Jesenice u Rakovníka,Jesenice,27033,Plzeňská,420,0,26727765.0,541834.0
+Čistá u Rakovníka,Čistá,27034,náměstí Václavské,166,0,16444256.0,541699.0
+Petrovice u Rakovníka,Petrovice,27035,,14,0,8586039.0,542229.0
+Lubná u Rakovníka,Lubná,27036,,48,0,21362637.0,542032.0
+Slabce,Slabce,27041,,28,0,8610886.0,542415.0
+Skryje u Rakovníka,Skryje,27042,,68,0,8608105.0,542385.0
+Lužná v Čechách,Lužná,27051,Masarykovo náměstí,89,0,8566038.0,542041.0
+Lišany,Lišany,27052,Pražská,306,0,8564850.0,542016.0
+Krušovice,Krušovice,27053,Karlovarská,32,0,8554781.0,541974.0
+Řevničov,Řevničov,27054,Karlovarská,98,0,8601241.0,542351.0
+Pochvalov,Pochvalov,27055,,90,0,8587990.0,542237.0
+Lány,Lány,27061,Křivoklátská,433,0,8560960.0,541991.0
+Rynholec,Rynholec,27062,náměstí 1. máje,55,0,8599602.0,542334.0
+Mšec,Mšec,27064,Tyršovo náměstí,110,0,8576122.0,542105.0
+Srbeč,Srbeč,27065,,16,0,8612536.0,542431.0
+Nové Strašecí,Nové Strašecí,27101,U Školy,119,0,21369739.0,542164.0
+Kladno 1,Kladno,27201,Poštovní náměstí,2357,0,1405161.0,532053.0
+Kladno 4,Kladno,27204,Petrohradská,3112,0,1412388.0,532053.0
+Kladno 8,Kladno,27208,Jerevanská,2671,0,1440501.0,532053.0
+Kamenné Žehrovice,Kamenné Žehrovice,27301,Karlovarská třída,6,0,5976871.0,532452.0
+Tuchlovice,Tuchlovice,27302,U Staré školy,83,0,1480260.0,532983.0
+Stochov,Stochov,27303,Mírové náměstí,264,0,11354968.0,532860.0
+Kačice,Kačice,27304,Masarykova,20,0,1303465.0,532444.0
+Smečno,Smečno,27305,náměstí T. G. Masaryka,12,0,6000355.0,532835.0
+Libušín,Libušín,27306,Hálkova,140,0,14440997.0,532576.0
+Vinařice u Kladna,Vinařice,27307,V. ulice,250,0,1490613.0,533050.0
+Pchery,Pchery,27308,5. května,145,0,1361244.0,532720.0
+Kladno 7,Kladno,27309,28. října,563,0,1456598.0,532053.0
+Hospozín,Hospozín,27322,,176,0,1289543.0,532339.0
+Černuc,Černuc,27323,,17,0,1262386.0,532207.0
+Velvary,Velvary,27324,náměstí Krále Vladislava,219,0,1327208.0,533041.0
+Zvoleněves,Zvoleněves,27325,,274,0,1344404.0,533122.0
+Olovnice,Olovnice,27326,U Rybníka,45,0,5991684.0,532673.0
+Otvovice,Otvovice,27327,,34,0,1366581.0,532681.0
+Zákolany,Zákolany,27328,,55,0,1356143.0,533092.0
+Koleč,Koleč,27329,,103,0,1311000.0,532495.0
+Brandýsek,Brandýsek,27341,Slánská,62,0,1273779.0,532118.0
+Stehelčeves,Stehelčeves,27342,Hlavní,43,0,1295110.0,532851.0
+Buštěhrad,Buštěhrad,27343,Kladenská,271,12,1470931.0,532169.0
+Hřebeč,Hřebeč,27345,Kladenská,1,0,25544811.0,532371.0
+Unhošť,Unhošť,27351,tř. Dr. Beneše,252,0,6013732.0,533017.0
+Hostouň u Prahy,Hostouň,27353,Hájecká,315,0,1292811.0,532347.0
+Lidice,Lidice,27354,10. června 1942,161,0,1298402.0,532584.0
+Velká Dobrá,Velká Dobrá,27361,Karlovarská,15,0,1334361.0,533025.0
+Družec,Družec,27362,Hlavní,42,0,1281828.0,532274.0
+Bratronice,Bratronice,27363,Hlavní,35,0,1276476.0,532142.0
+Doksy u Kladna,Doksy,27364,Sokolská,305,0,1341243.0,532223.0
+Zlonice,Zlonice,27371,Komenského,98,0,6027458.0,533114.0
+Vraný,Vraný,27373,,9,0,1318578.0,533068.0
+Klobuky,Klobuky,27374,9. května,187,0,1259032.0,532461.0
+Třebíz,Třebíz,27375,,57,0,1477561.0,532967.0
+Pozdeň,Pozdeň,27376,,95,0,5996449.0,532762.0
+Řisuty,Řisuty,27378,,84,0,1348825.0,532797.0
+Tuřany u Slaného,Tuřany,27379,,10,0,5963893.0,532177.0
+Slaný 1,Slaný,27401,Masarykovo náměstí,1004,18,26020149.0,532819.0
+Mělník 1,Mělník,27601,Tyršova,100,12,11659955.0,534676.0
+Dolní Beřkovice,Dolní Beřkovice,27701,,317,0,6124496.0,534765.0
+Horní Počaply,Horní Počaply,27703,,252,0,6131506.0,534790.0
+Cítov,Cítov,27704,,273,0,6120288.0,534731.0
+Spomyšl,Spomyšl,27705,,120,0,2098849.0,535192.0
+Lužec nad Vltavou,Lužec nad Vltavou,27706,9. května,112,0,6168914.0,535028.0
+Vraňany,Vraňany,27707,,211,0,2115972.0,535303.0
+Ledčice,Ledčice,27708,,214,0,6166431.0,534978.0
+Neratovice,Neratovice,27711,Mládežnická,1357,0,6251331.0,535087.0
+Kostelec nad Labem,Kostelec nad Labem,27713,U Pošty,845,0,6152066.0,534935.0
+Dřísy,Dřísy,27714,Poštovní,260,0,6128700.0,534781.0
+Tišice,Tišice,27715,Mělnická,4,0,6207430.0,535222.0
+Všetaty,Všetaty,27716,T. G. Masaryka,308,0,2121921.0,535320.0
+Libiš,Libiš,27717,Mělnická,579,0,25762869.0,571784.0
+Liběchov,Liběchov,27721,Rumburská,40,0,2074516.0,535001.0
+Kokořín,Kokořín,27723,,52,0,6140050.0,534901.0
+Vysoká u Mělníka,Vysoká,27724,,85,0,11657804.0,535338.0
+Velký Borek,Velký Borek,27731,Vrutická,207,0,2104202.0,535265.0
+Byšice,Byšice,27732,Nádražní,19,0,6113800.0,534722.0
+Řepín,Řepín,27733,Hlavní,3,0,6195857.0,535168.0
+Nebužely,Nebužely,27734,,142,0,27564061.0,535061.0
+Mšeno,Mšeno,27735,náměstí Míru,15,0,6174094.0,535052.0
+Lobeč,Lobeč,27736,,22,0,6166946.0,531677.0
+Chorušice,Chorušice,27737,,89,0,2062216.0,534838.0
+Mělnické Vtelno,Mělnické Vtelno,27738,Mělnická,98,0,2089050.0,535044.0
+Kly,Kly,27741,,375,0,27039919.0,534897.0
+Obříství,Obříství,27742,Svatopluka Čecha,18,0,2094614.0,535133.0
+Chlumín,Chlumín,27743,,44,0,2058006.0,534820.0
+Vojkovice u Kralup nad Vltavou,Vojkovice,27744,,110,0,2112680.0,535290.0
+Úžice u Kralup nad Vltavou,Úžice,27745,Hlavní,150,0,6213081.0,535257.0
+Veltrusy,Veltrusy,27746,Palackého,97,0,2105233.0,535273.0
+Nelahozeves,Nelahozeves,27751,Školní,3,0,6183018.0,535079.0
+Nová Ves u Mělníka,Nová Ves,27752,,116,0,2091399.0,535117.0
+Kralupy nad Vltavou 1,Kralupy nad Vltavou,27801,Nerudova,880,9,6227848.0,534951.0
+Kolín 1,Kolín,28001,náměstí Republiky,241,0,21158142.0,533165.0
+Kolín 2,Kolín,28002,Pod Hroby,541,0,21174482.0,533165.0
+Velim,Velim,28101,Palackého,452,0,6099041.0,533831.0
+Cerhenice,Cerhenice,28102,Nádražní,228,0,14450577.0,533246.0
+Radim u Kolína,Radim,28103,,6,0,22833480.0,533629.0
+Plaňany,Plaňany,28104,Pražská,29,0,2454459.0,533581.0
+Vitice,Vitice,28106,,95,0,6105912.0,533866.0
+Svojšice u Kolína,Svojšice,28107,,109,0,6087540.0,533726.0
+Červené Pečky,Červené Pečky,28121,Dr. Dvořáka,38,0,2511673.0,533262.0
+Starý Kolín,Starý Kolín,28123,Náměstí,117,0,2421593.0,533700.0
+Konárovice,Konárovice,28125,Na Rynku,11,0,2458811.0,533394.0
+Týnec nad Labem,Týnec nad Labem,28126,Masarykovo náměstí,87,0,2498804.0,533807.0
+Krakovany v Čechách,Krakovany,28127,,206,0,2435349.0,533441.0
+Radovesnice,Radovesnice II,28128,,215,0,42773539.0,533645.0
+Žiželice nad Cidlinou,Žiželice,28129,Masarykovo náměstí,25,0,2428849.0,533947.0
+Ohaře,Ohaře,28130,,34,0,22832203.0,533556.0
+Ratboř,Ratboř,28141,Komenského,21,0,2412446.0,533653.0
+Bečváry,Bečváry,28143,,25,0,22826092.0,533181.0
+Zásmuky,Zásmuky,28144,Komenského náměstí,134,0,21150338.0,533921.0
+Horní Kruty,Horní Kruty,28146,,54,0,21087377.0,533327.0
+Velký Osek,Velký Osek,28151,9. května,120,0,2488299.0,533840.0
+Kouřim,Kouřim,28161,Mírové náměstí,145,0,6065511.0,533424.0
+Oleška u Českého Brodu,Oleška,28162,,1,0,6078974.0,533564.0
+Kostelec nad Černými Lesy,Kostelec nad Černými lesy,28163,Pražská,455,0,6056687.0,533416.0
+Jevany,Jevany,28166,Náměstí,10,0,21088438.0,533378.0
+Stříbrná Skalice,Stříbrná Skalice,28167,K radnici,20,0,21125821.0,533718.0
+Rostoklaty,Rostoklaty,28171,,4,0,6083471.0,533661.0
+Český Brod,Český Brod,28201,náměstí Arnošta z Pardubic,45,0,14479290.0,533271.0
+Kutná Hora 1,Kutná Hora,28401,Masarykova,148,0,11420987.0,533955.0
+Miskovice,Miskovice,28501,,26,0,11463970.0,534200.0
+Suchdol,Suchdol,28502,,66,0,11533951.0,534439.0
+Uhlířské Janovice,Uhlířské Janovice,28504,Komenského,400,0,11546832.0,534498.0
+Sázava,Sázava,28506,náměstí Voskovce a Wericha,356,0,11521023.0,534382.0
+Rataje nad Sázavou,Rataje nad Sázavou,28507,Zámecká,1,0,11495758.0,534358.0
+Kácov,Kácov,28509,,14,0,11404426.0,534129.0
+Čestín,Čestín,28510,,28,0,11386037.0,534030.0
+Nepoměřice,Nepoměřice,28511,,56,0,11468009.0,534226.0
+Zbraslavice,Zbraslavice,28521,,225,0,11588608.0,534617.0
+Zruč nad Sázavou 1,Zruč nad Sázavou,28522,Tomáše Bati,1012,0,11651377.0,534633.0
+Vlastějovice,Vlastějovice,28523,,4,0,11565306.0,534561.0
+Bohdaneč,Bohdaneč,28525,,97,0,11367474.0,533980.0
+Nové Dvory u Kutné Hory,Nové Dvory,28531,Masarykovo náměstí,11,0,11470283.0,534242.0
+Hlízov,Hlízov,28532,,163,0,11470097.0,531197.0
+Církvice u Kutné Hory,Církvice,28533,,6,0,11369108.0,533998.0
+Malešov,Malešov,28541,,45,0,11453346.0,534188.0
+Červené Janovice,Červené Janovice,28542,,102,0,11380586.0,534021.0
+Paběnice,Paběnice,28543,,16,0,11482117.0,531278.0
+Kluky u Kutné Hory,Kluky,28545,,100,0,11411155.0,534137.0
+Úmonín,Úmonín,28546,,31,0,11553316.0,534501.0
+Křesetice,Křesetice,28547,,148,0,11419229.0,534161.0
+Žleby,Žleby,28561,Zámecké náměstí,4,0,11606487.0,534668.0
+Hostovlice u Čáslavě,Hostovlice,28562,,25,0,11394943.0,534064.0
+Tupadly,Tupadly,28563,,82,0,11541466.0,534480.0
+Vlkaneč,Vlkaneč,28564,,44,0,11569603.0,534579.0
+Zbýšov v Čechách,Zbýšov,28565,,72,0,11596881.0,534625.0
+Vrdy,Vrdy,28571,Školská,106,0,11574933.0,534587.0
+Bílé Podolí,Bílé Podolí,28572,,14,0,11360470.0,533971.0
+Horušice,Horušice,28573,,23,0,11602091.0,531481.0
+Záboří nad Labem,Záboří nad Labem,28574,Školní,164,0,11581603.0,534595.0
+Žehušice,Žehušice,28575,V Chaloupkách,123,0,11604751.0,534650.0
+Chotusice,Chotusice,28576,,61,0,25453289.0,534102.0
+Čáslav,Čáslav,28601,Masarykova,204,44,11622989.0,534005.0
+Nymburk 1,Nymburk,28801,Náměstí Přemyslovců,127,5,1214012.0,537004.0
+Dymokury,Dymokury,28901,Revoluční,97,0,18217401.0,537128.0
+Kněžice u Městce Králové,Kněžice,28902,,191,0,1131061.0,537292.0
+Městec Králové,Městec Králové,28903,T. G. Masaryka,638,0,20823347.0,537489.0
+Opočnice,Opočnice,28904,,80,0,1164996.0,537578.0
+Žehuň,Žehuň,28905,,11,0,18294171.0,538035.0
+Sány,Sány,28906,9. května,209,0,1188721.0,537772.0
+Libice nad Cidlinou,Libice nad Cidlinou,28907,Husova,4,0,1153692.0,537438.0
+Běrunice,Běrunice,28908,Hlavní,136,0,1090721.0,537021.0
+Pečky,Pečky,28911,Masarykovo náměstí,38,0,2462958.0,537641.0
+Sadská,Sadská,28912,Pražská,534,0,1241222.0,537764.0
+Poříčany,Poříčany,28914,Nádražní,90,0,2516578.0,537705.0
+Kounice,Kounice,28915,,663,0,82241023.0,537357.0
+Přerov nad Labem,Přerov nad Labem,28916,,300,0,1185918.0,537721.0
+Semice,Semice,28917,,228,0,18274315.0,537781.0
+Kostomlaty nad Labem,Kostomlaty nad Labem,28921,K Nádraží,403,0,18237576.0,537331.0
+Lysá nad Labem,Lysá nad Labem,28922,Sokolská,40,1,18298303.0,537454.0
+Milovice nad Labem 1,Milovice,28923,Poštovní,156,9,18260390.0,537501.0
+Milovice nad Labem 3,Milovice,28924,Lesní,624,0,25268538.0,537501.0
+Straky,Straky,28925,,215,0,1198599.0,537853.0
+Stará Lysá,Stará Lysá,28926,,56,0,1194275.0,537837.0
+Bobnice,Bobnice,28931,Průběžná,31,0,1093983.0,537039.0
+Oskořínek,Oskořínek,28932,Novodvorská,100,0,1209884.0,537616.0
+Křinec,Křinec,28933,Náměstí,33,0,1147927.0,537411.0
+Rožďalovice,Rožďalovice,28934,Náměstí,257,0,1253875.0,537756.0
+Košík,Košík,28935,,25,0,1137441.0,537349.0
+Mcely,Mcely,28936,,51,0,1159011.0,537462.0
+Loučeň,Loučeň,28937,Za Poštou,97,0,18244301.0,537446.0
+Pňov,Pňov-Předhradí,28941,Husova,37,0,1181211.0,537675.0
+Poděbrady 1,Poděbrady,29001,Jiráskova,740,6,18321984.0,537683.0
+Sokoleč,Sokoleč,29008,Kolínská,424,0,80915973.0,537811.0
+Mladá Boleslav 1,Mladá Boleslav,29301,Komenského náměstí,95,4,21241864.0,535419.0
+Mladá Boleslav 3,Mladá Boleslav,29303,tř. Václava Klementa,822,0,21248931.0,535419.0
+Kosmonosy,Kosmonosy,29306,Debřská,223,1,15569608.0,570826.0
+Josefův Důl u Mladé Boleslavě,Josefův Důl,29307,,7,0,15527221.0,529613.0
+Bakov nad Jizerou,Bakov nad Jizerou,29401,Boleslavská,3,0,21269157.0,535427.0
+Kněžmost,Kněžmost,29402,Na Rynku,51,0,12602914.0,536041.0
+Obruby,Obruby,29403,,15,0,21222398.0,536407.0
+Dolní Bousov,Dolní Bousov,29404,náměstí T. G. Masaryka,122,0,15508366.0,535702.0
+Dlouhá Lhota u Mladé Boleslavě,Dlouhá Lhota,29405,,29,0,78423015.0,535656.0
+Březno u Mladé Boleslavě,Březno,29406,,50,0,12592099.0,535583.0
+Loukov u Mnichova Hradiště,Loukov,29411,,56,0,2549671.0,570770.0
+Žďár u Mnichova Hradiště,Žďár,29412,,20,0,15550664.0,536971.0
+Mohelnice nad Jizerou,Mohelnice nad Jizerou,29413,,38,0,21204250.0,565822.0
+Jivina u Mnichova Hradiště,Jivina,29414,,46,0,15524485.0,535974.0
+Klášter Hradiště nad Jizerou,Klášter Hradiště nad Jizerou,29415,,96,0,2539471.0,536024.0
+Dolní Krupá,Dolní Krupá,29416,,55,0,2528592.0,535711.0
+Bělá pod Bezdězem,Bělá pod Bezdězem,29421,Masarykovo náměstí,25,0,18857264.0,535443.0
+Čistá,Čistá,29423,,195,0,12596175.0,535630.0
+Březovice u Mladé Boleslavě,Březovice,29424,,84,0,2524236.0,599514.0
+Katusice,Katusice,29425,náměstí Budovatelů,4,0,2535939.0,536008.0
+Skalsko,Skalsko,29426,,89,0,2564491.0,536636.0
+Velké Všelisy,Velké Všelisy,29427,,81,0,12626678.0,536857.0
+Chotětov,Chotětov,29428,Husovo náměstí,31,0,12599450.0,535931.0
+Bezno,Bezno,29429,Boleslavská,154,0,15489370.0,535478.0
+Dolní Cetno,Niměřice,29430,,18,0,2554577.0,571121.0
+Krnsko,Krnsko,29431,,63,0,21294313.0,536172.0
+Dobrovice,Dobrovice,29441,Palackého náměstí,23,0,15501230.0,535672.0
+Luštěnice,Luštěnice,29442,Pod Humny,7,0,21207381.0,536270.0
+Čachovice u Mladé Boleslavě,Čachovice,29443,6. května,74,0,21192529.0,535621.0
+Jabkenice,Jabkenice,29445,,136,0,2534720.0,535966.0
+Semčice,Semčice,29446,,41,0,2562456.0,536610.0
+Ledce u Mladé Boleslavi,Ledce,29447,,110,0,15530981.0,536202.0
+Domousnice,Domousnice,29448,,19,0,2531461.0,535745.0
+Benátky nad Jizerou 1,Benátky nad Jizerou,29471,Husovo náměstí,41,34,21280690.0,535451.0
+Brodce nad Jizerou,Brodce,29473,Dobrovická,58,0,15496457.0,535559.0
+Předměřice nad Jizerou,Předměřice nad Jizerou,29474,,132,0,2558955.0,536491.0
+Sojovice,Sojovice,29475,,33,0,2571960.0,536661.0
+Kostelní Hlavno,Kostelní Hlavno,29476,,136,0,12610976.0,536130.0
+Mečeříž,Mečeříž,29477,,50,0,2550598.0,565644.0
+Dolní Slivno,Dolní Slivno,29478,,42,0,2529394.0,535729.0
+Kropáčova Vrutice,Kropáčova Vrutice,29479,,30,0,2548631.0,536181.0
+Mnichovo Hradiště,Mnichovo Hradiště,29501,Masarykovo náměstí,239,0,15555186.0,536326.0
+Plzeň 1,Plzeň,30100,Solní,260,20,40805379.0,554791.0
+Plzeň 8,Plzeň,30800,Habrmannova,2260,33,24520012.0,554791.0
+Plzeň 9,Plzeň,30900,Písecká,972,1,25937014.0,554791.0
+Plzeň 12,Plzeň,31200,Masarykova,912,93,24582484.0,554791.0
+Plzeň 14,Plzeň,31400,Prostřední,161,48,24457256.0,554791.0
+Božkov,Plzeň,31500,Sušická,148,29,24438987.0,554791.0
+Plzeň 16,Plzeň,31600,Skupova,490,24,24527033.0,554791.0
+Plzeň 18,Plzeň,31800,Macháčkova,926,22,24564966.0,554791.0
+Plzeň 20,Plzeň,32000,Klatovská třída,2524,127,24555061.0,554791.0
+Plzeň 21,Plzeň,32100,Klatovská,96,243,24592862.0,554791.0
+Plzeň 22,Plzeň,32200,Průkopníků,465,2a,24413364.0,554791.0
+Plzeň 23,Plzeň,32300,alej Svobody,1274,21,26089122.0,554791.0
+Plzeň 25,Plzeň,32500,Družstevníků,9,2,24473171.0,554791.0
+Plzeň 28,Plzeň,32800,Rokycanská,1385,130,25251899.0,554791.0
+Plzeň 29,Plzeň,32900,Chotíkovská,72,14,660779.0,554791.0
+Kyšice,Kyšice,33001,Horní Náves,136,0,647322.0,559130.0
+Dýšina,Dýšina,33002,Náměstí Míru,30,0,581836.0,558851.0
+Chrást u Plzně,Chrást,33003,tř. Čs. odboje,29,0,609463.0,558966.0
+Hromnice,Hromnice,33004,,16,0,599387.0,558915.0
+Dobříč,Dobříč,33005,,100,0,574261.0,558770.0
+Druztová,Druztová,33007,,1,0,577910.0,558834.0
+Zruč-Senec,Zruč-Senec,33008,Plzeňská,100,0,9064036.0,559679.0
+Třemošná,Třemošná,33011,Plzeňská,1045,0,28414578.0,559521.0
+Horní Bříza,Horní Bříza,33012,Třída 1. máje,708,0,28363949.0,558885.0
+Trnová,Trnová,33013,,9,0,742210.0,559504.0
+Ledce,Ledce,33014,,268,0,651559.0,559148.0
+Všeruby u Plzně,Všeruby,33016,,2,0,730076.0,559628.0
+Chotíkov,Chotíkov,33017,,118,0,607118.0,558940.0
+Líně,Líně,33021,Plzeňská,145,0,657310.0,559164.0
+Zbůch,Zbůch,33022,Náměstí,205,0,25813781.0,559661.0
+Nýřany,Nýřany,33023,Antonína Uxy,520,0,555444.0,559300.0
+Heřmanova Huť,Heřmanova Huť,33024,Revoluční,37,0,9029010.0,558869.0
+Blatnice u Plzně,Blatnice,33025,,45,0,566250.0,558672.0
+Tlučná,Tlučná,33026,Hlavní,128,0,736821.0,559491.0
+Vejprnice,Vejprnice,33027,Tylova,95,0,759414.0,559580.0
+Kozolupy,Kozolupy,33032,,261,0,627941.0,559059.0
+Město Touškov,Město Touškov,33033,Čemínská,26,0,669491.0,559211.0
+Úlice,Úlice,33034,,101,0,9061061.0,559555.0
+Líšťany,Líšťany,33035,,86,0,9047506.0,559172.0
+Pernarec,Pernarec,33036,,134,0,688070.0,559334.0
+Úněšov,Úněšov,33038,,76,0,728161.0,559563.0
+Krsy,Krsy,33039,,51,0,9042920.0,559091.0
+Úterý,Úterý,33040,,1,0,12063061.0,559571.0
+Bezvěrov,Bezvěrov,33041,,80,0,562874.0,558656.0
+Plasy,Plasy,33101,Plzeňská,516,0,697974.0,559351.0
+Kralovice,Kralovice,33141,Masarykovo náměstí,93,0,637211.0,559075.0
+Kozojedy,Kozojedy,33142,,100,0,9041052.0,559041.0
+Chříč,Chříč,33143,,26,0,616885.0,558974.0
+Kožlany,Kožlany,33144,Pražská,38,0,629979.0,559067.0
+Kaznějov,Kaznějov,33151,Poštovní,424,0,622958.0,559008.0
+Dolní Bělá,Dolní Bělá,33152,,112,0,575569.0,558796.0
+Hvozd u Plas,Hvozd,33153,,65,0,606081.0,558931.0
+Mladotice,Mladotice,33161,,14,0,674371.0,559237.0
+Manětín,Manětín,33162,,150,0,663824.0,559202.0
+Nečtiny,Nečtiny,33163,,188,0,9053221.0,559261.0
+Žihle,Žihle,33165,,226,0,720089.0,559695.0
+Tymákov,Tymákov,33201,,40,0,1066536.0,558460.0
+Starý Plzenec,Starý Plzenec,33202,Baslova,1081,0,1086961.0,558371.0
+Šťáhlavy,Šťáhlavy,33203,Dr. Holuba,44,0,971154.0,558427.0
+Nezvěstice,Nezvěstice,33204,,277,0,7046171.0,558141.0
+Chválenice,Chválenice,33205,,24,0,893609.0,557846.0
+Štěnovice,Štěnovice,33209,Čižická,133,0,985261.0,558435.0
+Hradec u Stoda,Hradec,33211,,52,0,907944.0,557731.0
+Chotěšov,Chotěšov,33214,Čapkova,219,0,1034618.0,557838.0
+Stod,Stod,33301,Stříbrská,80,0,954021.0,558389.0
+Mobilní pošta 31,Opava,33333,Partyzánská,1521,7,24370428.0,505927.0
+Přeštice,Přeštice,33401,Masarykovo náměstí,321,0,7066759.0,558249.0
+Dobřany,Dobřany,33441,Náměstí T. G. M.,2,0,1052543.0,557676.0
+Chlumčany u Přeštic,Chlumčany,33442,Nové Sídliště,363,0,1017209.0,557781.0
+Dnešice,Dnešice,33443,,29,0,7024649.0,557668.0
+Dolní Lukavice,Dolní Lukavice,33444,,142,0,12059340.0,557684.0
+Řenče,Řenče,33445,,54,0,1070452.0,558303.0
+Merklín u Přeštic,Merklín,33452,U Zámku,253,0,904040.0,558044.0
+Horšice,Horšice,33455,,7,0,964832.0,557722.0
+Nepomuk 1,Nepomuk,33501,Plzeňská,162,0,926566.0,558109.0
+Nepomuk 3,Nepomuk,33503,Blatenská,135,0,923338.0,558109.0
+Vrčeň,Vrčeň,33541,,1,0,942600.0,558559.0
+Dožice,Mladý Smolivec,33543,,74,0,1000322.0,558061.0
+Kasejovice,Kasejovice,33544,,184,0,1028324.0,557862.0
+Oselce,Oselce,33546,,82,0,991783.0,558184.0
+Nekvasovy,Nekvasovy,33547,,102,0,964506.0,558095.0
+Měcholupy u Blovic,Měcholupy,33551,,76,0,913456.0,539716.0
+Žinkovy,Žinkovy,33554,,84,0,7061595.0,558630.0
+Neurazy,Neurazy,33555,,61.0,0,1008714.0,558125.0
+Spálené Poříčí,Spálené Poříčí,33561,Náměstí Svobody,40.0,0,1044818.0,558362.0
+Nové Mitrovice,Nové Mitrovice,33563,,136.0,0,26602156.0,558176.0
+Čížkov u Blovic,Čížkov,33564,,30.0,0,936162.0,557650.0
+Blovice,Blovice,33601,Jirotova,,0,,
+Rokycany 1,Rokycany,33701,Jiráskova,247.0,0,26861283.0,559717.0
+Holoubkov,Holoubkov,33801,,48.0,0,12991368.0,559814.0
+Mýto v Čechách,Mýto,33805,Náměstí,109.0,0,7129254.0,560014.0
+Cheznovice,Cheznovice,33806,,241.0,0,7110138.0,559857.0
+Kařez,Kařez,33807,,28.0,0,7115776.0,559903.0
+Zbiroh,Zbiroh,33808,Československé armády,535.0,0,7176597.0,560260.0
+Terešov,Terešov,33810,,108.0,0,13009311.0,566802.0
+Mlečice,Mlečice,33811,,11.0,0,7125755.0,560006.0
+Zvíkovec,Zvíkovec,33813,,17.0,0,7179081.0,541061.0
+Osek u Rokycan,Osek,33821,,18.0,0,13001451.0,560057.0
+Volduchy,Volduchy,33822,,92.0,0,13010972.0,560251.0
+Břasy 1,Břasy,33824,,18.0,0,7082436.0,559725.0
+Újezd u Svatého Kříže,Újezd u Svatého Kříže,33826,,27.0,0,13005227.0,546551.0
+Hlohovice,Hlohovice,33827,,45.0,0,7099207.0,559806.0
+Radnice u Rokycan,Radnice,33828,Plzeňská,49.0,0,7149158.0,560120.0
+Klabava,Klabava,33841,,17.0,0,7118520.0,559911.0
+Hrádek u Rokycan,Hrádek,33842,1. máje,174.0,0,7107129.0,559822.0
+Mirošov 1,Mirošov,33843,Skořická,83.0,0,24335487.0,559997.0
+Dobřív,Dobřív,33844,,305.0,0,7095066.0,559776.0
+Strašice,Strašice,33845,,566.0,0,7162472.0,560162.0
+Mirošov 2,Mirošov,33847,Skořická,314.0,0,24337790.0,559997.0
+Klatovy 1,Klatovy,33901,Nádražní,89.0,0,21488983.0,555771.0
+Běšiny,Běšiny,34001,,150.0,0,6905838.0,555797.0
+Železná Ruda,Železná Ruda,34004,1. máje,124.0,0,12054615.0,557528.0
+Švihov,Švihov,34012,náměstí Dr. E. Beneše,38.0,0,21452717.0,557200.0
+Chudenice,Chudenice,34014,Mírové náměstí,246.0,0,6936300.0,556378.0
+Poleň,Poleň,34015,,47.0,0,2848473.0,541788.0
+Dolany u Klatov,Dolany,34016,,188.0,0,73828424.0,556106.0
+Janovice nad Úhlavou,Janovice nad Úhlavou,34021,Sídliště,297.0,0,21415382.0,556394.0
+Nýrsko,Nýrsko,34022,Rybářská,129.0,0,30843766.0,556831.0
+Dešenice,Dešenice,34023,,153.0,0,2841410.0,556041.0
+Strážov na Šumavě,Strážov,34024,,1.0,0,21445907.0,557137.0
+Mochtín,Mochtín,34032,,16.0,0,6959482.0,556718.0
+Číhaň,Číhaň,34033,,26.0,0,2876451.0,542024.0
+Plánice,Plánice,34034,Náměstí,167.0,0,6980899.0,556955.0
+Měčín,Měčín,34037,Farní,43.0,0,6954278.0,556637.0
+Předslav,Předslav,34038,,124.0,0,81110120.0,557005.0
+Dlažov,Dlažov,34042,,17.0,0,21404372.0,556068.0
+Horažďovice,Horažďovice,34101,Mírové náměstí,3.0,0,2883546.0,556254.0
+Hrádek,Hrádek,34141,,85.0,0,6927980.0,556301.0
+Kolinec,Kolinec,34142,,55.0,0,2852918.0,556467.0
+Velký Bor,Velký Bor,34151,,103.0,0,2875187.0,557382.0
+Chanovice,Chanovice,34152,,36.0,0,6931570.0,556335.0
+Pačejov,Pačejov,34153,,199.0,0,6977090.0,556912.0
+Myslív,Myslív,34154,,30.0,0,75894203.0,556734.0
+Rabí,Rabí,34161,,15,0,2878445.0,557013.0
+Žichovice,Žichovice,34162,,190,0,7001380.0,557544.0
+Žihobce,Žihobce,34163,,73,0,2845814.0,557536.0
+Nezdice na Šumavě,Nezdice na Šumavě,34164,,173,0,21432481.0,556815.0
+Strašín u Sušice,Strašín,34165,,16,0,21442622.0,557129.0
+Soběšice u Sušice,Soběšice,34166,,125,0,2867559.0,557099.0
+Hradešice,Hradešice,34172,,81,0,2839059.0,556319.0
+Nalžovské Hory,Nalžovské Hory,34173,,96,0,21508143.0,556751.0
+Zavlekov,Zavlekov,34174,,56,0,21472769.0,557463.0
+Hartmanice,Hartmanice,34181,,128,0,21408262.0,556181.0
+Petrovice u Sušice,Petrovice u Sušice,34182,,5,0,21437360.0,556921.0
+Velhartice,Velhartice,34183,,63,0,2862603.0,557366.0
+Dlouhá Ves u Sušice,Dlouhá Ves,34191,,155,0,6921311.0,556076.0
+Kašperské Hory,Kašperské Hory,34192,Dlouhá,94,0,6941541.0,556432.0
+Rejštejn,Rejštejn,34193,Kašperskohorská,27,0,21439273.0,557021.0
+Srní,Srní,34194,,113,0,21441154.0,557111.0
+Prášily,Prášily,34195,,110,0,2846993.0,556084.0
+Sušice 1,Sušice,34201,Havlíčkova,16,0,7003331.0,557153.0
+Sušice 2,Sušice,34202,Nádražní,223,0,7007566.0,557153.0
+Domažlice 1,Domažlice,34401,Msgre. B. Staška,71,0,6753281.0,553425.0
+Mrákov,Mrákov,34501,,105,0,6829619.0,553981.0
+Kout na Šumavě,Kout na Šumavě,34502,,1,0,6809944.0,553824.0
+Kdyně,Kdyně,34506,Náměstí,139,0,6793100.0,553786.0
+Všeruby u Kdyně,Všeruby,34507,,77,0,6882323.0,554456.0
+Pocinovice,Pocinovice,34509,,72,0,6847650.0,554120.0
+Úsilov,Úsilov,34511,,33,0,6878610.0,554405.0
+Úboč,Úboč,34512,,60,0,6874983.0,566161.0
+Draženov,Draženov,34520,,70,0,6758223.0,553581.0
+Meclov,Meclov,34521,,90,0,6821511.0,553913.0
+Poběžovice,Poběžovice,34522,náměstí Míru,67,0,6843778.0,554111.0
+Hostouň u Horšovského Týna,Hostouň,34525,Chodské náměstí,12,0,6779484.0,553689.0
+Bělá nad Radbuzou,Bělá nad Radbuzou,34526,Náměstí,200,0,6733905.0,553441.0
+Babylon,Babylon,34531,,27,0,6730566.0,553433.0
+Česká Kubice,Česká Kubice,34532,,121,0,6748473.0,553549.0
+Trhanov,Trhanov,34533,,63,0,6872522.0,554359.0
+Klenčí pod Čerchovem,Klenčí pod Čerchovem,34534,,118,0,6801901.0,553794.0
+Postřekov,Postřekov,34535,,270,0,6852734.0,554138.0
+Nemanice,Nemanice,34536,,84,0,6832091.0,554006.0
+Koloveč,Koloveč,34543,Domažlická,7,0,6806007.0,553816.0
+Osvračín,Osvračín,34544,,66,0,6839584.0,554073.0
+Blížejov,Blížejov,34545,Poštovní,81,0,6737323.0,553450.0
+Milavče,Milavče,34546,,9,0,6824056.0,553948.0
+Zahořany,Zahořany,34547,,7,0,6882994.0,554464.0
+Staňkov,Staňkov,34561,Plzeňská,377,0,26203383.0,554294.0
+Holýšov,Holýšov,34562,třída 1. máje,265,0,6764827.0,553654.0
+Horšovský Týn,Horšovský Týn,34601,Pivovarská,219,0,6773729.0,553671.0
+Tachov 1,Tachov,34701,Hornická,1596,0,15707563.0,560715.0
+Staré Sedliště,Staré Sedliště,34801,,359,0,15665640.0,561185.0
+Bor u Tachova,Bor,34802,náměstí Republiky,110,0,15592456.0,560758.0
+Staré Sedlo u Tachova,Staré Sedlo,34804,,60,0,15667618.0,561193.0
+Stráž,Stráž,34805,,21,0,15668118.0,561207.0
+Přimda,Přimda,34806,Borská,232,0,15661971.0,561151.0
+Rozvadov,Rozvadov,34807,,230,0,20810105.0,561169.0
+Třemešné pod Přimdou,Třemešné,34808,,16,0,20810296.0,561304.0
+Chodová Planá,Chodová Planá,34813,Pohraniční stráže,129,0,15622771.0,560901.0
+Planá u Mariánských Lázní,Planá,34815,náměstí Svobody,58,0,15651151.0,561134.0
+Halže,Halže,34816,U Parku,210,0,15616517.0,560863.0
+Stříbro,Stříbro,34901,28. října,217,0,15715361.0,561215.0
+Cebiv,Cebiv,34951,,91,0,15600815.0,560782.0
+Konstantinovy Lázně,Konstantinovy Lázně,34952,Plzeňská,87,0,20803389.0,560952.0
+Bezdružice,Bezdružice,34953,ČSA,180,0,15589510.0,560740.0
+Lestkov,Lestkov,34954,,210,0,15640931.0,561011.0
+Svojšín,Svojšín,34956,,135,0,15675912.0,561258.0
+Ošelín,Ošelín,34957,,36,0,41350871.0,541681.0
+Černošín,Černošín,34958,Zahradní,86,0,15603920.0,560812.0
+Kladruby u Stříbra,Kladruby,34961,Stříbrská,239,0,15629236.0,560928.0
+Kostelec u Stříbra,Kostelec,34962,,91,0,15634477.0,503916.0
+Trpísty,Trpísty,34972,,18,0,15683184.0,561291.0
+Cheb 1,Cheb,35001,Šlikova,2423,15,31011811.0,554481.0
+Cheb 2,Cheb,35002,Riegerova,1302,60,20905106.0,554481.0
+Františkovy Lázně,Františkovy Lázně,35101,Lidická,445,8,26065223.0,554529.0
+Nebanice,Nebanice,35112,,7,0,3831451.0,554693.0
+Krásná,Krásná,35122,,196,0,3828336.0,538795.0
+Podhradí,Podhradí,35123,,319,0,20861737.0,538817.0
+Hranice u Aše,Hranice,35124,U pošty,760,0,3806294.0,554553.0
+Libá,Libá,35131,,220,0,11845112.0,554618.0
+Hazlov,Hazlov,35132,,323,0,11840404.0,554545.0
+Vojtanov,Vojtanov,35133,Nádražní čtvrť,72,0,11854758.0,539074.0
+Skalná,Skalná,35134,Česká,430,0,3815617.0,554812.0
+Plesná u Chebu,Plesná,35135,5. května,301,0,3824543.0,554740.0
+Nový Kostel,Nový Kostel,35136,,27,0,20875371.0,554707.0
+Luby u Chebu,Luby,35137,Revoluční,510,0,12979881.0,554634.0
+Aš 1,Aš,35201,Poštovní náměstí,911,0,11857056.0,554499.0
+Mariánské Lázně 1,Mariánské Lázně,35301,Poštovní,160,17,20926961.0,554642.0
+Velká Hleďsebe,Velká Hleďsebe,35471,Pohraniční stráže,105,0,3841146.0,539279.0
+Drmoul,Drmoul,35472,Plzeňská,237,0,17709822.0,554511.0
+Tři Sekery,Tři Sekery,35473,,82,0,11881844.0,554880.0
+Mnichov,Mnichov,35483,,1,0,3817067.0,554677.0
+Lázně Kynžvart,Lázně Kynžvart,35491,5. května,268,0,20865261.0,554600.0
+Dolní Žandov,Dolní Žandov,35493,,273,0,3819973.0,554502.0
+Sokolov 1,Sokolov,35601,Karla Havlíčka Borovského,1420,0,20795912.0,560286.0
+Dolní Rychnov,Dolní Rychnov,35604,Dobrovského,173,0,20946767.0,538591.0
+Rotava 1,Rotava,35701,Sídliště,648,0,24606545.0,560600.0
+Rotava 2,Rotava,35702,Kraslická,284,0,24604046.0,560600.0
+Svatava,Svatava,35703,ČSA,228,0,20955189.0,538434.0
+Lomnice,Lomnice,35704,Kraslická,124,0,2611007.0,560545.0
+Jindřichovice v Krušných horách,Jindřichovice,35705,,170,0,2621703.0,560413.0
+Šindelová,Šindelová,35706,,117,0,20958757.0,560677.0
+Oloví,Oloví,35707,ČSA,286,0,20944179.0,560588.0
+Krajková,Krajková,35708,,295,0,20939299.0,560456.0
+Habartov,Habartov,35709,náměstí Přátelství,112,0,2614111.0,560359.0
+Stříbrná,Stříbrná,35721,,75E,0,20952074.0,560651.0
+Bublava,Bublava,35722,,686,0,20932111.0,560308.0
+Horní Slavkov,Horní Slavkov,35731,Nová,600,0,28371551.0,560367.0
+Loket,Loket,35733,T. G. Masaryka,99,39,2583640.0,560537.0
+Nové Sedlo u Lokte,Nové Sedlo,35734,Masarykova,520,0,2604752.0,560570.0
+Chodov u Karlových Var 1,Chodov,35735,Husova,786,0,20967616.0,560383.0
+Královské Poříčí,Královské Poříčí,35741,Lázeňská,159,0,20941277.0,560464.0
+Vřesová u Sokolova,Vřesová,35743,,3,0,2624176.0,560707.0
+Vintířov u Sokolova,Vintířov,35744,,72,0,20960000.0,560685.0
+Staré Sedlo u Sokolova,Staré Sedlo,35746,Sokolovská,195,0,14858614.0,560642.0
+Krásno nad Teplou,Krásno,35747,Radniční,1,0,2589591.0,538337.0
+Kynšperk nad Ohří,Kynšperk nad Ohří,35751,Dlouhá,82,2,14848511.0,560499.0
+Libavské Údolí,Libavské Údolí,35753,,111,0,20942427.0,560502.0
+Chlum Svaté Maří,Chlum Svaté Maří,35754,náměstí J. W. Goetheho,26,0,20936273.0,560375.0
+Bukovany u Sokolova,Bukovany,35755,,156,0,2627060.0,560316.0
+Citice,Citice,35756,,166,0,20935323.0,560324.0
+Březová u Sokolova,Březová,35761,náměstí Míru,230,0,2607085.0,560294.0
+Rovná u Sokolova,Rovná,35765,,42,0,2599813.0,560618.0
+Kraslice,Kraslice,35801,náměstí 28. října,1705,4,14870053.0,560472.0
+Karlovy Vary 1,Karlovy Vary,36001,T. G. Masaryka,559,1,20734531.0,554961.0
+Karlovy Vary 5,Karlovy Vary,36005,Sokolovská,243,92,20685726.0,554961.0
+Karlovy Vary 6,Karlovy Vary,36006,Chebská,370,81a,26758636.0,554961.0
+Karlovy Vary 17,Karlovy Vary,36017,Školní,742,7a,20710569.0,554961.0
+Jenišov,Jenišov,36211,,88,0,11935413.0,537926.0
+Stanovice,Stanovice,36213,,44,0,11984821.0,555550.0
+Kolová,Kolová,36214,,16,0,11938358.0,555258.0
+Březová u Karlových Var,Březová,36215,Hamerská,51,81,11936100.0,537870.0
+Nejdek 1,Nejdek,36221,Poštovní,972,0,20721331.0,555380.0
+Černava,Černava,36223,,80,0,11900458.0,538019.0
+Nové Hamry,Nové Hamry,36224,,260,0,11961651.0,506494.0
+Nová Role,Nová Role,36225,Chodovská,236,6,11959240.0,555398.0
+Božičany,Božičany,36226,,96,0,11899395.0,555045.0
+Otovice u Karlových Var,Otovice,36232,Hroznětínská,130,0,11969083.0,537969.0
+Hroznětín,Hroznětín,36233,Krušnohorské náměstí,1,0,11917172.0,555185.0
+Merklín u Karlových Var,Merklín,36234,,49,0,11950188.0,555363.0
+Abertamy,Abertamy,36235,Rooseweltova,251,0,11883472.0,554979.0
+Pernink,Pernink,36236,T. G. Masaryka,1,0,11972131.0,555452.0
+Horní Blatná,Horní Blatná,36237,náměstí Sv. Vavřince,118,0,11913711.0,555169.0
+Potůčky,Potůčky,36238,,85,0,11977566.0,555479.0
+Jáchymov,Jáchymov,36251,K Lanovce,1048,0,25176072.0,555215.0
+Sadov,Sadov,36261,,31,0,11983248.0,555533.0
+Boží Dar,Boží Dar,36262,,1,0,11897040.0,506486.0
+Dalovice,Dalovice,36263,Hlavní,131,23,11903783.0,537918.0
+Kyselka,Kyselka,36272,,178,0,11947772.0,555347.0
+Vojkovice nad Ohří,Vojkovice,36273,,31,0,12014851.0,555738.0
+Stráž nad Ohří,Stráž nad Ohří,36274,,21,0,11987057.0,555584.0
+Ostrov nad Ohří,Ostrov,36301,Hlavní třída,800,0,12037591.0,555428.0
+Toužim,Toužim,36401,náměstí Jiřího z Poděbrad,36,0,12045900.0,555657.0
+Štědrá,Štědrá,36451,,83,0,11996650.0,555622.0
+Žlutice,Žlutice,36452,Velké náměstí,147.0,0,12018775.0,555762.0
+Chyše,Chyše,36453,Žižkovo náměstí,18.0,0,11927241.0,555207.0
+Valeč v Čechách,Valeč,36455,Náměstí,119.0,0,12009075.0,555690.0
+Verušičky,Verušičky,36456,,5.0,0,12012360.0,555711.0
+Teplá u Toužimě,Teplá,36461,Klášterní,156.0,0,12000108.0,555631.0
+Otročín,Otročín,36463,,61.0,0,11970910.0,555444.0
+Bečov nad Teplou,Bečov nad Teplou,36464,náměstí 5. května,2.0,0,11889314.0,554995.0
+Útvina,Útvina,36466,,155.0,0,12007854.0,555681.0
+Bochov,Bochov,36471,Školní,47.0,0,20667281.0,555029.0
+Stružná,Stružná,36472,,83.0,0,11990180.0,555592.0
+České Budějovice 1,České Budějovice,37001,Senovážné náměstí,240.0,1,25432923.0,544256.0
+České Budějovice 4,České Budějovice,37004,Pražská tř.,2304.0,69,25286960.0,544256.0
+České Budějovice 5,České Budějovice,37005,Ant. Barcala,404.0,38,28072863.0,544256.0
+České Budějovice 6,České Budějovice,37006,E. Beneše,656.0,17,23391260.0,544256.0
+České Budějovice 7,České Budějovice,37007,Boršovská,1779.0,2,23430443.0,544256.0
+České Budějovice 8,České Budějovice,37008,náměstí Švabinského,960.0,9,25292447.0,544256.0
+České Budějovice 11,České Budějovice,37011,Fr. Ondříčka,1243.0,46,25285254.0,544256.0
+České Budějovice 12,České Budějovice,37012,K. Šafáře,887.0,64,26020637.0,544256.0
+Temelín,Temelín,37301,,104.0,0,20021488.0,545155.0
+Neznašov,Všemyslice,37302,,9.0,0,20027893.0,545287.0
+Litvínovice,Litvínovice,37303,,39.0,0,11772883.0,544795.0
+Chrášťany u Týna nad Vltavou,Chrášťany,37304,,79.0,0,11744936.0,544591.0
+Temelín-elektrárna,Temelín,37305,,,0,,
+Srubec,Srubec,37310,Ledenická,24.0,0,11798718.0,545066.0
+Ledenice,Ledenice,37311,Náměstí,71.0,0,11757001.0,544736.0
+Borovany,Borovany,37312,Žižkovo náměstí,15.0,0,16486404.0,544281.0
+Komařice,Komařice,37314,,76.0,0,28130898.0,535877.0
+Nová Ves,Nová Ves,37315,,30.0,0,20002289.0,535648.0
+Dobrá Voda u Českých Budějovic,Dobrá Voda u Českých Budějovic,37316,Lázeňská,2321.0,42,27495311.0,535206.0
+Slavče,Slavče,37321,,26.0,0,17628903.0,545023.0
+Ločenice,Ločenice,37322,,165.0,0,19997949.0,544809.0
+Svatý Jan nad Malší,Svatý Jan nad Malší,37323,,106.0,0,20017863.0,545104.0
+Římov,Římov,37324,Náměstí J. Gurreho,164.0,0,17625351.0,545007.0
+Olešnice,Olešnice,37331,,1.0,0,11785187.0,544884.0
+Jílovice,Jílovice,37332,,138.0,0,19991461.0,544639.0
+Nové Hrady v jižních Čechách,Nové Hrady,37333,5. května,56.0,0,11780649.0,544868.0
+Horní Stropnice,Horní Stropnice,37335,,68.0,0,19985819.0,544515.0
+Rychnov u Nových Hradů,Horní Stropnice,37336,,24.0,0,20009828.0,544515.0
+Hluboká nad Vltavou,Hluboká nad Vltavou,37341,Masarykova,40.0,0,17594308.0,544485.0
+Zliv,Zliv,37344,Jiráskova,397.0,0,17643325.0,545341.0
+Pištín,Pištín,37346,,56.0,0,16514947.0,535991.0
+Sedlec,Sedlec,37347,,48.0,0,20012438.0,545015.0
+Dívčice,Dívčice,37348,,41.0,0,19975473.0,544361.0
+Mydlovary,Mydlovary,37349,,19.0,0,16499140.0,535281.0
+Olešník,Olešník,37350,,15.0,0,20006811.0,544892.0
+Dříteň,Dříteň,37351,,1.0,0,11729163.0,544426.0
+Hrdějovice,Hrdějovice,37361,Dlouhá,221.0,0,11739703.0,544558.0
+Chotýčany u Českých Budějovic,Chotýčany,37362,,21.0,0,17604630.0,535907.0
+Ševětín,Ševětín,37363,náměstí Šimona Lomnického,2.0,0,16520084.0,545121.0
+Dynín,Dynín,37364,,48.0,0,19980124.0,544451.0
+Dolní Bukovsko,Dolní Bukovsko,37365,náměstí Jiráskovo,67.0,0,11718846.0,544388.0
+Žimutice,Žimutice,37366,,44.0,0,17639654.0,545384.0
+Borek,Borek,37367,Pražská,66.0,0,17587824.0,544272.0
+Rudolfov,Rudolfov,37371,Třeboňská,14.0,28,11791241.0,544981.0
+Lišov u Českých Budějovic,Lišov,37372,Nová,888.0,5a,27061396.0,544779.0
+Štěpánovice,Štěpánovice,37373,Vlkovická,154.0,0,11804181.0,545139.0
+Kamenný Újezd,Kamenný Újezd,37381,Náměstí,42.0,0,11748664.0,544663.0
+Boršov nad Vltavou,Boršov nad Vltavou,37382,Poříčská,248.0,0,16497627.0,544299.0
+Dubné,Dubné,37384,,33.0,0,16500261.0,544442.0
+Trhové Sviny,Trhové Sviny,37401,Bezručova,1000.0,0,11837161.0,545171.0
+Včelná,Včelná,37406,Husova,212.0,0,11810998.0,545228.0
+Týn nad Vltavou 1,Týn nad Vltavou,37501,Sakařova,757.0,0,20045271.0,545201.0
+Týn nad Vltavou 3,Týn nad Vltavou,37503,Orlická,539.0,0,25195824.0,545201.0
+Jindřichův Hradec 1,Jindřichův Hradec,37701,Husova,129.0,0,14794268.0,545881.0
+Jindřichův Hradec 4,Jindřichův Hradec,37704,sídliště Vajgar,599.0,0,25815725.0,545881.0
+Jindřichův Hradec 5,Jindřichův Hradec,37705,Kosmonautů,47.0,0,25250396.0,545881.0
+Lásenice,Lásenice,37801,,11.0,0,14722704.0,546623.0
+Stráž nad Nežárkou,Stráž nad Nežárkou,37802,náměstí Emy Destinnové,55.0,0,2152126.0,547221.0
+Majdalena,Majdalena,37803,,,0,,
+Chlum u Třeboně,Chlum u Třeboně,37804,,12.0,0,2202034.0,546461.0
+Suchdol nad Lužnicí,Suchdol nad Lužnicí,37806,sídl. 9. května,710.0,0,2185148.0,547280.0
+Rapšach,Rapšach,37807,Londonská,320.0,0,17312744.0,547069.0
+Dvory nad Lužnicí,Dvory nad Lužnicí,37808,,63.0,0,2131200.0,509141.0
+Nová Ves nad Lužnicí,Nová Ves nad Lužnicí,37809,,87.0,0,14743591.0,562360.0
+České Velenice,České Velenice,37810,Revoluční,206.0,0,14685850.0,546089.0
+Lomnice nad Lužnicí,Lomnice nad Lužnicí,37816,náměstí 5. května,105.0,0,2189160.0,546674.0
+Novosedly nad Nežárkou,Novosedly nad Nežárkou,37817,,186.0,0,14748142.0,546844.0
+Kardašova Řečice,Kardašova Řečice,37821,Veselého,659.0,0,17657571.0,546542.0
+Deštná u Jindřichova Hradce,Deštná,37825,náměstí Míru,61.0,0,2198908.0,546151.0
+Lodhéřov,Lodhéřov,37826,,175.0,0,17309921.0,546666.0
+Horní Pěna,Horní Pěna,37831,,96.0,0,2133768.0,546364.0
+Číměř,Číměř,37832,,12.0,0,14692597.0,546101.0
+Nová Bystřice,Nová Bystřice,37833,Hradecká,269.0,0,14731452.0,546798.0
+Jarošov nad Nežárkou,Jarošov nad Nežárkou,37841,,84.0,0,14717280.0,546500.0
+Nová Včelnice,Nová Včelnice,37842,Na Hliněnce,457.0,0,14741385.0,546801.0
+Roseč,Roseč,37846,,84.0,0,17663075.0,508004.0
+Blažejov,Blažejov,37852,,38.0,0,2135833.0,561711.0
+Strmilov,Strmilov,37853,Náměstí,267.0,0,2146932.0,547239.0
+Studená,Studená,37856,náměstí Sv. J. Nepomuckého,49.0,0,14782421.0,547263.0
+Člunek,Člunek,37861,,21.0,0,17303117.0,561703.0
+Kunžak,Kunžak,37862,náměstí Komenského,235.0,0,2216833.0,546615.0
+Staré Hobzí,Staré Hobzí,37871,,116.0,0,14778092.0,547204.0
+Písečné,Písečné,37872,,145.0,0,14754754.0,546917.0
+Dešná,Dešná,37873,,69.0,0,14696487.0,546143.0
+Slavonice,Slavonice,37881,Horní náměstí,524.0,0,14771403.0,547166.0
+Staré Město pod Landštejnem,Staré Město pod Landštejnem,37882,,19.0,0,2226707.0,547212.0
+Český Rudolec,Český Rudolec,37883,,123.0,0,2168758.0,546097.0
+Budíškovice,Budíškovice,37891,,103.0,0,14681196.0,546038.0
+Budeč,Budeč,37892,,79.0,0,14680092.0,546020.0
+Třeboň,Třeboň,37901,Seifertova,588.0,0,14837617.0,547336.0
+Dačice,Dačice,38001,Göthova,71,0,14812916.0,546127.0
+Český Krumlov 1,Český Krumlov,38101,Latrán,193,0,25175939.0,545392.0
+Český Krumlov 2,Český Krumlov,38102,třída Míru,1,0,8673969.0,545392.0
+Dolní Třebonín,Dolní Třebonín,38201,,6,0,12948641.0,545473.0
+Zlatá Koruna,Zlatá Koruna,38202,,5,0,8758255.0,545864.0
+Křemže,Křemže,38203,Náměstí,14,0,8705046.0,545571.0
+Brloh,Brloh,38206,,23,0,16529855.0,545431.0
+Chvalšiny,Chvalšiny,38208,,38,0,16538714.0,545546.0
+Větřní,Větřní,38211,Šumavská,1,0,8747385.0,545830.0
+Světlík,Světlík,38216,,27,0,8739251.0,545813.0
+Rožmberk nad Vltavou,Rožmberk nad Vltavou,38218,,2,0,16545958.0,545767.0
+Kájov,Kájov,38221,Boletická,115,0,8699062.0,545554.0
+Hořice na Šumavě,Hořice na Šumavě,38222,,40,0,12959979.0,545520.0
+Černá v Pošumaví,Černá v Pošumaví,38223,,57,0,12945021.0,545457.0
+Horní Planá,Horní Planá,38226,Jiráskova,169,0,12953440.0,545511.0
+Polná na Šumavě,Polná na Šumavě,38229,,283,0,26758601.0,500194.0
+Velešín,Velešín,38232,Školní,501,0,8745382.0,545821.0
+Kaplice 1,Kaplice,38241,Tržní,84,0,8764573.0,545562.0
+Kaplice 2,Střítež,38242,,22,0,8721980.0,551538.0
+Dolní Dvořiště,Dolní Dvořiště,38272,,145,0,8689598.0,545465.0
+Vyšší Brod,Vyšší Brod,38273,Míru,150,0,8753792.0,545848.0
+Loučovice,Loučovice,38276,,288,0,8774846.0,545601.0
+Lipno nad Vltavou,Lipno nad Vltavou,38278,,37,0,8713090.0,545597.0
+Frymburk,Frymburk,38279,,178,0,8692891.0,545481.0
+Besednice,Besednice,38281,Náměstí,52,0,8667381.0,545414.0
+Benešov nad Černou,Benešov nad Černou,38282,,89,0,12936545.0,545406.0
+Pohorská Ves,Pohorská Ves,38283,,45,0,16543998.0,545694.0
+Malonty,Malonty,38291,,35,0,8718938.0,545619.0
+Rožmitál na Šumavě,Rožmitál na Šumavě,38292,,132,0,16548949.0,545775.0
+Horní Dvořiště,Horní Dvořiště,38293,,26,0,12950726.0,545503.0
+Prachatice,Prachatice,38301,Pivovarská,1118,0,28335724.0,550094.0
+Nebahovy,Nebahovy,38401,,79,0,812111.0,550434.0
+Lhenice,Lhenice,38402,Školní,124,0,841391.0,550361.0
+Ktiš,Ktiš,38403,,11,0,777790.0,550329.0
+Chroboly,Chroboly,38404,,84,0,792896.0,550264.0
+Netolice,Netolice,38411,Mírové Náměstí,208,0,17673526.0,550442.0
+Husinec,Husinec,38421,Prokopovo náměstí,43,0,823708.0,550230.0
+Vlachovo Březí,Vlachovo Březí,38422,Sídliště,306,0,872393.0,550663.0
+Dub,Dub,38425,,4,0,17665621.0,550183.0
+Strunkovice nad Blanicí,Strunkovice nad Blanicí,38426,,86,0,863297.0,550540.0
+Vitějovice,Vitějovice,38427,,46,0,17689287.0,550655.0
+Lažiště,Lažiště,38432,,59,0,860026.0,550345.0
+Záblatí,Záblatí,38433,,3,0,27431738.0,550680.0
+Zbytiny,Zbytiny,38441,,3,0,875392.0,550701.0
+Lenora,Lenora,38442,,65,0,851353.0,550353.0
+Strážný,Strážný,38443,,23,0,876330.0,550531.0
+Stožec,Stožec,38444,,12,0,877620.0,550523.0
+Volary,Volary,38451,Náměstí,25,0,25812041.0,550671.0
+Nová Pec,Nová Pec,38462,,41,0,17681219.0,550451.0
+Šumavské Hoštice,Šumavské Hoštice,38471,,64,0,846759.0,550574.0
+Zdíkov,Zdíkov,38472,,213.0,0,800783.0,550728.0
+Stachy,Stachy,38473,,342.0,0,815918.0,550515.0
+Čkyně,Čkyně,38481,,135.0,0,804797.0,550167.0
+Vacov,Vacov,38486,,29.0,0,17686288.0,550621.0
+Horní Vltavice,Horní Vltavice,38491,,119.0,0,30752299.0,550205.0
+Borová Lada,Borová Lada,38492,,41.0,0,17682231.0,545902.0
+Kvilda,Kvilda,38493,,7.0,0,866920.0,550337.0
+Vimperk,Vimperk,38501,1. máje,195.0,4,833347.0,550647.0
+Strakonice 1,Strakonice,38601,Podskalská,601.0,0,18435700.0,550787.0
+Volyně,Volyně,38701,náměstí Hrdinů,98.0,0,20173725.0,551970.0
+Malenice nad Volyňkou,Malenice,38706,Na Návsi,95.0,0,18386946.0,551384.0
+Katovice,Katovice,38711,Nádražní,134.0,0,8961590.0,551201.0
+Střelské Hoštice,Střelské Hoštice,38715,,83.0,0,18415865.0,551791.0
+Volenice,Volenice,38716,,15.0,0,18428029.0,551961.0
+Čestice,Čestice,38719,,64.0,0,8949433.0,550957.0
+Radomyšl,Radomyšl,38731,Maltézské náměstí,7.0,0,23067098.0,551660.0
+Sedlice u Blatné,Sedlice,38732,Palackého,46.0,0,18399835.0,551716.0
+Kadov u Blatné,Kadov,38733,,65.0,0,26837722.0,551180.0
+Záboří u Blatné,Záboří,38734,,87.0,0,18430252.0,551988.0
+Doubravice u Strakonic,Doubravice,38735,,43.0,0,18365736.0,550981.0
+Mečichov,Mečichov,38736,,118.0,0,40071928.0,551392.0
+Lnáře,Lnáře,38742,,74.0,0,18382398.0,551350.0
+Bělčice,Bělčice,38743,náměstí J. Kučery,11.0,0,8942862.0,550817.0
+Štěkeň,Štěkeň,38751,Na Městečku,150.0,0,18420991.0,551856.0
+Cehnice,Cehnice,38752,,76.0,0,23051591.0,550906.0
+Čepřovice,Čepřovice,38756,,58.0,0,18365248.0,550949.0
+Číčenice,Číčenice,38771,,97.0,0,23054239.0,550965.0
+Libějovice,Libějovice,38772,,26.0,0,18379401.0,551333.0
+Bavorov,Bavorov,38773,Náměstí Míru,17.0,0,8937079.0,550809.0
+Skočice,Skočice,38775,,44.0,0,18404995.0,551741.0
+Blatná,Blatná,38801,tř. T. G. Masaryka,293.0,0,8996946.0,550850.0
+Vodňany,Vodňany,38901,Kampanova,591.0,0,9013466.0,551953.0
+Tábor 2,Tábor,39002,U Bechyňské dráhy,2926.0,0,19824254.0,552046.0
+Tábor 3,Tábor,39003,Václava Soumara,2394.0,0,19819102.0,552046.0
+Sezimovo Ústí 2,Sezimovo Ústí,39102,náměstí Tomáše Bati,664.0,0,23438380.0,553069.0
+Planá nad Lužnicí,Planá nad Lužnicí,39111,Zákostelní,720.0,0,17389739.0,552828.0
+Myslkovice,Myslkovice,39116,,,0,,
+Košice u Soběslavě,Košice,39117,,47.0,0,6644121.0,552585.0
+Choustník,Choustník,39118,,80.0,0,6631215.0,552470.0
+Radenín,Radenín,39120,,61.0,0,6667775.0,552917.0
+Turovec,Turovec,39121,,51.0,0,19767994.0,551601.0
+Tučapy u Soběslavě,Tučapy,39126,,19.0,0,6699588.0,553239.0
+Dírná,Dírná,39127,,35.0,0,6608876.0,552208.0
+Dražice,Dražice,39131,,165.0,0,6614663.0,552283.0
+Jistebnice,Jistebnice,39133,Náměstí,106.0,0,6635881.0,552534.0
+Borotín,Borotín,39135,,57.0,0,17317983.0,552101.0
+Sudoměřice u Tábora,Sudoměřice u Tábora,39136,,27.0,0,17363187.0,553174.0
+Chotoviny,Chotoviny,39137,Hlinická,103.0,0,6627242.0,552461.0
+Ratibořské Hory,Ratibořské Hory,39142,,42.0,0,6676928.0,552992.0
+Mladá Vožice,Mladá Vožice,39143,Husovo náměstí,123.0,0,17346380.0,552704.0
+Smilovy Hory,Smilovy Hory,39152,,70,0,6691986.0,553123.0
+Vodice,Vodice,39153,,20,0,6709591.0,553328.0
+Chýnov,Chýnov,39155,Gabrielovo náměstí,460,0,17337011.0,552496.0
+Opařany,Opařany,39161,,30,0,6655416.0,552801.0
+Stádlec,Stádlec,39162,,150,0,6695531.0,553140.0
+Bechyně,Bechyně,39165,náměstí T. G. Masaryka,147,0,17371082.0,552054.0
+Březnice u Bechyně,Březnice,39171,,47,0,17321328.0,552135.0
+Sudoměřice u Bechyně,Sudoměřice u Bechyně,39172,,88,0,17362261.0,553166.0
+Hlavatce,Hlavatce,39173,,57,0,17330122.0,552321.0
+Želeč,Želeč,39174,,143,0,6715940.0,553417.0
+Malšice,Malšice,39175,,54,0,17341159.0,552666.0
+Slapy,Slapy,39176,,33,0,6671926.0,599042.0
+Veselí nad Lužnicí 1,Veselí nad Lužnicí,39181,Třída Čs. armády,582,0,25130978.0,553271.0
+Borkovice,Borkovice,39191,,31,0,6605087.0,552097.0
+Soběslav,Soběslav,39201,tř. Dr. Edvarda Beneše,286,5,17401551.0,553131.0
+Pelhřimov,Pelhřimov,39301,Svatovítské náměstí,126,0,20127120.0,547492.0
+Rynárec,Rynárec,39401,,61,0,8869235.0,562009.0
+Horní Cerekev,Horní Cerekev,39403,Březinova,11,0,20064233.0,547913.0
+Nový Rychnov,Nový Rychnov,39404,,87,0,20089520.0,548464.0
+Vyskytná u Pelhřimova,Vyskytná,39405,,74,0,8888710.0,549142.0
+Kojčice,Kojčice,39409,,67,0,20081324.0,598712.0
+Cetoraz,Cetoraz,39411,,206,0,20058322.0,547662.0
+Obrataň,Obrataň,39412,,204,0,26082683.0,548472.0
+Kámen u Pacova,Kámen,39413,,2,0,25152157.0,548103.0
+Leskovice,Leskovice,39414,,51,0,8834008.0,548235.0
+Nová Cerekev,Nová Cerekev,39415,,44,0,8845662.0,548456.0
+Hořepník,Hořepník,39421,Nám. Prof. Bechyně,89,0,20069979.0,547948.0
+Košetice,Košetice,39422,,253,0,8826391.0,548171.0
+Křešín,Křešín,39424,,42,0,8832927.0,548227.0
+Lukavec,Lukavec,39426,náměstí Sv. Václava,67,0,8837031.0,548332.0
+Vyklantice,Vyklantice,39427,,24,0,20171293.0,549134.0
+Velká Chyška,Velká Chyška,39428,,94,0,20114672.0,549011.0
+Želiv,Želiv,39444,,320,0,20124694.0,549215.0
+Křelovice u Pelhřimova,Křelovice,39445,,26,0,8830614.0,548219.0
+Červená Řečice,Červená Řečice,39446,,91,0,8800481.0,547778.0
+Kaliště,Kaliště,39451,,53,0,8817731.0,548090.0
+Kejžlice,Kejžlice,39452,Ke Světlé,161,0,20079982.0,548120.0
+Senožaty,Senožaty,39456,,166,0,8875120.0,548774.0
+Koberovice,Koberovice,39459,,42,0,20080611.0,548146.0
+Božejov,Božejov,39461,,84,0,8779511.0,547581.0
+Libkova Voda,Libkova Voda,39462,,61,0,26831554.0,598721.0
+Častrov,Častrov,39463,,105,0,8787077.0,547719.0
+Počátky,Počátky,39464,Horní,87,0,8853941.0,548561.0
+Žirovnice,Žirovnice,39468,Havlíčkovo náměstí,223,0,8893489.0,549231.0
+Kamenice nad Lipou,Kamenice nad Lipou,39470,Družstevní,511,0,8926701.0,548111.0
+Bohdalín,Bohdalín,39491,,83,0,8777268.0,547549.0
+Mnich,Mnich,39492,,35,0,8842396.0,548391.0
+Chválkov,Mnich,39493,,55,0,8815992.0,548391.0
+Černovice u Tábora,Černovice,39494,Mariánské náměstí,718,0,8798401.0,547760.0
+Křeč,Křeč,39495,,95,0,8830100.0,548201.0
+Těmice u Kamenice nad Lipou,Těmice,39496,,53,0,20111070.0,548936.0
+Pacov,Pacov,39501,Žižkova,1100,0,26016923.0,548511.0
+Humpolec,Humpolec,39601,Havlíčkovo náměstí,839,0,8908362.0,547999.0
+Písek 1,Písek,39701,Žižkova třída,270,2,5524636.0,549240.0
+Písek 4,Písek,39704,nábřeží 1. máje,2404,0,5545455.0,549240.0
+Mirotice,Mirotice,39801,Náměstí Mikoláše Alše,21,0,5505089.0,549584.0
+Čimelice,Čimelice,39804,,281,0,5559618.0,549339.0
+Mirovice,Mirovice,39806,Masarykovo náměstí,23,0,5574790.0,549592.0
+Orlík nad Vltavou,Orlík nad Vltavou,39807,,27,0,5490391.0,549681.0
+Protivín,Protivín,39811,Masarykovo náměstí,32,0,5473292.0,549771.0
+Tálín,Tálín,39815,,11,0,316091.0,549932.0
+Albrechtice nad Vltavou,Albrechtice nad Vltavou,39816,,79,0,290301.0,549258.0
+Chřešťovice,Albrechtice nad Vltavou,39817,,16,0,294357.0,549258.0
+Záhoří,Záhoří,39818,,9,0,298603.0,550027.0
+Kluky,Kluky,39819,,140,0,5483697.0,549495.0
+Kestřany,Kestřany,39821,,149,0,305405.0,549487.0
+Ražice,Ražice,39822,,89,0,5465117.0,549827.0
+Čížová,Čížová,39831,,75,0,360821.0,549347.0
+Vráž,Vráž,39832,,52,0,5500648.0,549991.0
+Ostrovec,Ostrovec,39833,,69,0,302538.0,549711.0
+Kučeř,Kučeř,39834,,82,0,300853.0,549541.0
+Oslov,Oslov,39835,,86,0,350435.0,549703.0
+Veselíčko,Veselíčko,39842,,24,0,315206.0,549975.0
+Bernartice u Milevska,Bernartice,39843,Týnská,92,0,5588758.0,549266.0
+Slabčice,Slabčice,39847,,16,0,5495202.0,549860.0
+Jetětice,Jetětice,39848,,14,0,5552079.0,549479.0
+Sepekov,Sepekov,39851,,62,0,332836.0,549843.0
+Nadějkov,Nadějkov,39852,náměstí Prokopa Chocholouška,19,0,19792930.0,549631.0
+Chyšky,Chyšky,39853,,31,0,364011.0,549452.0
+Hrazánky,Hrazany,39854,,7,0,341819.0,549410.0
+Kovářov,Kovářov,39855,,73,0,5580765.0,549517.0
+Kostelec nad Vltavou,Kostelec nad Vltavou,39858,,104,0,5496969.0,549509.0
+Hrejkovice,Hrejkovice,39859,,101,0,28155190.0,549428.0
+Milevsko 1,Milevsko,39901,J. A. Komenského,1190,0,25979540.0,549576.0
+Ústí nad Labem 1,Ústí nad Labem,40001,Masarykova,3120,34,17840031.0,554804.0
+Ústí nad Labem 3,Ústí nad Labem,40003,Žukovova,546,15,17904625.0,554804.0
+Trmice,Trmice,40004,Tyršova,869,0,9342371.0,553697.0
+Ústí nad Labem 6,Ústí nad Labem,40006,Truhlářova,1592,32,17914833.0,554804.0
+Ústí nad Labem 7,Ústí nad Labem,40007,Krčínova,841,9,30932700.0,554804.0
+Ústí nad Labem 10,Ústí nad Labem,40010,Všebořická,389,53,40603130.0,554804.0
+Ústí nad Labem 11,Ústí nad Labem,40011,Stříbrnická,3034,10,73306975.0,554804.0
+Dolní Zálezly,Dolní Zálezly,40301,Rudé armády,128,0,17734096.0,567931.0
+Řehlovice,Řehlovice,40313,,56,0,9326758.0,568201.0
+Chabařovice,Chabařovice,40317,Husovo náměstí,2,0,9295542.0,568007.0
+Velké Březno,Velké Březno,40323,Děčínská,136,0,9349219.0,568350.0
+Malečov,Malečov,40327,,36,0,9311971.0,568104.0
+Ústí nad Labem 16,Ústí nad Labem,40331,Seifertova,567,0,17771625.0,554804.0
+Povrly,Povrly,40332,Mírová,56,12,9317694.0,568155.0
+Velké Chvojno,Velké Chvojno,40334,,55,0,9353682.0,555223.0
+Libouchec,Libouchec,40335,,175,0,9305335.0,568058.0
+Tisá,Tisá,40336,,205,0,9333291.0,568309.0
+Petrovice u Ústí nad Labem,Petrovice,40337,,198,0,9313303.0,568147.0
+Telnice,Telnice,40338,,84,0,20302452.0,568295.0
+Chlumec u Ústí nad Labem,Chlumec,40339,Ústecká,255,0,17739551.0,568015.0
+Děčín 1,Děčín,40501,Oblouková,1420,2,31024963.0,562335.0
+Děčín 2,Děčín,40502,Podmokelská,148,1,221341.0,562335.0
+Jílové u Děčína,Jílové,40701,Mírové náměstí,295,0,103195.0,562564.0
+Dobkovice u Děčína,Dobkovice,40703,,123,0,26878658.0,562408.0
+Děčín 9,Děčín,40711,Studniční,414,0,26240181.0,562335.0
+Ludvíkovice,Ludvíkovice,40713,,71,0,55069.0,546496.0
+Arnoltice u Děčína,Arnoltice,40714,,34,0,264.0,562343.0
+Srbská Kamenice,Srbská Kamenice,40715,,54,0,74411.0,546348.0
+Jetřichovice,Jetřichovice,40716,,24,0,162531.0,562556.0
+Hřensko,Hřensko,40717,,71,0,23167.0,562513.0
+Česká Kamenice,Česká Kamenice,40721,Kostelní,138,0,94498.0,562394.0
+Benešov nad Ploučnicí,Benešov nad Ploučnicí,40722,náměstí Míru,1,0,153800.0,562351.0
+Františkov nad Ploučnicí,Františkov nad Ploučnicí,40723,,71,0,194573.0,545899.0
+Valkeřice,Valkeřice,40724,,207,0,281069.0,562874.0
+Verneřice,Verneřice,40725,Českolipská,294,0,86894.0,562921.0
+Velká Bukovina,Velká Bukovina,40729,,178,0,25628194.0,562891.0
+Dobrná,Dobrná,40741,,26,0,8702.0,545783.0
+Markvartice u Děčína,Markvartice,40742,,280,0,59439.0,545678.0
+Chřibská,Chřibská,40744,,178,0,32409.0,562530.0
+Kytlice,Kytlice,40745,,24,0,48003.0,562645.0
+Krásná Lípa u Rumburka,Krásná Lípa,40746,Masarykova,246,6,268411.0,562611.0
+Varnsdorf 1,Varnsdorf,40747,T. G. Masaryka,1587,0,177946.0,562882.0
+Rybniště,Rybniště,40751,,230,0,72605.0,562793.0
+Jiříkov,Jiříkov,40753,Náměstí,464,1,107859.0,562581.0
+Dolní Podluží,Dolní Podluží,40755,,6,0,9865.0,562432.0
+Jiřetín pod Jedlovou,Jiřetín pod Jedlovou,40756,Děčínská,103,0,38695.0,562572.0
+Horní Podluží,Horní Podluží,40757,,2,0,153702.0,562505.0
+Staré Křečany,Staré Křečany,40761,,555,0,79073.0,562823.0
+Šluknov,Šluknov,40777,Karlova,322,0,143740.0,562858.0
+Velký Šenov,Velký Šenov,40778,,403,0,286401.0,562912.0
+Mikulášovice,Mikulášovice,40779,,14,0,196037.0,562751.0
+Vilémov u Šluknova,Vilémov,40780,,288,0,203831.0,562947.0
+Lipová u Šluknova,Lipová,40781,,422,0,51845.0,562661.0
+Dolní Poustevna,Dolní Poustevna,40782,Sadová,220,0,15059.0,562441.0
+Lobendava,Lobendava,40784,,203,0,52914.0,545708.0
+Rumburk,Rumburk,40801,Františka Nohy,1096,3,132250.0,562777.0
+Lovosice 1,Lovosice,41001,Osvoboditelů,1228,32,41045131.0,565229.0
+Žalhostice,Žalhostice,41101,,88,0,16833996.0,565946.0
+Libochovany,Libochovany,41103,,158,0,16713591.0,565156.0
+Štětí,Štětí,41108,Obchodní,538,0,16876164.0,565709.0
+Sulejovice,Sulejovice,41111,Náves,5,0,16795059.0,565695.0
+Čížkovice,Čížkovice,41112,Na sídlišti,267,0,16653297.0,564711.0
+Třebenice,Třebenice,41113,Sokolská,87,0,16804082.0,565768.0
+Třebívlice,Třebívlice,41115,Komenského náměstí,17,0,16808444.0,565776.0
+Klapý,Klapý,41116,,200,0,16690524.0,565024.0
+Libochovice,Libochovice,41117,náměstí 5. května,48,0,16715306.0,565164.0
+Budyně nad Ohří,Budyně nad Ohří,41118,Říhovo náměstí,124,0,30283213.0,564656.0
+Mšené-lázně,Mšené-lázně,41119,Prosek,174,0,16741412.0,565318.0
+Vrbičany,Vrbičany,41121,,35,0,17730384.0,565903.0
+Keblice,Keblice,41122,,68,0,16687558.0,565016.0
+Velemín,Velemín,41131,,90,0,16881150.0,565849.0
+Milešov u Lovosic,Velemín,41132,,16,0,16735854.0,565849.0
+Prackovice nad Labem,Prackovice nad Labem,41133,,54,0,16763106.0,565458.0
+Žitenice,Žitenice,41141,Pohořanská,118,0,16838190.0,565962.0
+Ploskovice,Ploskovice,41142,,44,0,16751680.0,565393.0
+Úštěk,Úštěk,41145,Nádražní,117,0,24326992.0,565814.0
+Liběšice u Litoměřic,Liběšice,41146,,125,0,16708300.0,565121.0
+Polepy,Polepy,41147,,205,0,16760395.0,565431.0
+Křešice,Křešice,41148,Nádražní,84,0,16702361.0,565083.0
+Terezín,Terezín,41155,Máchova,178,0,16878752.0,565717.0
+Bohušovice nad Ohří,Bohušovice nad Ohří,41156,Husovo náměstí,42,0,16622189.0,564591.0
+Sukorady,Snědovice,41162,,5,0,16794087.0,565610.0
+Vrbice u Roudnice nad Labem,Vrbice,41164,Hlavní,47,0,16828755.0,565890.0
+Chodouny,Chodouny,41171,,20,0,16678184.0,564923.0
+Hoštka u Roudnice nad Labem,Hoštka,41172,náměstí Svobody,18,0,16668529.0,564877.0
+Snědovice,Snědovice,41174,,99,0,16782534.0,565610.0
+Brozany nad Ohří,Brozany nad Ohří,41181,Palackého náměstí,75,0,16629434.0,564621.0
+Doksany,Doksany,41182,,108,0,16657128.0,564753.0
+Hrobce,Hrobce,41183,Na Návsi,88,0,16674731.0,564893.0
+Straškov-Vodochody,Straškov-Vodochody,41184,,2,0,42571952.0,565679.0
+Horní Beřkovice,Horní Beřkovice,41185,Podřipská,82,0,16664833.0,564851.0
+Bechlín,Bechlín,41186,,85,0,16617525.0,564575.0
+Krabčice u Roudnice nad Labem,Krabčice,41187,,67,0,16696409.0,565067.0
+Litoměřice 1,Litoměřice,41201,Na Valech,722,18,2902117.0,564567.0
+Litoměřice 3,Litoměřice,41203,U Kapličky,443,1,2919168.0,564567.0
+Roudnice nad Labem,Roudnice nad Labem,41301,Husovo náměstí,69,0,16853512.0,565555.0
+Teplice 1,Teplice,41501,Dubská,3094,1,20279051.0,567442.0
+Teplice 3,Teplice,41503,Jaselská,427,0,20217412.0,567442.0
+Teplice 8,Teplice,41508,Laubeho náměstí,293,3,20252595.0,567442.0
+Teplice 10,Teplice,41510,Jana Koziny,1628,31,20242654.0,567442.0
+Dubí u Teplic 1,Dubí,41701,Krušnohorská,567,13,20298358.0,567507.0
+Dubí,Dubí,41702,Lípová,38,1,20185456.0,567507.0
+Pozorka,Dubí,41703,Ruská,264,11,20191294.0,567507.0
+Hrob,Hrob,41704,U Radnice,234,0,14992418.0,567558.0
+Osek u Duchcova,Osek,41705,Husova,56,0,15022226.0,567779.0
+Proboštov u Teplic,Proboštov,41712,náměstí Svobody,700,0,26125277.0,567787.0
+Modlany,Modlany,41713,,34,0,15010384.0,567710.0
+Háj u Duchcova,Háj u Duchcova,41722,Kubátova,155,0,14986949.0,567523.0
+Košťany u Teplic,Košťany,41723,Mírové náměstí,17,0,15001709.0,567621.0
+Oldřichov,Jeníkov,41724,,52,0,20195443.0,567582.0
+Lahošť,Lahošť,41725,Švermova,22,0,15007961.0,567647.0
+Novosedlice,Novosedlice,41731,Valentinská,97,1,18524346.0,567752.0
+Krupka 1,Krupka,41742,Karla Čapka,294,0,18517064.0,567639.0
+Hostomice nad Bílinou,Hostomice,41752,Školní náměstí,18,0,14987945.0,567531.0
+Světec,Světec,41753,Preissigovo náměstí,4,0,15016447.0,567841.0
+Kostomlaty pod Milešovkou,Kostomlaty pod Milešovkou,41754,Hlavní,5,0,14998050.0,567612.0
+Hrobčice,Hrobčice,41757,,41,0,14994623.0,567566.0
+Bystřany,Bystřany,41761,Pražská,35,0,18539301.0,567477.0
+Rtyně nad Bílinou,Rtyně nad Bílinou,41762,,78,0,20207743.0,567809.0
+Žalany,Žalany,41763,Pražská,48,0,20247621.0,567876.0
+Ohníč,Ohníč,41765,,11,0,20300557.0,567761.0
+Zabrušany,Zabrušany,41771,,1,0,15018814.0,567868.0
+Ledvice,Ledvice,41772,Mírová,422,42,20198043.0,567655.0
+Moldava,Moldava,41781,,113,0,20203071.0,567728.0
+Bílina 1,Bílina,41801,Mírové náměstí,72,5,23797096.0,567451.0
+Duchcov,Duchcov,41901,Osecká,1531,0,28247001.0,567515.0
+Chomutov 2,Chomutov,43002,Farského,4732,0,23527927.0,562971.0
+Chomutov 3,Chomutov,43003,Jiráskova,5338,0,23533781.0,562971.0
+Chomutov 5,Chomutov,43005,Zahradní,5341,0,23533811.0,562971.0
+Spořice,Spořice,43101,U koupaliště,494,0,26099888.0,563340.0
+Zelená,Málkov,43102,,215E,0,81435231.0,563200.0
+Jirkov 1,Jirkov,43111,náměstí Dr. E. Beneše,3,0,23534524.0,563099.0
+Strupčice,Strupčice,43114,,300,0,42414601.0,563358.0
+Boleboř,Boleboř,43121,,57,0,20978596.0,563005.0
+Údlice,Údlice,43141,Náměstí,70,0,21002746.0,563382.0
+Hrušovany u Chomutova,Hrušovany,43143,,15,0,20983719.0,563072.0
+Droužkovice,Droužkovice,43144,Rudé armády,80,0,20981988.0,563056.0
+Březno u Chomutova,Březno,43145,Nechranická,257,0,9080635.0,563013.0
+Klášterec nad Ohří 1,Klášterec nad Ohří,43151,Petlérská,449,0,18494307.0,563129.0
+Pětipsy,Pětipsy,43153,,58,0,2637707.0,563293.0
+Vilémov u Kadaně,Vilémov,43154,Náměstí,70,0,9100687.0,563439.0
+Radonice,Radonice,43155,,167,0,18460534.0,563323.0
+Mašťov,Mašťov,43156,Náměstí,122,0,2639416.0,563218.0
+Chbany,Chbany,43157,,19,0,2640864.0,563081.0
+Místo,Místo,43158,,81,0,20995831.0,563242.0
+Vysoká Pec,Vysoká Pec,43159,Julia Fučíka,197,0,18504426.0,563501.0
+Perštejn,Perštejn,43163,Hlavní,216,0,9088938.0,563285.0
+Hora Svatého Šebestiána,Hora Svatého Šebestiána,43182,,60,0,2635640.0,563064.0
+Kovářská,Kovářská,43186,náměstí J. Švermy,64,0,18451691.0,563137.0
+Vejprty,Vejprty,43191,náměstí T. G. Masaryka,1241,0,9097333.0,563404.0
+Kadaň 1,Kadaň,43201,Poštovní,1553,0,18476317.0,563102.0
+Most 1,Most,43401,Moskevská,5,0,5082625.0,567027.0
+Most 6,Most,43406,Rudolická,1706,4,26045532.0,567027.0
+Most 11,Most,43411,Lipová,805,8,5090610.0,567027.0
+Havraň,Havraň,43501,,11,0,5132819.0,567141.0
+Malé Březno,Malé Březno,43504,,1,0,5056039.0,567299.0
+Lom u Mostu 1,Lom,43511,náměstí Republiky,13,5,5060516.0,567264.0
+Lom u Mostu 2,Lom,43512,Podkrušnohorská,73,6,5058724.0,567264.0
+Meziboří u Litvínova,Meziboří,43513,náměstí 8. května,341,0,5071399.0,567311.0
+Obrnice,Obrnice,43521,Mírová,171,0,5038341.0,567337.0
+Braňany,Braňany,43522,,200,0,5034132.0,567060.0
+Lužice u Mostu,Lužice,43524,,58,0,5039509.0,567281.0
+Bečov u Mostu,Bečov,43526,,21,0,30672953.0,567043.0
+Mariánské Radčice,Mariánské Radčice,43532,Dukelských hrdinů,57,0,5054982.0,567302.0
+Louka u Litvínova,Louka u Litvínova,43533,Husova,89,0,5057281.0,567272.0
+Litvínov 8,Litvínov,43542,Hamerská,258,0,5142814.0,567256.0
+Horní Jiřetín,Horní Jiřetín,43543,Mostecká,34,76,5041911.0,567175.0
+Nová Ves v Horách,Nová Ves v Horách,43545,,224,0,8162051.0,567329.0
+Hora Svaté Kateřiny,Hora Svaté Kateřiny,43546,Dlouhá,50,0,8158126.0,567167.0
+Brandov,Brandov,43547,,60,0,78705291.0,567078.0
+Litvínov 1,Litvínov,43601,náměstí Míru,13,0,5150523.0,567256.0
+Žatec 1,Žatec,43801,Volyňských Čechů,3098,0,27780970.0,566985.0
+Černčice,Černčice,43901,Masarykovo náměstí,214,0,19881835.0,542628.0
+Cítoliby,Cítoliby,43902,Zeměšská,219,0,9117393.0,542571.0
+Chlumčany,Chlumčany,43903,,154,0,19893931.0,566233.0
+Hříškov,Hříškov,43904,,50,0,9129511.0,566195.0
+Panenský Týnec,Panenský Týnec,43905,,2,0,19913826.0,566535.0
+Peruc,Peruc,43907,Žižkova,165,0,9184481.0,566551.0
+Pátek,Peruc,43908,,151,0,80373101.0,566551.0
+Slavětín nad Ohří,Slavětín,43909,Bieblova,60,0,19929935.0,566713.0
+Smolnice,Smolnice,43914,,104,0,19932332.0,566721.0
+Vinařice u Loun,Vinařice,43915,,36,0,19941641.0,566918.0
+Koštice nad Ohří,Koštice,43921,,26,0,9138421.0,566284.0
+Chožov,Chožov,43922,,114,0,19896026.0,566241.0
+Lenešice,Lenešice,43923,Knížete Václava,521,0,9156631.0,566322.0
+Raná u Loun,Raná,43924,,21,0,19922281.0,566659.0
+Libčeves,Libčeves,43926,Lipová,166,0,9159711.0,566349.0
+Měcholupy u Žatce,Měcholupy,43931,,71,0,9175431.0,566454.0
+Postoloprty,Postoloprty,43942,5. května,134,0,19950951.0,566624.0
+Staňkovice u Žatce,Staňkovice,43949,Sídliště,194,0,9199497.0,543128.0
+Liběšice u Žatce,Liběšice,43963,,80,0,9161864.0,566357.0
+Hřivice,Hřivice,43965,,24,0,9132996.0,566217.0
+Ročov,Ročov,43967,,1,0,19923571.0,566667.0
+Domoušice,Domoušice,43968,,107,0,9123661.0,566152.0
+Tuchořice,Tuchořice,43969,,123,0,19938438.0,566853.0
+Nepomyšl,Nepomyšl,43971,,102,0,19910266.0,566501.0
+Krásný Dvůr,Krásný Dvůr,43972,,117,0,9144552.0,566306.0
+Libočany,Libočany,43975,,103,0,9165533.0,530590.0
+Kryry,Kryry,43981,Hlavní,1,0,9146105.0,566314.0
+Vroutek,Vroutek,43982,náměstí Míru,166,0,9214283.0,566934.0
+Lubenec,Lubenec,43983,Náměstí,1,0,9169628.0,566438.0
+Blatno u Podbořan,Blatno,43984,,63,0,9107207.0,566004.0
+Petrohrad,Petrohrad,43985,,146,0,9189076.0,566560.0
+Strojetice,Kryry,43986,,51,0,9202552.0,566314.0
+Očihov,Očihov,43987,,7,0,19912242.0,566527.0
+Blšany,Blšany,43988,Náměstí,29,0,9109544.0,566021.0
+Louny 1,Louny,44001,Štefánikova,1465,0,9232133.0,565971.0
+Jimlín,Jimlín,44008,,200,0,80794092.0,546011.0
+Podbořany,Podbořany,44101,Masarykovo náměstí,887,0,26904195.0,566616.0
+Mobilní pošta 41,Deštná,44444,náměstí Míru,61,0,2198908.0,546151.0
+Liberec 1,Liberec,46001,náměstí Dr. E. Beneše,559,28,23657642.0,563889.0
+Liberec 2,Liberec,46002,Nákladní,429,6,23769645.0,563889.0
+Liberec 3,Liberec,46003,České mládeže,456,0,26149303.0,563889.0
+Liberec 6,Liberec,46006,Dobiášova,1008,11,27546594.0,563889.0
+Liberec 14,Liberec,46014,Vrchlického,830,41,23715634.0,563889.0
+Stráž nad Nisou,Stráž nad Nisou,46303,Studánecká,259,0,14939819.0,544477.0
+Liberec 30,Liberec,46311,Poštovní,232,0,23753714.0,563889.0
+Mníšek u Liberce,Mníšek,46322,Poštovní,275,0,14906791.0,564231.0
+Oldřichov v Hájích,Oldřichov v Hájích,46323,,151,0,23605707.0,564281.0
+Chrastava,Chrastava,46331,Nádražní,367,0,23642882.0,564117.0
+Bílý Kostel nad Nisou,Bílý Kostel nad Nisou,46332,,206,0,23559977.0,563919.0
+Chotyně,Chotyně,46333,,217,0,14900297.0,564109.0
+Hrádek nad Nisou,Hrádek nad Nisou,46334,Nádražní,420,0,14973286.0,564095.0
+Dlouhý Most,Dlouhý Most,46341,,18,0,23568623.0,530468.0
+Hodkovice nad Mohelkou,Hodkovice nad Mohelkou,46342,náměstí T. G. Masaryka,1,0,23573546.0,564061.0
+Český Dub,Český Dub,46343,náměstí Bedřicha Smetany,10,0,23635142.0,563960.0
+Sychrov,Radimovice,46344,,47,0,14947846.0,544582.0
+Pěnčín u Liberce,Pěnčín,46345,,107,0,14922096.0,564303.0
+Příšovice,Příšovice,46346,,42,0,14925478.0,564354.0
+Všelibice,Všelibice,46348,,61,0,23629479.0,564532.0
+Světlá pod Ještědem,Světlá pod Ještědem,46351,,50,0,23624060.0,564427.0
+Osečná,Osečná,46352,Svatovítské náměstí,100,0,23610221.0,564290.0
+Křižany,Křižany,46353,,337,0,23596741.0,564184.0
+Rynoltice,Rynoltice,46355,,4,0,23618779.0,564397.0
+Raspenava,Raspenava,46361,Fučíkova,646,0,14934850.0,564371.0
+Hejnice,Hejnice,46362,Jizerská,339,0,14890500.0,564044.0
+Bílý Potok pod Smrkem,Bílý Potok,46363,,85,0,14875306.0,546631.0
+Lázně Libverda,Lázně Libverda,46364,,17,0,14902095.0,564206.0
+Nové Město pod Smrkem,Nové Město pod Smrkem,46365,Mírové náměstí,274,0,14911523.0,564265.0
+Jindřichovice pod Smrkem,Jindřichovice pod Smrkem,46366,,245,0,23587482.0,564133.0
+Řasnice,Dolní Řasnice,46367,,326,0,14885476.0,563994.0
+Dětřichov,Dětřichov,46371,,284,0,23568453.0,546607.0
+Višňová u Frýdlantu,Višňová,46372,,135,0,14951827.0,564494.0
+Habartice,Habartice,46373,,191,0,14887061.0,564036.0
+Frýdlant v Čechách,Frýdlant,46401,Okružní,1260,0,14964091.0,564028.0
+Jablonec nad Nisou 1,Jablonec nad Nisou,46601,Liberecká,32,2,12165212.0,563510.0
+Jablonec nad Nisou 4,Jablonec nad Nisou,46604,Želivského,5050,2,27869024.0,563510.0
+Rychnov u Jablonce nad Nisou,Rychnov u Jablonce nad Nisou,46802,Údolní,66,0,19847211.0,563790.0
+Rádlo,Rádlo,46803,,121,0,19844531.0,563781.0
+Jablonec nad Nisou 7,Jablonec nad Nisou,46804,Prosečská,192,0,19828527.0,563510.0
+Janov nad Nisou,Janov nad Nisou,46811,,354,0,12095605.0,563595.0
+Bedřichov,Bedřichov,46812,,1597E,0,12071129.0,563536.0
+Bratříkov,Pěnčín,46821,,29,0,25391593.0,563749.0
+Železný Brod,Železný Brod,46822,Poštovní,404,0,19872691.0,563871.0
+Loužnice,Loužnice,46823,,58,0,12123617.0,563684.0
+Držkov,Držkov,46824,,106,0,12080390.0,563561.0
+Zásada,Zásada,46825,,259,0,12162604.0,563854.0
+Huť,Pěnčín,46826,,169,0,12144975.0,563749.0
+Nová Ves nad Nisou,Nová Ves nad Nisou,46827,,281,0,12136492.0,563731.0
+Malá Skála,Malá Skála,46831,,696E,0,19837127.0,563706.0
+Frýdštejn,Frýdštejn,46832,,80,0,12082627.0,563579.0
+Jenišovice u Jablonce nad Nisou,Jenišovice,46833,,241,0,12103136.0,563609.0
+Huntířov nad Jizerou,Skuhrov,46834,,63,0,12218499.0,563803.0
+Tanvald,Tanvald,46841,Poštovní,293,0,12226211.0,563820.0
+Albrechtice v Jizerských horách,Albrechtice v Jizerských horách,46843,,220,0,12065374.0,563528.0
+Josefův Důl,Josefův Důl,46844,,297,0,12110892.0,563633.0
+Velké Hamry,Velké Hamry,46845,,409,0,12232971.0,563838.0
+Plavy,Plavy,46846,,186,0,12150061.0,563757.0
+Zlatá Olešnice,Zlatá Olešnice,46847,,196,0,12237213.0,563862.0
+Kořenov,Kořenov,46849,,480,0,25123360.0,563668.0
+Smržovka,Smržovka,46851,Hlavní,1250,0,19866071.0,563811.0
+Dolní Kořenov,Kořenov,46852,,905,0,12213888.0,563668.0
+Desná v Jizerských horách,Desná,46861,Krkonošská,630,0,12078824.0,563552.0
+Lučany nad Nisou,Lučany nad Nisou,46871,,440,0,12129054.0,563692.0
+Česká Lípa 1,Česká Lípa,47001,náměstí T. G. Masaryka,194,27,25246348.0,561380.0
+Česká Lípa 3,Česká Lípa,47003,Děčínská,3271,0,27655181.0,561380.0
+Česká Lípa 6,Česká Lípa,47006,28. října,2850,0,25348680.0,561380.0
+Zahrádky u České Lípy,Zahrádky,47101,,14,0,13094548.0,562246.0
+Kravaře u České Lípy,Kravaře,47103,náměstí,111,0,13046233.0,561720.0
+Blíževedly,Blíževedly,47104,,12,0,13015699.0,561410.0
+Horní Police,Horní Police,47106,9. května,167,0,16555805.0,561606.0
+Žandov u České Lípy,Žandov,47107,Náměstí,18,0,13097016.0,562297.0
+Jezvé,Stružnice,47108,,87,0,13079930.0,562106.0
+Horní Libchava u České Lípy,Horní Libchava,47111,,208,0,16554191.0,561592.0
+Volfartice,Volfartice,47112,,59,0,16589394.0,562220.0
+Nový Oldřichov,Nový Oldřichov,47113,,51,0,13059220.0,561878.0
+Kamenický Šenov,Kamenický Šenov,47114,náměstí T. G. Masaryka,193,0,16559363.0,561681.0
+Prysk,Prysk,47115,,17,0,25603485.0,561991.0
+Polevsko,Polevsko,47116,,152,0,13066307.0,561959.0
+Skalice u České Lípy,Skalice u České Lípy,47117,,377,0,16579933.0,562025.0
+Pihel,Nový Bor,47118,,226,0,13135422.0,561860.0
+Ralsko,Ralsko,47122,,703,0,25354574.0,562017.0
+Zákupy,Zákupy,47123,náměstí Svobody,251,0,23133945.0,562262.0
+Mimoň,Mimoň,47124,Mírová,120,0,16609123.0,561835.0
+Jablonné v Podještědí,Jablonné v Podještědí,47125,Zdislavy z Lemberka,37,0,13036254.0,561631.0
+Dubnice pod Ralskem,Dubnice,47126,,240,0,13026682.0,561541.0
+Stráž pod Ralskem,Stráž pod Ralskem,47127,Máchova,5,0,16585372.0,562092.0
+Hamr u České Lípy,Hamr na Jezeře,47128,Liberecká,24,0,13027077.0,544337.0
+Brniště,Brniště,47129,,102,0,13018752.0,561444.0
+Dubá,Dubá,47141,Školní,192,0,23124628.0,561533.0
+Svor,Svor,47151,,195,0,13088050.0,562131.0
+Sloup v Čechách,Sloup v Čechách,47152,U Pošty,296,0,16584279.0,562050.0
+Svojkov,Svojkov,47153,,12,0,13084861.0,546283.0
+Cvikov,Cvikov,47154,Komenského,308,0,16595653.0,561479.0
+Kunratice u Cvikova,Kunratice u Cvikova,47155,,411,0,13052101.0,561746.0
+Mařenice,Mařenice,47156,,26,0,13054295.0,561827.0
+Krompach,Krompach,47157,,186,0,16569997.0,561738.0
+Lindava,Cvikov,47158,,278,0,16572513.0,561479.0
+Jestřebí,Jestřebí,47161,,140,0,13044371.0,561665.0
+Okna,Okna,47162,,68,0,13063332.0,561886.0
+Staré Splavy,Doksy,47163,Jana Roháče z Dubé,75,0,13022385.0,561495.0
+Provodín,Provodín,47167,,80,0,13068547.0,561983.0
+Doksy,Doksy,47201,náměstí Republiky,213,0,13102401.0,561495.0
+Nový Bor,Nový Bor,47301,náměstí Míru,55,0,13118684.0,561860.0
+Hradec Králové 1,Hradec Králové,50001,Collinova,573,0,81873107.0,569810.0
+Hradec Králové 2,Hradec Králové,50002,Zamenhofova,915,2,23892188.0,569810.0
+Hradec Králové 3,Hradec Králové,50003,Pospíšilova,215,11a,23865776.0,569810.0
+Hradec Králové 8,Hradec Králové,50008,Lesní,157,2,23804718.0,569810.0
+Hradec Králové 9,Hradec Králové,50009,Mrštíkova,1767,38a,23820527.0,569810.0
+Hradec Králové 12,Hradec Králové,50012,třída Edvarda Beneše,1423,21,23817178.0,569810.0
+Předměřice nad Labem,Předměřice nad Labem,50302,Obránců míru,123,0,15798631.0,570672.0
+Smiřice,Smiřice,50303,Nám. Míru,361,0,15813207.0,570877.0
+Černožice nad Labem,Černožice,50304,Gen. Svobody,268,0,15736831.0,569925.0
+Hořiněves,Hořiněves,50306,,89,0,15747140.0,570044.0
+Hradec Králové 15,Hradec Králové,50311,Dvorská,324,95,23859938.0,569810.0
+Všestary,Všestary,50312,,35,0,15846784.0,571091.0
+Dohalice,Dohalice,50313,,17,0,15739457.0,569976.0
+Stračov,Stračov,50314,,2,0,15823130.0,570958.0
+Nechanice,Nechanice,50315,Husovo náměstí,38,0,15775682.0,570451.0
+Dolní Přím,Dolní Přím,50316,,27,0,20306393.0,569984.0
+Stěžery,Stěžery,50321,Lipová,1,0,15818161.0,570931.0
+Libčany,Libčany,50322,,80,0,20313535.0,570249.0
+Kratonohy,Kratonohy,50324,,31,0,20310463.0,570206.0
+Dobřenice,Dobřenice,50325,,184,0,15739210.0,569968.0
+Osice,Osice,50326,,117,0,25892541.0,570532.0
+Lhota pod Libčany,Lhota pod Libčany,50327,,70,0,15760332.0,570231.0
+Vysoká nad Labem,Vysoká nad Labem,50331,,115,0,26920824.0,571113.0
+Hradec Králové 22,Hradec Králové,50332,Poštovní,45,12,23801735.0,569810.0
+Praskačka,Praskačka,50333,,72,0,15794938.0,570656.0
+Černilov,Černilov,50343,,310,0,21016992.0,569917.0
+Libřice,Libřice,50344,,111,0,15765032.0,570273.0
+Jeníkovice,Jeníkovice,50345,,25,0,21021473.0,570133.0
+Třebechovice pod Orebem,Třebechovice pod Orebem,50346,Žižkova,850,0,15840166.0,571041.0
+Blešno,Blešno,50347,,13,0,15732070.0,569879.0
+Chlumec nad Cidlinou,Chlumec nad Cidlinou,50351,Kozelkova,402,0,15860329.0,570109.0
+Skřivany,Skřivany,50352,Dr. Vojtěcha,142,0,15808220.0,570834.0
+Smidary,Smidary,50353,Poštovní,2,0,17418496.0,570869.0
+Ohnišťany,Ohnišťany,50354,,91,0,20321601.0,570516.0
+Petrovice u Nového Bydžova,Petrovice,50355,,104,0,15789624.0,570567.0
+Hlušice,Hlušice,50356,,70,0,15743195.0,570001.0
+Starý Bydžov,Starý Bydžov,50357,,1,0,15816532.0,573132.0
+Lovčice,Lovčice,50361,,185,0,15768431.0,570320.0
+Lužec nad Cidlinou,Lužec nad Cidlinou,50362,,89,0,15771334.0,570362.0
+Nepolisy,Nepolisy,50363,,75,0,15782484.0,570478.0
+Měník,Měník,50364,,43,0,21027544.0,570397.0
+Kosičky,Kosičky,50365,,1,0,15754766.0,570184.0
+Káranice,Káranice,50366,,48,0,20309911.0,570150.0
+Nový Bydžov,Nový Bydžov,50401,Jablonského,505,0,20337876.0,570508.0
+Jičín 1,Jičín,50601,Šafaříkova,142,0,25344081.0,572659.0
+Slatiny,Slatiny,50701,,135,0,1716221.0,573469.0
+Žeretice,Žeretice,50702,,117,0,1755498.0,573833.0
+Vysoké Veselí,Vysoké Veselí,50703,Mírové náměstí,6,0,1745565.0,573809.0
+Třtěnice,Třtěnice,50704,,128,0,17508738.0,573639.0
+Konecchlumí,Konecchlumí,50705,,7,0,1682725.0,573051.0
+Lužany,Lužany,50706,,144,0,1687522.0,573159.0
+Úlibice,Úlibice,50707,,22,0,1737295.0,573698.0
+Valdice,Valdice,50711,náměstí Míru,36,0,1738241.0,573701.0
+Radim,Radim,50712,,91,0,1710419.0,573370.0
+Železnice,Železnice,50713,Muzejní,204,0,1751590.0,573825.0
+Libuň,Libuň,50715,,27,0,17455693.0,573124.0
+Veliš,Veliš,50721,,4,0,17514215.0,573728.0
+Střevač,Střevač,50722,,49,0,17502756.0,573540.0
+Libáň,Libáň,50723,Jičínská,63,0,25258974.0,573108.0
+Dětenice,Dětenice,50724,,141,0,1670565.0,572829.0
+Jičíněves,Jičíněves,50731,,82,0,17441803.0,573001.0
+Kopidlno,Kopidlno,50732,náměstí Hilmarovo,90,0,1771868.0,573060.0
+Vršce,Vršce,50733,,91,0,1744836.0,573795.0
+Žlunice,Žlunice,50734,,138,0,17521921.0,573850.0
+Samšina,Samšina,50741,,35,0,24712370.0,573442.0
+Markvartice u Sobotky,Markvartice,50742,,25,0,1689363.0,573167.0
+Sobotka,Sobotka,50743,Boleslavská,440,0,1722522.0,573493.0
+Libošovice,Libošovice,50744,,83,0,17451523.0,573116.0
+Mladějov,Mladějov,50745,,106,0,17467012.0,573205.0
+Holovousy,Holovousy,50751,,18,0,1676598.0,572918.0
+Ostroměř,Ostroměř,50752,Zahradní,390,0,17475163.0,573272.0
+Chomutice u Hořic v Podkrkonoší,Chomutice,50753,,164,0,1664581.0,572969.0
+Podhorní Újezd a Vojice,Podhorní Újezd a Vojice,50754,,118,0,1705059.0,573311.0
+Mlázovice,Mlázovice,50758,Náměstí,46,0,1693557.0,573213.0
+Šárovcova Lhota,Šárovcova Lhota,50759,,12,0,17467705.0,573256.0
+Miletín,Miletín,50771,Komenského,100,0,17459753.0,573175.0
+Dobrá Voda u Hořic,Dobrá Voda u Hořic,50773,,193,0,17534704.0,572837.0
+Milovice u Hořic,Milovice u Hořic,50774,,61,0,1692755.0,548863.0
+Jeřice,Jeřice,50776,,21,0,1678027.0,572993.0
+Cerekvice nad Bystřicí,Cerekvice nad Bystřicí,50777,,1,0,1659472.0,572781.0
+Lázně Bělohrad,Lázně Bělohrad,50781,Náměstí K. V. Raise,138,0,1764381.0,573094.0
+Pecka,Pecka,50782,,2,0,1699059.0,573299.0
+Stará Paka,Stará Paka,50791,Revoluční,180,0,17496012.0,573507.0
+Úbislavice,Úbislavice,50792,,53,0,1733575.0,573655.0
+Hořice v Podkrkonoší,Hořice,50801,Havlíčkova,40,0,17535336.0,572926.0
+Nová Paka,Nová Paka,50901,Komenského,313,0,17558484.0,573248.0
+Turnov 1,Turnov,51101,náměstí Českého Ráje,65,0,21579539.0,577626.0
+Slaná u Semil,Slaná,51201,,62,0,16942574.0,577529.0
+Košťálov,Košťálov,51202,,200,0,16911938.0,577235.0
+Libštát,Libštát,51203,,198,0,16917715.0,577294.0
+Mříčná,Mříčná,51204,,211,0,15093174.0,577332.0
+Háje nad Jizerou,Háje nad Jizerou,51205,,15,0,15043347.0,577073.0
+Benešov u Semil,Benešov u Semil,51206,,134,0,16884949.0,576999.0
+Vysoké nad Jizerou,Vysoké nad Jizerou,51211,,165,0,26243903.0,577693.0
+Jesenný,Jesenný,51212,,23,0,15054012.0,577171.0
+Bozkov,Bozkov,51213,,78,0,15040160.0,577006.0
+Roztoky u Jilemnice,Roztoky u Jilemnice,51231,,265,0,16930321.0,577499.0
+Martinice v Krkonoších,Martinice v Krkonoších,51232,,131,0,15129985.0,573418.0
+Studenec u Horek,Studenec,51233,,358,0,15134989.0,577553.0
+Horka u Staré Paky,Horka u Staré Paky,51234,,41,0,15100197.0,574201.0
+Čistá u Horek,Čistá u Horek,51235,,231,0,16892437.0,577057.0
+Horní Branná,Horní Branná,51236,,326,0,15050874.0,577120.0
+Benecko,Benecko,51237,,190,0,15035271.0,576981.0
+Vítkovice v Krkonoších,Vítkovice,51238,,335,0,15143261.0,577669.0
+Víchová nad Jizerou,Víchová nad Jizerou,51241,,220,0,16954645.0,577651.0
+Poniklá,Poniklá,51242,,55,0,16919459.0,577405.0
+Jablonec nad Jizerou,Jablonec nad Jizerou,51243,,277,0,16902939.0,577162.0
+Rokytnice nad Jizerou 1,Rokytnice nad Jizerou,51244,,360,0,15110681.0,577456.0
+Harrachov v Krkonoších,Harrachov,51246,,152,0,16892976.0,577081.0
+Paseky nad Jizerou,Paseky nad Jizerou,51247,,242,0,15103072.0,547476.0
+Lomnice nad Popelkou,Lomnice nad Popelkou,51251,plk. Truhláře,108,0,15069826.0,577308.0
+Tatobity,Tatobity,51253,,59,0,16946545.0,577596.0
+Mírová pod Kozákovem,Mírová pod Kozákovem,51254,,51,0,15089177.0,577316.0
+Přepeře,Přepeře,51261,,10,0,16923791.0,577413.0
+Karlovice u Turnova,Karlovice,51262,,47,0,15058883.0,577219.0
+Rovensko pod Troskami,Rovensko pod Troskami,51263,Tyršova,73,0,18848699.0,577472.0
+Vyskeř,Vyskeř,51264,,50,0,16956621.0,577685.0
+Všeň,Všeň,51265,,10,0,15144542.0,577677.0
+Nová Ves nad Popelkou,Nová Ves nad Popelkou,51271,,64,0,15093930.0,577341.0
+Semily,Semily,51301,Husova,9,0,16961226.0,576964.0
+Jilemnice,Jilemnice,51401,Geologa Pošepného,380,0,16975154.0,577197.0
+Rychnov nad Kněžnou,Rychnov nad Kněžnou,51601,Bezručova,14,0,9841571.0,576069.0
+Lukavice,Lukavice,51603,,190,0,21535906.0,576492.0
+Solnice,Solnice,51701,Pod Poštou,6,0,21551499.0,576808.0
+Kvasiny,Kvasiny,51702,,81,0,21528926.0,576425.0
+Skuhrov nad Bělou,Skuhrov nad Bělou,51703,,84,0,9806661.0,576778.0
+Černíkovice,Černíkovice,51704,,141,0,21517088.0,576204.0
+Javornice,Javornice,51711,,7,0,21523924.0,576336.0
+Liberk,Liberk,51712,,70,0,9758968.0,576450.0
+Týniště nad Orlicí,Týniště nad Orlicí,51721,Mírové náměstí,268,0,9815970.0,576859.0
+Albrechtice nad Orlicí,Albrechtice nad Orlicí,51722,Pardubická,233,0,9689141.0,576077.0
+Žďár nad Orlicí,Žďár nad Orlicí,51723,,133,0,9840061.0,576956.0
+Borohrádek,Borohrádek,51724,Nádražní,40,0,21510032.0,576131.0
+Čermná nad Orlicí,Čermná nad Orlicí,51725,,45,0,9711589.0,576191.0
+Bolehošť,Bolehošť,51731,,128,0,9700749.0,576123.0
+Přepychy,Přepychy,51732,,5,0,9792465.0,576689.0
+Trnov u Dobrušky,Trnov,51733,,3,0,24347949.0,576824.0
+Voděrady u Rychnova nad Kněžnou,Voděrady,51734,,70,0,9835334.0,576891.0
+Lično,Lično,51735,,1,0,21532028.0,576468.0
+Olešnice,Olešnice,51736,,134,0,9771204.0,576581.0
+Kostelec nad Orlicí,Kostelec nad Orlicí,51741,Dukelských hrdinů,900,0,9744746.0,576361.0
+Doudleby nad Orlicí,Doudleby nad Orlicí,51742,Dukelská,68,0,9726781.0,576301.0
+Potštejn,Potštejn,51743,Pod Lipami,281,0,9791370.0,576671.0
+Lhoty u Potštejna,Lhoty u Potštejna,51744,,34,0,9867821.0,576441.0
+Chleny,Chleny,51745,,68,0,9732756.0,576310.0
+Častolovice,Častolovice,51750,Masarykova,10,0,9706437.0,576182.0
+Vamberk,Vamberk,51754,Struha,698,0,9831886.0,576883.0
+Rybná nad Zdobnicí,Rybná nad Zdobnicí,51755,,150,0,9804366.0,576727.0
+Slatina nad Zdobnicí,Slatina nad Zdobnicí,51756,,198,0,9809414.0,576786.0
+Pěčín u Rychnova nad Kněžnou,Pěčín,51757,,207,0,9781471.0,576620.0
+Rokytnice v Orlických horách,Rokytnice v Orlických horách,51761,náměstí T. G. Masaryka,79,0,9796304.0,576701.0
+Orlické Záhoří,Orlické Záhoří,51764,,34,0,9870385.0,576603.0
+České Meziříčí,České Meziříčí,51771,Záhumenská,445,0,21522634.0,576212.0
+Jílovice u Dobrušky,Jílovice,51772,,103,0,9735534.0,576352.0
+Opočno,Opočno,51773,Kupkovo náměstí,247,0,9774734.0,576590.0
+Bystré,Bystré,51781,,110,0,9705139.0,576166.0
+Sedloňov,Sedloňov,51782,,155,0,24346446.0,576743.0
+Olešnice v Orlických horách,Olešnice v Orlických horách,51783,,5,0,21538425.0,576573.0
+Ohnišov,Ohnišov,51784,,172,0,9768793.0,576565.0
+Deštné v Orlických horách,Deštné v Orlických horách,51791,,61,0,21560421.0,576247.0
+Kounov u Dobrušky,Kounov,51792,,32,0,9753192.0,576395.0
+Dobré,Dobré,51793,,150,0,25599399.0,576263.0
+Bílý Újezd u Dobrušky,Bílý Újezd,51794,,42,0,9696351.0,576107.0
+Dobruška,Dobruška,51801,Opočenská,71,0,9857842.0,576271.0
+Podbřezí,Podbřezí,51803,,16,0,21543780.0,576654.0
+Pardubice 1,Pardubice,53001,Na Hrádku,105,0,7691734.0,555134.0
+Pardubice 3,Pardubice,53003,Na Drážce,1585,0,7791348.0,555134.0
+Pardubice 5,Pardubice,53005,Jana Palacha,1552,0,7704445.0,555134.0
+Pardubice 6,Pardubice,53006,Kostnická,870,0,7776993.0,555134.0
+Pardubice 9,Pardubice,53009,Jiřího Tomana,275,0,7794967.0,555134.0
+Pardubice 21,Pardubice,53301,Průmyslová,495,0,26650452.0,555134.0
+Dašice v Čechách,Dašice,53303,Komenského,25,0,13145789.0,574899.0
+Sezemice,Sezemice,53304,Smetanova,114,0,7601824.0,575640.0
+Dříteč,Dříteč,53305,,116,0,25915436.0,574953.0
+Zdechovice,Zdechovice,53311,,5,0,7746831.0,576026.0
+Chvaletice,Chvaletice,53312,U Stadionu,238,0,7631570.0,575071.0
+Řečany nad Labem,Řečany nad Labem,53313,1. máje,147,0,7594747.0,575607.0
+Kladruby nad Labem,Kladruby nad Labem,53314,,3,0,7546459.0,575178.0
+Hlavečník,Hlavečník,53315,,28,0,7511311.0,574961.0
+Vápno,Vápno,53316,,26,0,7641796.0,575933.0
+Vysoké Chvojno,Vysoké Chvojno,53321,Soběslavova,2,0,7647301.0,576000.0
+Býšť,Býšť,53322,,162,0,7668791.0,574848.0
+Čepí,Čepí,53332,,79,0,7501960.0,574864.0
+Lázně Bohdaneč,Lázně Bohdaneč,53341,Šípkova,47,0,7484674.0,574767.0
+Živanice,Živanice,53342,,47,0,7651937.0,576051.0
+Rohovládova Bělá,Rohovládova Bělá,53343,,74,0,7584946.0,575551.0
+Staré Ždánice,Staré Ždánice,53344,,192,0,7620918.0,575721.0
+Opatovice nad Labem,Opatovice nad Labem,53345,Hradecká,116,0,7568843.0,575429.0
+Staré Hradiště u Pardubic,Staré Hradiště,53352,U Pošty,185,0,7617500.0,575704.0
+Pardubice 19,Pardubice,53353,Poděbradská,293,0,17242428.0,555134.0
+Rybitví,Rybitví,53354,Činžovních domů,141,0,7590911.0,575593.0
+Choltice,Choltice,53361,Pardubická,138,0,7533667.0,575054.0
+Svojšice u Přelouče,Svojšice,53362,,1,0,7627629.0,575780.0
+Turkovice u Přelouče,Turkovice,53363,,2,0,7745427.0,575844.0
+Lipoltice,Lipoltice,53364,,25,0,7555733.0,575313.0
+Dolní Roveň,Dolní Roveň,53371,,1,0,7503873.0,574911.0
+Moravany u Holic,Moravany,53372,Komenského,138,0,7564805.0,575399.0
+Uhersko,Uhersko,53373,,34,0,7637489.0,575879.0
+Horní Jelení,Horní Jelení,53374,náměstí Komenského,97,0,7520034.0,574996.0
+Dolní Ředice,Dolní Ředice,53375,Holická,210,0,7508808.0,574929.0
+Holice v Čechách,Holice,53401,Hradecká,502,0,7658290.0,574988.0
+Přelouč,Přelouč,53501,Pardubická,115,0,7749457.0,575500.0
+Chrudim 1,Chrudim,53701,Resselovo náměstí,109,0,18876188.0,571164.0
+Bylany,Bylany,53801,,77,0,5256101.0,571245.0
+Morašice u Chrudimě,Morašice,53802,,17,0,5352517.0,571873.0
+Heřmanův Městec,Heřmanův Městec,53803,Sokolská,268,0,7184891.0,571385.0
+Prachovice,Prachovice,53804,Chrudimská,23,0,5232180.0,572071.0
+Seč 1,Seč,53807,náměstí Prof. Č. Strouhala,38,0,5325391.0,572225.0
+Slatiňany,Slatiňany,53821,Spojovací,658,0,5443105.0,572268.0
+Licibořice,Licibořice,53823,,17,0,25918877.0,547832.0
+Svídnice,Svídnice,53824,,13,0,5259614.0,572331.0
+Nasavrky,Nasavrky,53825,Slatiňanská,76,0,5226988.0,571911.0
+Bojanov,Bojanov,53826,,37,0,5329299.0,571202.0
+Úhřetice,Úhřetice,53832,,43,0,25217569.0,572446.0
+Rosice,Rosice,53834,,96,0,5319668.0,572179.0
+Zaječice,Zaječice,53835,,4,0,5414865.0,572578.0
+Žumberk,Žumberk,53836,,79,0,5423007.0,572641.0
+Podhořany u Ronova nad Doubravou,Podhořany u Ronova,53841,,59,0,7208944.0,572039.0
+Ronov nad Doubravou,Ronov nad Doubravou,53842,Lichnická,64,0,5276331.0,572161.0
+Třemošnice,Třemošnice,53843,1. máje,447,0,16380819.0,572411.0
+Běstvina,Běstvina,53845,,29,0,5335337.0,571181.0
+Chrast u Chrudimě,Chrast,53851,U Pošty,500,0,5430046.0,571539.0
+Luže,Luže,53854,Komenského,241,0,5360528.0,571776.0
+Kočí,Kočí,53861,,92,0,7202261.0,571610.0
+Hrochův Týnec,Hrochův Týnec,53862,Nádražní,10,0,5281849.0,571491.0
+Chroustovice,Chroustovice,53863,náměstí Josefa Haška,96,0,5287758.0,571547.0
+Jenišovice,Jenišovice,53864,,42,0,5261601.0,571563.0
+Řepníky,Řepníky,53865,,34,0,5190550.0,572209.0
+Hlinsko v Čechách 1,Hlinsko,53901,Adámkova třída,1094,0,5387876.0,571393.0
+Kameničky,Kameničky,53941,,149,0,17923565.0,571571.0
+Svratouch,Svratouch,53942,,286,0,5225329.0,572349.0
+Krouna,Krouna,53943,,218,0,5219523.0,571661.0
+Proseč u Skutče,Proseč,53944,náměstí Dr. Tošovského,18,0,5343224.0,572080.0
+Nové Hrady,Nové Hrady,53945,,121,0,25008358.0,571920.0
+Trhová Kamenice,Trhová Kamenice,53952,Raisovo náměstí,4,0,5367387.0,572390.0
+Horní Bradlo,Horní Bradlo,53953,,7,0,7213123.0,571474.0
+Miřetice,Miřetice,53955,,126,0,5210178.0,571831.0
+Vrbatův Kostelec,Vrbatův Kostelec,53956,,52,0,30945143.0,572535.0
+Včelákov,Včelákov,53957,,81,0,5404088.0,572462.0
+Vortová,Vortová,53961,,59,0,5273633.0,572527.0
+Holetín,Holetín,53971,,105,0,5317096.0,571440.0
+Raná u Hlinska,Raná,53972,,17,0,5186749.0,572152.0
+Skuteč,Skuteč,53973,Tylova,134,0,5453623.0,572241.0
+Předhradí,Předhradí,53974,kap. Svatoně,80,0,5354960.0,572101.0
+Prosetín,Prosetín,53976,,22,0,5270928.0,572098.0
+Trutnov 1,Trutnov,54101,Hradební,11,0,2256738.0,579025.0
+Trutnov 4,Trutnov,54102,Dlouhá,572,0,25127667.0,579025.0
+Žacléř,Žacléř,54201,Rýchorské náměstí,10,0,2368544.0,579874.0
+Bernartice,Bernartice,54204,,82,0,15154700.0,579050.0
+Chvaleč,Chvaleč,54211,,231,0,21041890.0,579335.0
+Radvanice v Čechách,Radvanice,54212,,173,0,15166317.0,579629.0
+Jívka,Jívka,54213,,42,0,2352290.0,579378.0
+Pec pod Sněžkou,Pec pod Sněžkou,54221,,197,0,21047308.0,579581.0
+Mladé Buky,Mladé Buky,54223,,186,0,9890637.0,579548.0
+Svoboda nad Úpou,Svoboda nad Úpou,54224,náměstí Svornosti,474,0,23138343.0,579734.0
+Janské Lázně,Janské Lázně,54225,náměstí Svobody,274,0,20379161.0,579351.0
+Horní Maršov,Horní Maršov,54226,Třída Josefa II.,77,0,2332647.0,579262.0
+Úpice,Úpice,54232,Palackého,1096,0,28375017.0,579777.0
+Rtyně v Podkrkonoší,Rtyně v Podkrkonoší,54233,Hronovská,573,0,2364166.0,579637.0
+Malé Svatoňovice,Malé Svatoňovice,54234,Nádražní,105,0,2383675.0,579513.0
+Velké Svatoňovice,Velké Svatoňovice,54235,,294,0,2380641.0,579785.0
+Libňatov,Libňatov,54236,,13,0,15158772.0,579475.0
+Vlčice,Vlčice,54241,,201,0,27571556.0,579823.0
+Pilníkov,Pilníkov,54242,Trutnovská,56,0,2292840.0,579599.0
+Staré Buky,Staré Buky,54243,,50,0,23085461.0,579661.0
+Vrchlabí 1,Vrchlabí,54301,Krkonošská,149,0,2303647.0,579858.0
+Lánov,Lánov,54341,,200,0,9885471.0,579432.0
+Dolní Dvůr,Dolní Dvůr,54342,,76,0,9877029.0,579149.0
+Černý Důl,Černý Důl,54344,,80,0,2236788.0,579114.0
+Špindlerův Mlýn,Špindlerův Mlýn,54351,,188,0,2345803.0,579742.0
+Strážné,Strážné,54352,,129,0,20365381.0,579696.0
+Kunčice nad Labem,Kunčice nad Labem,54361,,86,0,2339617.0,579424.0
+Dolní Branná,Dolní Branná,54362,,256,0,2320053.0,579122.0
+Hostinné,Hostinné,54371,Poštovní,32,0,2395291.0,579297.0
+Rudník u Vrchlabí,Rudník,54372,,56,0,2390574.0,579645.0
+Prosečné,Prosečné,54373,,37,0,20362552.0,579602.0
+Dolní Kalná,Dolní Kalná,54374,,36,0,20355408.0,579157.0
+Dolní Olešnice,Dolní Olešnice,54375,,89,0,2321424.0,579173.0
+Chotěvice,Chotěvice,54376,,275,0,2351323.0,579319.0
+Čermná,Čermná,54377,,40,0,2356121.0,579106.0
+Dvůr Králové nad Labem,Dvůr Králové nad Labem,54401,Legionářská,406,0,23091011.0,579203.0
+Žireč,Dvůr Králové nad Labem,54404,,58,0,23080582.0,579203.0
+Choustníkovo Hradiště,Choustníkovo Hradiště,54442,,102,0,2240912.0,579327.0
+Kuks,Kuks,54443,,3,0,2357771.0,579416.0
+Vlčkovice v Podkrkonoší,Vlčkovice v Podkrkonoší,54444,,105,0,2236141.0,579831.0
+Doubravice u Dvora Králové n/Labem,Doubravice,54451,,155,0,23078898.0,579181.0
+Velký Vřešťov,Velký Vřešťov,54454,,37,0,20366507.0,579793.0
+Dubenec u Dvora Králové nad Labem,Dubenec,54455,,2,0,2322145.0,579190.0
+Hřibojedy,Hřibojedy,54456,,22,0,9881131.0,579301.0
+Nemojov,Nemojov,54461,,13,0,21042934.0,579564.0
+Vítězná,Vítězná,54462,,209,0,20372116.0,579815.0
+Kocbeře,Kocbeře,54464,,53,0,2348527.0,579394.0
+Hajnice,Hajnice,54466,,119,0,2325675.0,579211.0
+Bílá Třemešná,Bílá Třemešná,54472,,276,0,20352158.0,579068.0
+Horní Brusnice,Horní Brusnice,54474,,241,0,2243890.0,579238.0
+Mostek,Mostek,54475,,76,0,9893954.0,579556.0
+Borovnice,Borovnice,54477,,39,0,2314568.0,579092.0
+Náchod 1,Náchod,54701,Masarykovo náměstí,43,0,7440201.0,573868.0
+Nové Město nad Metují 1,Nové Město nad Metují,54901,náměstí Republiky,6,0,7398069.0,574279.0
+Nové Město nad Metují 3,Nové Město nad Metují,54902,Nahořanská,60,0,7318502.0,574279.0
+Bohuslavice nad Metují,Bohuslavice,54906,,175,0,7217684.0,573892.0
+Nahořany,Nahořany,54907,,102,0,7317786.0,574261.0
+Provodov-Šonov,Provodov-Šonov,54908,,170.0,0,7359276.0,574350.0
+Dolní Radechová,Dolní Radechová,54911,Náchodská,240.0,0,9686568.0,574023.0
+Česká Čermná,Česká Čermná,54921,,128.0,0,7235186.0,573973.0
+Nový Hrádek,Nový Hrádek,54922,Rokolská,123.0,0,7436017.0,574287.0
+Hronov 1,Hronov,54931,T. G. Masaryka,302.0,0,7468407.0,574082.0
+Velké Poříčí,Velké Poříčí,54932,Náměstí,102.0,0,7262434.0,547646.0
+Hronov 4,Hronov,54934,,82.0,0,7478712.0,574082.0
+Stárkov,Stárkov,54936,,115.0,0,13141201.0,574465.0
+Žďárky,Žďárky,54937,,35.0,0,7388641.0,574694.0
+Červený Kostelec,Červený Kostelec,54941,17. listopadu,298.0,0,9662391.0,573965.0
+Horní Radechová,Horní Radechová,54946,,187.0,0,7416318.0,574066.0
+Studnice u Náchoda,Studnice,54948,,75.0,0,7353073.0,574481.0
+Horní Adršpach,Adršpach,54952,,112.0,0,7413491.0,547786.0
+Police nad Metují,Police nad Metují,54954,Tyršova,340.0,0,7330944.0,574341.0
+Žďár nad Metují,Žďár nad Metují,54955,,111.0,0,7387512.0,574686.0
+Česká Metuje,Česká Metuje,54956,,10.0,0,7235976.0,573981.0
+Teplice nad Metují,Teplice nad Metují,54957,Aloise Jiráska,95.0,0,7364431.0,574538.0
+Suchý Důl,Suchý Důl,54962,,134.0,0,7355807.0,574490.0
+Machov,Machov,54963,,129.0,0,7304838.0,574210.0
+Bezděkov nad Metují,Bezděkov nad Metují,54964,,164.0,0,7215541.0,573884.0
+Otovice u Broumova,Otovice,54972,,196.0,0,7325720.0,574317.0
+Martínkovice,Martínkovice,54973,,186.0,0,7309015.0,574228.0
+Božanov,Božanov,54974,,110.0,0,20814917.0,573914.0
+Meziměstí u Broumova 1,Meziměstí,54981,5. května,114.0,0,7312733.0,574252.0
+Vernéřovice,Vernéřovice,54982,,1.0,0,7231024.0,547743.0
+Heřmánkovice,Heřmánkovice,54984,,215.0,0,7464037.0,574058.0
+Broumov 1,Broumov,55001,Československé armády,380.0,0,7395493.0,573922.0
+Broumov 3,Broumov,55003,třída Soukenická,24.0,0,7227167.0,573922.0
+Jaroměř 1,Jaroměř,55101,náměstí Československé armády,18.0,0,7397585.0,574121.0
+Dolany,Dolany,55201,,39.0,0,7253460.0,574015.0
+Česká Skalice,Česká Skalice,55203,třída T. G. Masaryka,878.0,0,41534671.0,573990.0
+Chvalkovice v Čechách,Chvalkovice,55204,,130.0,0,7271590.0,574112.0
+Hořičky,Hořičky,55205,,89.0,0,7259361.0,574074.0
+Velichovky,Velichovky,55211,Dlážděná,,0,,
+Heřmanice,Heřmanice,55212,,20.0,0,7257864.0,574040.0
+Rasošky,Rasošky,55221,,50.0,0,7338082.0,574376.0
+Jasenná,Jasenná,55222,,68.0,0,7294255.0,574139.0
+Velká Jesenice,Velká Jesenice,55224,,188.0,0,7373350.0,574562.0
+Rychnovek,Rychnovek,55225,,50.0,0,7344023.0,574406.0
+Mobilní pošta 51,Sulice,55555,Školní,343.0,0,73975893.0,538833.0
+Česká Třebová 1,Česká Třebová,56001,Chmelnice,129.0,0,25165305.0,580031.0
+Česká Třebová 2,Česká Třebová,56002,náměstí Jana Pernera,584.0,0,24756491.0,580031.0
+Hnátnice,Hnátnice,56101,,170.0,0,17967970.0,580261.0
+Dolní Dobrouč,Dolní Dobrouč,56102,,380.0,0,17955491.0,580121.0
+Brandýs nad Orlicí,Brandýs nad Orlicí,56112,Komenského,5.0,0,5695236.0,579947.0
+Sudslava,Sudslava,56113,,64.0,0,18074006.0,581011.0
+České Libchavy,České Libchavy,56114,,118.0,0,17940575.0,580058.0
+Sopotnice,Sopotnice,56115,,226.0,0,5649340.0,580961.0
+Libchavy,Libchavy,56116,,206.0,0,5628172.0,580147.0
+Dlouhá Třebová,Dlouhá Třebová,56117,Ústecká,231.0,0,17946255.0,548014.0
+Němčice,Němčice,56118,,128,0,18037208.0,580694.0
+Ostrov,Ostrov,56122,,272,0,5637392.0,580732.0
+Damníkov,Damníkov,56123,,42,0,17942446.0,580074.0
+Třebovice,Třebovice,56124,,187,0,18083161.0,581071.0
+Rudoltice,Rudoltice,56125,,38,0,5660025.0,580848.0
+Tatenice,Tatenice,56131,,243,0,18076424.0,581046.0
+Cotkytle,Cotkytle,56132,,100,0,5601754.0,579980.0
+Horní Heřmanice v Čechách,Horní Heřmanice,56133,,91,0,17971276.0,580295.0
+Výprachtice,Výprachtice,56134,,3,0,18092161.0,581178.0
+Řetová,Řetová,56141,,138,0,18059325.0,580872.0
+Letohrad,Letohrad,56151,Družstevní,833,0,26940132.0,580538.0
+Verměřovice,Verměřovice,56152,,123,0,18086802.0,581119.0
+Dolní Čermná,Dolní Čermná,56153,,230,0,17949891.0,580112.0
+Bystřec,Bystřec,56154,,188,0,5622280.0,579971.0
+Orličky,Orličky,56155,,4,0,18040772.0,580724.0
+Horní Čermná,Horní Čermná,56156,,1,0,5637571.0,580279.0
+Červená Voda 1,Červená Voda,56161,,52,0,17929555.0,580015.0
+Nekoř,Nekoř,56163,,282,0,18033547.0,580686.0
+Jablonné nad Orlicí,Jablonné nad Orlicí,56164,Hradisková,575,0,17983355.0,580376.0
+Jamné nad Orlicí,Jamné nad Orlicí,56165,,280,0,17987601.0,580392.0
+Těchonín,Těchonín,56166,,80,0,18078559.0,581054.0
+Mladkov,Mladkov,56167,,12,0,18027792.0,580651.0
+Králíky,Králíky,56169,Valdštejnova,916,0,16380746.0,580481.0
+Písečná,Písečná,56170,,78,0,18049681.0,580775.0
+Kunvald,Kunvald,56181,,100,0,17996783.0,580503.0
+Klášterec nad Orlicí,Klášterec nad Orlicí,56182,,97,0,5632200.0,580431.0
+Líšnice,Líšnice,56184,,248,0,18022502.0,580589.0
+Česká Rybná u Žamberka,Česká Rybná,56185,,78,0,17938341.0,580023.0
+Záchlumí,Záchlumí,56186,,77,0,17927455.0,581208.0
+Ústí nad Orlicí 1,Ústí nad Orlicí,56201,T. G. Masaryka,897,0,24744174.0,579891.0
+Lanškroun,Lanškroun,56301,náměstí J. M. Marků,56,0,18111301.0,580511.0
+Žamberk,Žamberk,56401,Nádražní,833,0,18121501.0,581259.0
+Choceň 1,Choceň,56501,Dolní,1200,0,5675812.0,580350.0
+Choceň 2,Choceň,56502,Pernerova,394,0,26717786.0,580350.0
+Vraclav,Vraclav,56542,,66,0,18090605.0,581151.0
+Zámrsk,Zámrsk,56543,,87,0,18102425.0,581224.0
+Sruby,Sruby,56544,,28,0,18070523.0,580970.0
+České Heřmanice,České Heřmanice,56552,,75,0,5646049.0,580040.0
+Sloupnice,Sloupnice,56553,,3,0,17972094.0,580325.0
+Vysoké Mýto,Vysoké Mýto,56601,B. Smetany,33,0,5714168.0,581186.0
+Svitavy 2,Svitavy,56802,Větrná,662,2,18912443.0,577731.0
+Hradec nad Svitavou,Hradec nad Svitavou,56901,,301,0,15889742.0,572691.0
+Březová nad Svitavou,Březová nad Svitavou,56902,Moravské náměstí,22,0,15876276.0,505145.0
+Rozhraní,Rozhraní,56903,,74,0,1822241.0,578681.0
+Brněnec,Brněnec,56904,,77,0,15915921.0,577863.0
+Bělá nad Svitavou,Bělá nad Svitavou,56905,,215,0,15868320.0,572586.0
+Vítějeves,Vítějeves,56906,,65,0,1920782.0,578967.0
+Radiměř,Radiměř,56907,,440,0,1866737.0,578657.0
+Koclířov u Svitav,Koclířov,56911,,103,0,1805991.0,578231.0
+Opatov v Čechách,Opatov,56912,,221,0,15922715.0,578487.0
+Vendolí,Vendolí,56914,,103,0,1913751.0,578932.0
+Moravská Třebová 3,Moravská Třebová,56921,,102,0,15871169.0,578444.0
+Křenov,Křenov,56922,,56,0,15904261.0,578274.0
+Březina u Moravské Třebové,Březina,56923,,81,0,25825101.0,577871.0
+Kunčina,Kunčina,56924,,142,0,1791800.0,578282.0
+Staré Město u Moravské Třebové,Staré Město,56932,,153,0,15957811.0,578789.0
+Třebařov,Třebařov,56933,,186,0,1779613.0,578908.0
+Rychnov na Moravě,Rychnov na Moravě,56934,,168,0,1789945.0,578711.0
+Mladějov na Moravě,Mladějov na Moravě,56935,,56,0,1919105.0,578401.0
+Městečko Trnávka,Městečko Trnávka,56941,,4,0,1816632.0,578380.0
+Chornice,Chornice,56942,Jevíčská,41,0,1876724.0,578096.0
+Jevíčko,Jevíčko,56943,Palackého náměstí,6,0,1825283.0,578193.0
+Jaroměřice u Jevíčka,Jaroměřice,56944,,204,0,1884875.0,578151.0
+Biskupice u Jevíčka,Biskupice,56945,,11,0,1854933.0,572519.0
+Vranová Lhota,Vranová Lhota,56946,,34,0,1874900.0,578975.0
+Morašice u Litomyšle,Morašice,56951,,96,0,1844628.0,578428.0
+Cerekvice nad Loučnou,Cerekvice nad Loučnou,56953,,171,0,1861638.0,577936.0
+Janov u Litomyšle,Janov,56955,,216,0,1868179.0,578134.0
+Čistá u Litomyšle,Čistá,56956,,314,0,1838792.0,577944.0
+Trstěnice u Litomyšle,Trstěnice,56957,,238,0,1871609.0,578894.0
+Dolní Újezd u Litomyšle,Dolní Újezd,56961,,281,0,1783220.0,577995.0
+Sebranice u Litomyšle,Sebranice,56962,,32,0,1880136.0,578738.0
+Lubná u Poličky,Lubná,56963,,327,0,15910059.0,578355.0
+Poříčí u Litomyšle,Poříčí u Litomyšle,56964,,81,0,1858921.0,572373.0
+Budislav u Litomyšle,Budislav,56965,,64,0,1833731.0,577910.0
+Osík u Litomyšle,Osík,56967,,240,0,15929116.0,578509.0
+Pomezí,Pomezí,56971,,4,0,1811584.0,578584.0
+Rohozná u Poličky,Rohozná,56972,,387,0,1852663.0,578673.0
+Svojanov,Svojanov,56973,,36,0,18913571.0,578843.0
+Trpín,Trpín,56974,,77,0,15965422.0,578886.0
+Borová u Poličky,Borová,56982,,100,0,1808192.0,577839.0
+Pustá Kamenice,Pustá Kamenice,56983,,130,0,15949486.0,578631.0
+Jedlová u Poličky,Jedlová,56991,,390,0,15900053.0,578185.0
+Bystré u Poličky,Bystré,56992,náměstí Na podkově,6,0,1794370.0,577928.0
+Korouhev,Korouhev,56993,,234,0,1803646.0,578258.0
+Telecí,Telecí,56994,,156,0,15963926.0,578878.0
+Litomyšl,Litomyšl,57001,Smetanovo náměstí,15,0,1901061.0,578347.0
+Moravská Třebová 1,Moravská Třebová,57101,náměstí T. G. Masaryka,74,7,15969592.0,578444.0
+Polička,Polička,57201,Eimova,245,0,15940306.0,578576.0
+Havlíčkův Brod 2,Havlíčkův Brod,58002,Svatovojtěšská,58,0,9588809.0,568414.0
+Pohled,Pohled,58221,Revoluční,39,0,9497200.0,569291.0
+Přibyslav,Přibyslav,58222,Bechyňovo náměstí,3,0,9500693.0,569321.0
+Havlíčkova Borová,Havlíčkova Borová,58223,Náměstí,278,0,9399518.0,568660.0
+Oudoleň,Oudoleň,58224,,131,0,9489363.0,569224.0
+Okrouhlice,Okrouhlice,58231,,49,0,9481681.0,569186.0
+Lipnice nad Sázavou,Lipnice nad Sázavou,58232,,2,0,9454675.0,569046.0
+Dolní Město,Dolní Město,58233,,93,0,9377646.0,568601.0
+Krásná Hora u Havlíčkova Brodu,Krásná Hora,58234,,23,0,9437151.0,568929.0
+Lučice,Lučice,58235,,171,0,9462457.0,569062.0
+Skuhrov u Havlíčkova Brodu,Skuhrov,58241,,48,0,9522000.0,569470.0
+Kámen u Habrů,Kámen,58242,,53,0,9425217.0,568821.0
+Tis,Tis,58243,,112,0,9554912.0,569615.0
+Sázavka,Sázavka,58244,,12,0,9517260.0,569429.0
+Uhelná Příbram,Uhelná Příbram,58245,,121,0,9559680.0,569640.0
+Šlapanov,Šlapanov,58251,,158,0,9548327.0,569585.0
+Věžnice,Věžnice,58252,,45,0,9653180.0,569704.0
+Štoky,Štoky,58253,,116,0,9550232.0,569593.0
+Úsobí,Úsobí,58254,,43,0,9560611.0,569658.0
+Herálec,Herálec,58255,,257,0,25336495.0,568678.0
+Věž,Věž,58256,,17,0,9566511.0,569691.0
+Lípa u Havlíčkova Brodu,Lípa,58257,,93,0,9452877.0,569038.0
+Česká Bělá,Česká Bělá,58261,,122,0,9365630.0,568503.0
+Sobíňov,Sobíňov,58262,,200,0,9528482.0,569518.0
+Ždírec nad Doubravou,Ždírec nad Doubravou,58263,Družstevní,569,0,25362950.0,569780.0
+Horní Studenec,Ždírec nad Doubravou,58264,,107,0,9411496.0,569780.0
+Slavíkov,Slavíkov,58265,,2,0,9523791.0,569488.0
+Krucemburk,Krucemburk,58266,Mikuláše Střely,138,0,9440551.0,568945.0
+Dolní Krupá,Dolní Krupá,58271,,30,0,9375333.0,568597.0
+Rozsochatec,Rozsochatec,58272,,97,0,9514601.0,569399.0
+Nová Ves u Chotěboře,Nová Ves u Chotěboře,58273,,63,0,9475583.0,569160.0
+Jeřišno,Jeřišno,58274,,25,0,9422510.0,568805.0
+Maleč,Maleč,58276,,104,0,9465723.0,569089.0
+Libice nad Doubravou,Libice nad Doubravou,58277,Zámecká,47,0,9450289.0,569020.0
+Habry,Habry,58281,Pražská,20,0,9393161.0,568651.0
+Golčův Jeníkov,Golčův Jeníkov,58282,Havlíčkovo náměstí,126,0,9382534.0,568635.0
+Vilémov,Vilémov,58283,,1,0,9569944.0,569712.0
+Leština u Světlé,Leština u Světlé,58286,,51,0,9446664.0,569011.0
+Číhošť,Číhošť,58287,,44,0,9368353.0,568520.0
+Světlá nad Sázavou,Světlá nad Sázavou,58291,náměstí Trčků z Lípy,1045,0,9544437.0,569569.0
+Kamenná Lhota,Kamenná Lhota,58292,,52,0,9427350.0,568848.0
+Kožlí,Kožlí,58293,,156,0,9433830.0,568902.0
+Hněvkovice u Ledče nad Sázavou,Hněvkovice,58294,,33,0,9406255.0,568694.0
+Chotěboř,Chotěboř,58301,náměstí T. G. Masaryka,56,0,9617655.0,568759.0
+Ledeč nad Sázavou,Ledeč nad Sázavou,58401,Nádražní,461,0,9642811.0,568988.0
+Jihlava 1,Jihlava,58601,Masarykovo náměstí,4321,8,12371912.0,586846.0
+Jihlava 2,Jihlava,58602,Havlíčkova,5100,124,26206366.0,586846.0
+Jihlava 4,Jihlava,58604,Erbenova,2598,33,12354970.0,586846.0
+Jihlava 5,Jihlava,58605,S. K. Neumanna,496,15,26111918.0,586846.0
+Jihlava 6,Jihlava,58606,Březinova,4690,144,12375543.0,586846.0
+Smrčná,Smrčná,58801,,22,0,12312827.0,550299.0
+Dušejov,Dušejov,58805,,109,0,5722527.0,587095.0
+Střítež u Jihlavy,Střítež,58811,,1,0,13777505.0,587958.0
+Dobronín,Dobronín,58812,Za Školou,343,1,12256919.0,587028.0
+Polná,Polná,58813,Varhánkova,1241,0,27396797.0,587711.0
+Velký Beranov,Velký Beranov,58821,,31,0,13783173.0,588113.0
+Luka nad Jihlavou,Luka nad Jihlavou,58822,Nová,16,0,13745689.0,587478.0
+Kamenice u Jihlavy,Kamenice,58823,,395,0,12288292.0,587346.0
+Řehořov,Kamenice,58824,,62,0,12312266.0,587346.0
+Jersín,Jersín,58825,,36,0,12276715.0,587265.0
+Zhoř u Jihlavy,Zhoř,58826,,106,0,12329983.0,588253.0
+Jamné u Jihlavy,Jamné,58827,,1.0,0,12274640.0,587249.0
+Puklice,Puklice,58831,,1.0,0,13764357.0,587745.0
+Brtnice,Brtnice,58832,náměstí Svobody,257.0,0,12247464.0,586943.0
+Stonařov,Stonařov,58833,,207.0,0,13776321.0,587931.0
+Dlouhá Brtnice,Dlouhá Brtnice,58834,,57.0,0,13723413.0,587010.0
+Vyskytná nad Jihlavou,Vyskytná nad Jihlavou,58841,,67.0,0,13794027.0,588172.0
+Větrný Jeníkov,Větrný Jeníkov,58842,,5.0,0,13786636.0,588121.0
+Rohozná u Jihlavy,Rohozná,58844,,28.0,0,13769031.0,587796.0
+Dolní Cerekev,Dolní Cerekev,58845,,107.0,0,12258539.0,587044.0
+Batelov,Batelov,58851,Třešťská,71.0,2,18563775.0,586862.0
+Horní Dubenky,Horní Dubenky,58852,,31.0,0,13731203.0,587168.0
+Mrákotín,Mrákotín,58854,,31.0,0,5742277.0,587541.0
+Telč,Telč,58856,Staňkova,294.0,0,12431737.0,588024.0
+Kostelec u Jihlavy,Kostelec,58861,,100.0,0,12293482.0,587401.0
+Urbanov,Urbanov,58862,,26.0,0,13779583.0,588067.0
+Krasonice,Krasonice,58864,,127.0,0,13744623.0,587443.0
+Nová Říše,Nová Říše,58865,Náměstí,40.0,0,5738776.0,587591.0
+Rozseč,Rozseč,58866,,94.0,0,12310158.0,587800.0
+Stará Říše,Stará Říše,58867,,81.0,0,12316202.0,587923.0
+Třešť,Třešť,58901,Revoluční,20.0,1,5724856.0,588032.0
+Žďár nad Sázavou 1,Žďár nad Sázavou,59101,Nádražní,494.0,23,3399770.0,595209.0
+Herálec pod Žákovou horou,Herálec,59201,,80.0,0,3559891.0,595594.0
+Svratka,Svratka,59202,9. května,250.0,0,3715523.0,596868.0
+Sněžné,Sněžné,59203,,54.0,0,3698238.0,596787.0
+Fryšava pod Žákovou horou,Fryšava pod Žákovou horou,59204,,,0,,
+Velká Losenice,Velká Losenice,59211,,161.0,0,3739856.0,596981.0
+Nížkov,Nížkov,59212,,107.0,0,3626989.0,596205.0
+Bohdalov,Bohdalov,59213,,84.0,0,3515541.0,595292.0
+Nové Veselí,Nové Veselí,59214,Na Městečku,59.0,0,3630561.0,596256.0
+Škrdlovice,Škrdlovice,59221,,48.0,0,3717992.0,596876.0
+Vojnův Městec,Vojnův Městec,59222,,27.0,0,3754171.0,597091.0
+Nové Město na Moravě,Nové Město na Moravě,59231,Masarykova,1492.0,0,3469344.0,596230.0
+Jámy,Jámy,59232,,47.0,0,3571131.0,595756.0
+Radešínská Svratka,Radešínská Svratka,59233,,134.0,0,3665097.0,596531.0
+Dalečín,Dalečín,59241,,61.0,0,3779548.0,595454.0
+Jimramov,Jimramov,59242,Pavlovická,181.0,0,3575071.0,595772.0
+Věcov,Věcov,59244,,61.0,0,3736512.0,596957.0
+Lísek,Lísek,59245,,80.0,0,3603075.0,596051.0
+Dolní Rožínka,Dolní Rožínka,59251,,81.0,0,3546365.0,595535.0
+Rožná,Rožná,59252,,8.0,0,3679161.0,596655.0
+Strážek,Strážek,59253,,13.0,0,3705501.0,596825.0
+Moravec,Moravec,59254,,59.0,0,3615421.0,596141.0
+Bobrová,Bobrová,59255,,190.0,0,3511022.0,595268.0
+Zvole nad Pernštejnem,Zvole,59256,,52.0,0,3762491.0,597155.0
+Rozsochy,Rozsochy,59257,,146.0,0,3678369.0,596647.0
+Doubravník,Doubravník,59261,,33.0,0,3548899.0,595551.0
+Nedvědice,Nedvědice,59262,,42.0,0,3617599.0,596175.0
+Štěpánov nad Svratkou,Štěpánov nad Svratkou,59263,,23.0,0,3721779.0,596884.0
+Prosetín,Prosetín,59264,,64.0,0,3661547.0,596493.0
+Rovečné,Rovečné,59265,,120.0,0,3674690.0,596612.0
+Vír,Vír,59266,,172,0,3749193.0,597074.0
+Bystřice nad Pernštejnem,Bystřice nad Pernštejnem,59301,Masarykovo náměstí,105,0,27227227.0,595411.0
+Velké Meziříčí,Velké Meziříčí,59401,Poštovní,1422,1,3494462.0,597007.0
+Uhřínov,Uhřínov,59441,,23,0,3798232.0,596906.0
+Měřín,Měřín,59442,Poštovní,265,0,3610535.0,596116.0
+Netín,Netín,59443,,138,0,85669423.0,596183.0
+Radostín nad Oslavou,Radostín nad Oslavou,59444,,190,0,3670546.0,596574.0
+Ostrov nad Oslavou,Ostrov nad Oslavou,59445,,186,0,3646238.0,596361.0
+Křižanov,Křižanov,59451,Benešovo náměstí,12,0,3590437.0,595926.0
+Osová Bítýška,Osová Bítýška,59453,,3,0,3641635.0,596345.0
+Křoví,Křoví,59454,,32,0,3596222.0,595951.0
+Dolní Loučky,Dolní Loučky,59455,,120,0,3542858.0,595527.0
+Žďárec,Žďárec,59456,,42,0,3801888.0,597171.0
+Vidonín,Vidonín,59457,,36,0,3747379.0,597066.0
+Heřmanov,Heřmanov,59458,,35,0,3564045.0,595608.0
+Bory,Bory,59461,,232,0,3522890.0,595641.0
+Velká Bíteš,Velká Bíteš,59501,Masarykovo náměstí,81,0,3426424.0,596973.0
+Brno 1,Brno,60100,Šumavská,519,35,19171218.0,582786.0
+Brno 2,Brno,60200,Nádražní,681,2a,25067656.0,582786.0
+Brno 7,Modřice,60700,U dálnice,777,0,25937944.0,583391.0
+Brno 8,Brno,60800,Heršpická,875,6a,31089046.0,582786.0
+Brno 10,Brno,61000,Orlí,655,30,19100710.0,582786.0
+Brno 12,Brno,61200,Mojmírovo náměstí,2919,22,25089544.0,582786.0
+Brno 13,Brno,61300,Zemědělská,649,68,25084291.0,582786.0
+Brno 15,Brno,61500,Rokycanova,1867,35,19637829.0,582786.0
+Brno 16,Brno,61600,náměstí Svornosti,2573,6,19603193.0,582786.0
+Brno 17,Brno,61700,Svatopetrská,60,28,19391749.0,582786.0
+Brno 18,Brno,61800,Spáčilova,1109,15,19353146.0,582786.0
+Brno 20,Brno,62000,Tuřanské náměstí,88,3,19039689.0,582786.0
+Brno 21,Brno,62100,Kolaříkova,1501,10,19508395.0,582786.0
+Brno 22,Brno,62200,Fryčajova,77,18,19460171.0,582786.0
+Brno 23,Brno,62300,Libušina třída,579,2,19385137.0,582786.0
+Brno 24,Brno,62400,Hlavní,247,64,19673612.0,582786.0
+Brno 25,Brno,62500,U pošty,638,16,19565356.0,582786.0
+Brno 26,Brno,62600,Mácova,37,3,19067402.0,582786.0
+Brno 27,Brno,62700,Přemyslovo náměstí,857,22,19550804.0,582786.0
+Brno 28,Brno,62800,Vlkova,2481,4,19436416.0,582786.0
+Brno 29,Brno,62900,Pálavské náměstí,4246,5,19573936.0,582786.0
+Brno 30,Brno,63000,Dlouhá,576,1,19216564.0,582786.0
+Brno 34,Brno,63400,Kamínky,551,3,75649012.0,582786.0
+Brno 35,Brno,63500,Kubíčkova,1115,8,19318651.0,582786.0
+Brno 37,Brno,63700,Veslařská,549,52,25085280.0,582786.0
+Brno 38,Brno,63800,Haškova,153,17,19259883.0,582786.0
+Brno 41,Brno,64100,Helenčina,976,1a,40609596.0,582786.0
+Brno 42,Brno,64200,Vzhledná,500,5,19228350.0,582786.0
+Brno 43,Brno,64300,Chrlické náměstí,1,4,19058691.0,582786.0
+Bílovice nad Svitavou,Bílovice nad Svitavou,66401,Žižkova,998,0,74399306.0,582824.0
+Ochoz u Brna,Ochoz u Brna,66402,Náves,17,2,24128503.0,583537.0
+Podolí,Podolí,66403,,122,0,24642291.0,583634.0
+Mokrá,Mokrá-Horákov,66404,,348,0,24121967.0,583405.0
+Tvarožná,Tvarožná,66405,,40,0,24004111.0,584037.0
+Viničné Šumice,Viničné Šumice,66406,,23,0,13284126.0,584126.0
+Pozořice,Pozořice,66407,Na Městečku,14,0,24646067.0,583677.0
+Blažovice,Blažovice,66408,Náves,103,0,24100501.0,582841.0
+Zbýšov u Brna,Zbýšov,66411,Masarykova,248,0,24025763.0,584223.0
+Oslavany,Oslavany,66412,Hlavní,36,24,24697028.0,583588.0
+Nová Ves,Nová Ves,66413,,67,0,24632694.0,583502.0
+Neslovice,Neslovice,66416,Žleb,95,0,23960175.0,583481.0
+Tetčice,Tetčice,66417,Nádražní,58,0,13267655.0,583987.0
+Babice nad Svitavou,Babice nad Svitavou,66419,,83,0,13164465.0,582794.0
+Čebín,Čebín,66423,,541,0,78767466.0,582913.0
+Drásov,Drásov,66424,Všechovická,61,0,24952443.0,582972.0
+Lelekovice,Lelekovice,66431,Hlavní,75,7,13190946.0,583286.0
+Vranov,Vranov,66432,,24,0,24684414.0,584151.0
+Kuřim,Kuřim,66434,Legionářská,334,65,24184039.0,583251.0
+Troubsko,Troubsko,66441,Zámecká,150,8,24678546.0,584029.0
+Modřice,Modřice,66442,Masarykova,144,0,26949539.0,583391.0
+Želešice,Želešice,66443,24. dubna,30,0,24689688.0,584266.0
+Ořechov u Brna,Ořechov,66444,Zahradní,216,1,23972769.0,583561.0
+Prštice,Prštice,66446,Hlavní,1,0,23980265.0,583707.0
+Střelice u Brna,Střelice,66447,náměstí Svobody,241,3,24157465.0,583910.0
+Moravany u Brna,Moravany,66448,Střední,11,30,24122718.0,583413.0
+Ostopovice,Ostopovice,66449,U Kaple,260,5,24139416.0,583596.0
+Šlapanice u Brna,Šlapanice,66451,Masarykovo náměstí,100,7,24078450.0,583952.0
+Sokolnice,Sokolnice,66452,Komenského,162,0,13248880.0,583898.0
+Újezd u Brna,Újezd u Brna,66453,Komenského,144,0,24009784.0,584045.0
+Těšany,Těšany,66454,,141,0,13264401.0,583995.0
+Moutnice,Moutnice,66455,,297,0,13217194.0,583448.0
+Blučina,Blučina,66456,Na Lázních,600,0,23940492.0,582859.0
+Měnín,Měnín,66457,,570,0,73111767.0,583383.0
+Prace,Prace,66458,Ponětovská,129,0,24144606.0,583685.0
+Telnice,Telnice,66459,Růžová,243,0,13260944.0,583979.0
+Rajhrad,Rajhrad,66461,Masarykova,88,0,13233823.0,583758.0
+Hrušovany u Brna,Hrušovany u Brna,66462,Jiřího z Poděbrad,224,0,13305468.0,583081.0
+Žabčice,Žabčice,66463,Nádražní,589,0,81262981.0,584231.0
+Dolní Kounice,Dolní Kounice,66464,Masarykovo náměstí,142,10,24939773.0,582956.0
+Malešovice,Malešovice,66465,,50,0,24618578.0,583332.0
+Němčičky,Němčičky,66466,,6,0,13221876.0,583472.0
+Syrovice,Syrovice,66467,,60,0,13255401.0,583936.0
+Veverská Bítýška,Veverská Bítýška,66471,9. května,3,0,13273434.0,584100.0
+Jinačovice,Jinačovice,66472,,83,0,13183133.0,583171.0
+Deblín,Deblín,66475,,43,0,24934992.0,582948.0
+Lažánky,Lažánky,66476,,14,0,24614360.0,583260.0
+Ostrovačice,Ostrovačice,66481,Žebětínská,252,0,73211591.0,583600.0
+Říčany u Brna,Říčany,66482,náměstí Osvobození,286,0,13244299.0,583839.0
+Domašov,Domašov,66483,Brněnská,94,0,24950581.0,582964.0
+Zastávka u Brna,Zastávka,66484,Babická,103,0,13345567.0,584207.0
+Ketkovice,Ketkovice,66485,,214,0,13186582.0,583201.0
+Vysoké Popovice,Vysoké Popovice,66486,,35,0,24687251.0,584177.0
+Zbraslav,Zbraslav,66488,Komenského,105,0,13292081.0,584215.0
+Ivančice,Ivančice,66491,Komenského náměstí,21,9,24034738.0,583120.0
+Rosice u Brna,Rosice,66501,Palackého náměstí,19,0,24062774.0,583782.0
+Tišnov 1,Tišnov,66601,náměstí Míru,22,0,13311816.0,584002.0
+Předklášteří,Předklášteří,66602,Komenského,1169,0,24000621.0,549746.0
+Mobilní pošta 61,Vrbice,66666,,8,0,10183841.0,585041.0
+Židlochovice,Židlochovice,66701,Nádražní,160,0,13333909.0,584282.0
+Znojmo 1,Znojmo,66901,Horní náměstí,256,13,10983490.0,593711.0
+Znojmo 2,Znojmo,66902,Dr. Milady Horákové,2297,6,11003162.0,593711.0
+Znojmo 4,Znojmo,66904,Poštovní,82,8,10881271.0,593711.0
+Citonice,Citonice,67101,,82,0,10692487.0,593851.0
+Šumná,Šumná,67102,,45,0,10927751.0,594911.0
+Vranov nad Dyjí,Vranov nad Dyjí,67103,Náměstí,19,0,10962352.0,595098.0
+Šafov,Šafov,67106,,11,0,10910832.0,594865.0
+Uherčice u Znojma,Uherčice,67107,,113,0,10947671.0,595004.0
+Vratěnín,Vratěnín,67108,,64,0,10970096.0,595110.0
+Šatov,Šatov,67122,,381,0,10917942.0,594881.0
+Chvalovice,Chvalovice,67123,,46,0,83325506.0,594172.0
+Vrbovec,Vrbovec,67124,,146,0,10972498.0,595128.0
+Hodonice,Hodonice,67125,U Pošty,80,0,16053761.0,594067.0
+Dyjákovice,Dyjákovice,67126,,339,0,10711767.0,593974.0
+Hrádek u Znojma,Hrádek,67127,,29,0,10752102.0,594148.0
+Jaroslavice,Jaroslavice,67128,Náměstí,92,0,10772791.0,594199.0
+Strachotice,Strachotice,67129,,46,0,10903372.0,594822.0
+Únanov,Únanov,67131,,243,0,10950729.0,595021.0
+Plaveč,Plaveč,67132,Náves,63,0,10867643.0,594628.0
+Mikulovice u Znojma,Mikulovice,67133,,144,0,10818880.0,594431.0
+Horní Dunajovice,Horní Dunajovice,67134,,102,0,10737570.0,594091.0
+Skalice u Znojma,Skalice,67136,,92,0,10891803.0,594768.0
+Višňové u Znojma,Višňové,67138,,127,0,10958916.0,595071.0
+Tavíkovice,Tavíkovice,67140,,150,0,10936912.0,594938.0
+Vémyslice,Vémyslice,67142,,64,0,10954864.0,595055.0
+Kravsko,Kravsko,67151,,200,0,10790535.0,594261.0
+Hluboké Mašůvky,Hluboké Mašůvky,67152,,10,0,10723722.0,594041.0
+Jevišovice,Jevišovice,67153,,290,0,10782672.0,594202.0
+Hostim,Hostim,67154,,165,0,10747541.0,594121.0
+Blížkovice,Blížkovice,67155,,129,0,11017872.0,593770.0
+Grešlové Mýto,Grešlové Mýto,67156,,22,0,10717315.0,594016.0
+Prosiměřice,Prosiměřice,67161,,197,0,10880330.0,594709.0
+Oleksovice,Oleksovice,67162,,69,0,10855408.0,594571.0
+Lechovice,Lechovice,67163,,32,0,10805320.0,594334.0
+Božice,Božice,67164,,374,0,10687238.0,593826.0
+Břežany u Znojma,Břežany,67165,,103,0,10690492.0,593842.0
+Litobratřice,Litobratřice,67166,,19,0,10808752.0,594369.0
+Hrušovany nad Jevišovkou,Hrušovany nad Jevišovkou,67167,náměstí Míru,707,0,10762639.0,594156.0
+Hrabětice,Hrabětice,67168,Hrušovanská,153,0,10749896.0,594130.0
+Hevlín,Hevlín,67169,,491,0,26579316.0,594032.0
+Hostěradice,Hostěradice,67171,,48,0,10741607.0,594113.0
+Miroslav,Miroslav,67172,náměstí Svobody,22,22,10821350.0,594458.0
+Tulešice,Tulešice,67173,,18,0,10943790.0,594989.0
+Vedrovice,Vedrovice,67174,,326,0,16060962.0,595047.0
+Loděnice,Loděnice,67175,,114.0,0,10811524.0,594377.0
+Olbramovice u Moravského Krumlova,Olbramovice,67176,,148.0,0,10852808.0,594563.0
+Branišovice,Branišovice,67177,,57.0,0,10688331.0,593834.0
+Jiřice u Miroslavi,Jiřice u Miroslavi,67178,,33.0,0,10785141.0,594229.0
+Znojmo 5,Znojmo,67181,Dukelských bojovníků,3655.0,138,27829537.0,593711.0
+Dobšice,Dobšice,67182,Leska,347.0,0,25448544.0,546941.0
+Moravský Krumlov,Moravský Krumlov,67201,náměstí T. G. Masaryka,29.0,0,11023881.0,594482.0
+Třebíč 1,Třebíč,67401,Smila Osovského,2.0,1,18759980.0,590266.0
+Třebíč 5,Třebíč,67405,M. Majerové,751.0,6,18768717.0,590266.0
+Vladislav,Vladislav,67501,,198.0,0,18754171.0,591904.0
+Koněšín,Koněšín,67502,,144.0,0,2698617.0,590886.0
+Budišov u Třebíče,Budišov,67503,,356.0,0,25249631.0,590401.0
+Hodov,Hodov,67504,,120.0,0,73468843.0,590622.0
+Rudíkov,Rudíkov,67505,,,0,,
+Čechtín,Čechtín,67507,,55.0,0,2744007.0,590452.0
+Kouty u Třebíče,Kouty,67508,,11.0,0,18635598.0,590908.0
+Okříšky,Okříšky,67521,Jihlavská,539.0,0,18675255.0,591301.0
+Stařeč,Stařeč,67522,Jakubské náměstí,148.0,0,18714030.0,591742.0
+Kojetice na Moravě,Kojetice,67523,,82.0,0,2676028.0,590860.0
+Čáslavice,Čáslavice,67524,,110.0,0,2732483.0,590436.0
+Rokytnice nad Rokytnou,Rokytnice nad Rokytnou,67525,,67.0,0,2709724.0,591611.0
+Želetava,Želetava,67526,Podolí,143.0,0,2738287.0,591998.0
+Předín,Předín,67527,,243.0,0,2751232.0,591432.0
+Opatov na Moravě,Opatov,67528,,148.0,0,18677100.0,591319.0
+Kněžice u Třebíče,Kněžice,67529,,2.0,0,18629954.0,590843.0
+Jemnice,Jemnice,67531,Palackého,771.0,0,2761637.0,590789.0
+Třebelovice,Třebelovice,67532,,123.0,0,2689766.0,591858.0
+Dešov,Dešov,67533,,147.0,0,2680131.0,590533.0
+Police u Jemnice,Police,67534,,30.0,0,2713063.0,591394.0
+Nové Syrovice,Nové Syrovice,67541,,4.0,0,18665551.0,591254.0
+Budkov,Budkov,67542,,82.0,0,2715473.0,590410.0
+Domamil,Domamil,67543,,2.0,0,18603785.0,590568.0
+Lesonice,Lesonice,67544,,117.0,0,2726882.0,591009.0
+Šebkovice,Šebkovice,67545,,127.0,0,2683032.0,591807.0
+Litohoř,Litohoř,67546,,155.0,0,2706601.0,550507.0
+Dukovany-elektrárna,Dukovany,67550,,269.0,0,18607624.0,590576.0
+Jaroměřice nad Rokytnou,Jaroměřice nad Rokytnou,67551,náměstí Míru,25.0,0,18788858.0,590754.0
+Lipník u Hrotovic,Lipník,67552,,106.0,0,18647651.0,591041.0
+Valeč u Hrotovic,Valeč,67553,,10.0,0,2706971.0,591874.0
+Dalešice,Dalešice,67554,,87.0,0,2740818.0,590517.0
+Hrotovice,Hrotovice,67555,Brněnská,188.0,0,18615350.0,590673.0
+Dukovany,Dukovany,67556,,99.0,0,18606016.0,590576.0
+Rouchovany,Rouchovany,67557,,329.0,0,18700403.0,591629.0
+Radkovice u Hrotovic,Radkovice u Hrotovic,67559,,13.0,0,18693857.0,591548.0
+Myslibořice,Myslibořice,67560,,14.0,0,18660860.0,591190.0
+Náměšť nad Oslavou,Náměšť nad Oslavou,67571,Masarykovo náměstí,62.0,0,18799426.0,591211.0
+Kralice nad Oslavou,Kralice nad Oslavou,67572,Jinošovská,78.0,0,18640613.0,590941.0
+Rapotice,Rapotice,67573,Bítešská,37.0,0,2691078.0,591581.0
+Březník,Březník,67574,,104.0,0,2703009.0,590380.0
+Mohelno,Mohelno,67575,,197.0,0,18656803.0,591173.0
+Hartvíkovice,Hartvíkovice,67576,,31,0,2745330.0,590584.0
+Kramolín-vodní dílo,Kramolín,67577,,46,0,2673932.0,590959.0
+Čikov,Čikov,67578,,45,0,18598951.0,590495.0
+Tasov,Tasov,67579,,130,0,18724281.0,591831.0
+Moravské Budějovice 2,Moravské Budějovice,67602,1. máje,322,0,2655080.0,591181.0
+Blansko 1,Blansko,67801,Hybešova,584,53,15226654.0,581283.0
+Skalice nad Svitavou,Skalice nad Svitavou,67901,,85,0,7893256.0,582336.0
+Rájec-Jestřebí,Rájec-Jestřebí,67902,Sportovní,629,0,7882441.0,582239.0
+Olomučany,Olomučany,67903,,123,0,7867093.0,582166.0
+Adamov 1,Adamov,67904,Nádražní,115,0,7920849.0,581291.0
+Křtiny,Křtiny,67905,,26,0,1959786.0,581828.0
+Jedovnice,Jedovnice,67906,Havlíčkovo náměstí,631,0,7830475.0,581682.0
+Kotvrdovice,Kotvrdovice,67907,,150,0,1953729.0,581763.0
+Doubravice nad Svitavou,Doubravice nad Svitavou,67911,Dolní,33,0,7813899.0,581542.0
+Sloup v Moravském Krasu,Sloup,67913,,1,0,1980009.0,582352.0
+Ostrov u Macochy,Ostrov u Macochy,67914,,80,0,2009234.0,582182.0
+Lipovec u Blanska,Lipovec,67915,,318,0,15199002.0,581950.0
+Černá Hora,Černá Hora,67921,Svitavská,103,0,7807473.0,581496.0
+Lipůvka,Lipůvka,67922,,146,0,1966898.0,581968.0
+Lomnice u Tišnova,Lomnice,67923,Dlouhá,126,0,15200795.0,581976.0
+Sebranice u Boskovic,Sebranice,67931,,149,0,7889925.0,582310.0
+Svitávka,Svitávka,67932,Palackého,183,0,7899823.0,582441.0
+Vísky u Letovic,Vísky,67933,,96,0,25876686.0,582662.0
+Knínice,Knínice,67934,,275,0,1950517.0,581739.0
+Šebetov,Šebetov,67935,,133,0,1988239.0,582468.0
+Vanovice,Vanovice,67936,,132,0,2043114.0,582590.0
+Borotín u Boskovic,Borotín,67937,,200,0,7802536.0,581356.0
+Cetkovice,Cetkovice,67938,Náves,168,0,7805276.0,581470.0
+Úsobrno,Úsobrno,67939,,81,0,2040085.0,582573.0
+Němčice u Boskovic,Němčice,67951,,151,0,7858906.0,582085.0
+Žďárná,Žďárná,67952,,10,0,1925636.0,582751.0
+Benešov u Boskovic,Benešov,67953,,18,0,1929950.0,581330.0
+Letovice,Letovice,67961,Tyršova,205,1,2024942.0,581917.0
+Křetín,Křetín,67962,,54,0,1957830.0,581801.0
+Velké Opatovice,Velké Opatovice,67963,Dlouhá,669,0,25276697.0,582646.0
+Lysice,Lysice,67971,Komenského,570,0,7855176.0,582018.0
+Kunštát na Moravě,Kunštát,67972,náměstí ČSČK,496,0,25307614.0,581879.0
+Rozseč nad Kunštátem,Rozseč nad Kunštátem,67973,,106,0,2038544.0,582271.0
+Olešnice na Moravě,Olešnice,67974,náměstí Míru,92,0,7860455.0,582158.0
+Drnovice u Lysic,Drnovice,67976,,52,0,7818301.0,581551.0
+Boskovice,Boskovice,68001,Hybešova,1009,1,15268209.0,581372.0
+Vyškov 1,Vyškov,68201,Dvořákova,128,23,13920995.0,592889.0
+Vyškov 3,Vyškov,68203,náměstí Svobody,19,11,13898621.0,592889.0
+Rousínov u Vyškova,Rousínov,68301,Sušilovo náměstí,52,30,13929526.0,593559.0
+Habrovany,Habrovany,68302,,79,0,386529.0,593028.0
+Luleč,Luleč,68303,,260,0,13871561.0,593273.0
+Drnovice,Drnovice,68304,,435,0,535877.0,593001.0
+Račice-Pístovice,Račice-Pístovice,68305,,74,0,401480.0,593516.0
+Ruprechtov,Ruprechtov,68306,,251,0,421634.0,593567.0
+Krásensko,Krásensko,68307,,123,0,390241.0,593192.0
+Studnice u Vyškova,Studnice,68308,,66,0,405060.0,593605.0
+Rychtářov,Vyškov,68309,,48,0,13885316.0,592889.0
+Pustiměř,Pustiměř,68321,,202,0,489981.0,593508.0
+Ivanovice na Hané,Ivanovice na Hané,68323,Nádražní,139,3,13860429.0,593117.0
+Švábenice,Švábenice,68324,,18,0,458295.0,593621.0
+Orlovice,Orlovice,68325,,157,0,376892.0,593460.0
+Hoštice-Heroltice,Hoštice-Heroltice,68326,,78,0,379298.0,593061.0
+Moravské Prusy,Prusy-Boškůvky,68327,,40,0,423696.0,593494.0
+Kučerov,Kučerov,68331,,22,0,485047.0,593249.0
+Brankovice,Brankovice,68332,Náměstí,101,0,447439.0,592927.0
+Nesovice,Nesovice,68333,,172,0,431087.0,593419.0
+Nemotice,Nemotice,68334,,66,0,418129.0,593401.0
+Letonice,Letonice,68335,Osvobození,112,0,26546108.0,593257.0
+Milonice u Vyškova,Milonice,68336,,102,0,408590.0,593338.0
+Bohdalice,Bohdalice-Pavlovice,68341,,45,0,13852582.0,592901.0
+Nové Hvězdlice,Hvězdlice,68342,,211,0,454591.0,593087.0
+Holubice,Holubice,68351,,61,0,462098.0,550825.0
+Křenovice,Křenovice,68352,Svárovská,679,0,27718654.0,593214.0
+Šaratice,Šaratice,68353,Náves,83,0,13887475.0,593613.0
+Otnice,Otnice,68354,Dědina,46,0,496901.0,593478.0
+Bošovice,Bošovice,68355,Náves,291,0,440434.0,592919.0
+Nížkovice,Nížkovice,68356,,39,0,432997.0,593435.0
+Křižanovice,Křižanovice,68357,,85,0,466379.0,593222.0
+Slavkov u Brna,Slavkov u Brna,68401,Palackého náměstí,3,0,13937936.0,593583.0
+Bučovice,Bučovice,68501,Legionářská,128,0,515329.0,592943.0
+Uherské Hradiště 1,Uherské Hradiště,68601,Masarykovo náměstí,12,0,28406184.0,592005.0
+Staré Město u Uherského Hradiště,Staré Město,68603,náměstí Hrdinů,100,0,4972198.0,550752.0
+Kunovice,Kunovice,68604,Pekařská,1542,0,4969863.0,550744.0
+Košíky,Košíky,68680,,172,0,4877977.0,592307.0
+Babice u Uherského Hradiště,Babice,68703,,147,0,4852036.0,592013.0
+Traplice,Traplice,68704,,240,0,4938224.0,592706.0
+Jalubí,Jalubí,68705,,341,0,4911474.0,592226.0
+Velehrad,Velehrad,68706,Hradišťská,288,0,26989808.0,592790.0
+Tupesy,Tupesy,68707,,135,0,4821441.0,592722.0
+Buchlovice,Buchlovice,68708,náměstí Svobody,283,0,25359789.0,592102.0
+Boršice,Boršice,68709,,147,0,4860934.0,592064.0
+Zlechov,Zlechov,68710,,540,0,4933052.0,592862.0
+Topolná,Topolná,68711,,204,0,4890957.0,592692.0
+Bílovice u Uherského Hradiště,Bílovice,68712,,39,0,4920287.0,592030.0
+Březolupy,Březolupy,68713,,434,0,4727894.0,592081.0
+Nedachlebice,Nedachlebice,68715,,250,0,4927257.0,592404.0
+Ostrožská Nová Ves,Ostrožská Nová Ves,68722,Záhumení,754,0,4702140.0,592463.0
+Ostrožská Lhota,Ostrožská Lhota,68723,,67,0,4903927.0,592455.0
+Uherský Ostroh,Uherský Ostroh,68724,Svobodova,146,0,4792815.0,592749.0
+Hluk,Hluk,68725,Hřbitovní,140,0,4807367.0,592170.0
+Šumice,Šumice,68731,,100,0,4946758.0,592676.0
+Nezdenice,Nezdenice,68732,,206,0,25568965.0,592421.0
+Hradčovice,Hradčovice,68733,,168,0,4874315.0,592200.0
+Záhorovice,Záhorovice,68735,,382,0,25743619.0,592846.0
+Polešovice,Polešovice,68737,,242,0,4775660.0,592510.0
+Nedakonice,Nedakonice,68738,,498,0,4716990.0,592412.0
+Medlovice,Medlovice,68741,,80,0,4742052.0,592366.0
+Osvětimany,Osvětimany,68742,,350,0,4917847.0,592471.0
+Nivnice,Nivnice,68751,Sídliště,999,0,4888456.0,592439.0
+Korytná,Korytná,68752,,297,0,4766849.0,592285.0
+Suchá Loz,Suchá Loz,68753,,72,0,4761294.0,592641.0
+Bánov u Uherského Brodu,Bánov,68754,,428,0,26988101.0,592021.0
+Bystřice pod Lopeníkem,Bystřice pod Lopeníkem,68755,,196,0,24973262.0,592111.0
+Prakšice,Prakšice,68756,,29,0,4660544.0,592536.0
+Vlčnov,Vlčnov,68761,,124,0,4681193.0,592820.0
+Dolní Němčí,Dolní Němčí,68762,Nivnická,82,0,4704983.0,592145.0
+Boršice u Blatnice,Boršice u Blatnice,68763,,157,0,4868552.0,592056.0
+Horní Němčí,Horní Němčí,68764,,98,0,4943082.0,592188.0
+Strání,Strání,68765,Na kopci,426,0,4747283.0,592617.0
+Květná,Strání,68766,náměstí Em. Zahna,168,0,4753666.0,592617.0
+Březová u Uherského Brodu,Březová,68767,,390,0,4732669.0,592099.0
+Bojkovice,Bojkovice,68771,Palackého,173,0,4646614.0,592048.0
+Pitín,Pitín,68772,,18,0,5027241.0,592498.0
+Starý Hrozenkov,Starý Hrozenkov,68774,,305,0,4903013.0,592609.0
+Uherský Brod 1,Uherský Brod,68801,Bří Lužů,107,0,5003181.0,592731.0
+Břeclav 2,Břeclav,69002,Břetislavova,1945,1,19008520.0,584291.0
+Břeclav 3,Břeclav,69003,Lidická,3411,33b,28348672.0,584291.0
+Moravský Žižkov,Moravský Žižkov,69101,Břeclavská,222,0,10020250.0,584673.0
+Velké Bílovice,Velké Bílovice,69102,U Školky,366,0,10139753.0,584983.0
+Rakvice,Rakvice,69103,Náměstí,20,0,10079084.0,584860.0
+Přítluky,Přítluky,69104,Poštovní,225,0,10078258.0,584851.0
+Zaječí,Zaječí,69105,Dlážděná,407,0,10191941.0,585050.0
+Velké Pavlovice,Velké Pavlovice,69106,Hlavní,49,89,10163212.0,585017.0
+Němčičky,Němčičky,69107,,221,0,10027297.0,584703.0
+Bořetice u Hustopečí,Bořetice,69108,,503,0,26956942.0,584347.0
+Vrbice,Vrbice,69109,,8,0,10183841.0,585041.0
+Kobylí na Moravě,Kobylí,69110,,500,0,9983244.0,584568.0
+Brumovice,Brumovice,69111,,155,0,9919139.0,584363.0
+Boleradice,Boleradice,69112,,376,0,9904654.0,584321.0
+Strachotín,Strachotín,69116,Osvobození,87,0,10096663.0,584916.0
+Sedlec,Sedlec,69121,,15,0,10086986.0,584878.0
+Pasohlávky,Pasohlávky,69122,,1,0,10036334.0,584762.0
+Pohořelice,Pohořelice,69123,Brněnská,3,0,10054979.0,584801.0
+Přibice,Přibice,69124,,348,0,10075241.0,584843.0
+Vranovice,Vranovice,69125,Školní,1,0,10177124.0,585033.0
+Pouzdřany,Pouzdřany,69126,Hlavní,99,0,10069291.0,584835.0
+Popice,Popice,69127,Hlavní,86,0,10065199.0,584819.0
+Dolní Věstonice,Dolní Věstonice,69129,Na Návsi,21,0,9941347.0,584436.0
+Vlasatice,Vlasatice,69130,,149,0,10175610.0,585025.0
+Břeclav 4,Břeclav,69141,Osvobození,270,4,18980953.0,584291.0
+Valtice,Valtice,69142,náměstí Svobody,18,0,10126635.0,584975.0
+Hlohovec u Břeclavě,Hlohovec,69143,Dědina,10,0,9950893.0,584452.0
+Lednice na Moravě,Lednice,69144,Zámecké náměstí,71,0,25767844.0,584631.0
+Podivín,Podivín,69145,Komenského,311,17,10048839.0,584797.0
+Ladná,Ladná,69146,Masarykova,1,64,18972683.0,558443.0
+Lanžhot,Lanžhot,69151,Komárnov,784,2,15294838.0,584622.0
+Kostice,Kostice,69152,Nová,142,2,9987479.0,584576.0
+Tvrdonice,Tvrdonice,69153,náměstí Míru,96,31,10112006.0,584941.0
+Týnec u Břeclavě,Týnec,69154,Poštovní,284,0,10120866.0,584959.0
+Moravská Nová Ves,Moravská Nová Ves,69155,náměstí Republiky,107,0,10007873.0,584665.0
+Hrušky,Hrušky,69156,Břeclavská,427,0,9965378.0,584487.0
+Uherčice,Uherčice,69162,,72,0,10122648.0,584967.0
+Velké Němčice,Velké Němčice,69163,Městečko,85,0,10158120.0,585009.0
+Nosislav,Nosislav,69164,Městečko,293,0,28329015.0,584720.0
+Křepice u Hustopečí,Křepice,69165,,25,0,9993525.0,584592.0
+Šakvice,Šakvice,69167,Hlavní,12,0,10099816.0,584924.0
+Starovičky,Starovičky,69168,,62,0,10093753.0,584908.0
+Diváky,Diváky,69171,,110,0,9932241.0,584401.0
+Klobouky u Brna,Klobouky u Brna,69172,Masarykova,757,1,9978712.0,584550.0
+Krumvíř,Krumvíř,69173,,184,0,23117273.0,584584.0
+Velké Hostěrádky,Velké Hostěrádky,69174,,65,0,10155929.0,584991.0
+Borkovany,Borkovany,69175,,276,0,9907661.0,584339.0
+Šitbořice,Šitbořice,69176,Divácká,583,0,10110585.0,584932.0
+Březí u Mikulova,Březí,69181,Hlavní,112,0,9922784.0,584371.0
+Novosedly na Moravě,Novosedly,69182,,1,0,10031472.0,584746.0
+Drnholec,Drnholec,69183,Kostelní,368,0,9946705.0,584444.0
+Dolní Dunajovice,Dolní Dunajovice,69185,Poštovní,190,0,9937072.0,584428.0
+Perná,Perná,69186,,130,0,10043314.0,584789.0
+Milovice u Mikulova,Milovice,69188,,35,0,10005358.0,584657.0
+Bulhary,Bulhary,69189,,88,0,9927671.0,584380.0
+Mikulov na Moravě,Mikulov,69201,Česká,143,7,15301281.0,584649.0
+Pavlov,Pavlov,69202,Na Návsi,88,0,10039562.0,584771.0
+Hustopeče u Brna,Hustopeče,69301,Husova,1168,5,10204342.0,584495.0
+Hodonín 1,Hodonín,69501,Velkomoravská,2270,6,23198095.0,586021.0
+Rohatec,Rohatec,69601,Květná,359,1,13531867.0,586528.0
+Ratíškovice,Ratíškovice,69602,U Pošty,327,0,13519212.0,586510.0
+Dubňany,Dubňany,69603,U Zdravotního střediska,1649,0,27393585.0,586161.0
+Svatobořice,Svatobořice-Mistřín,69604,Hlavní,1000,113,13565745.0,586625.0
+Milotice u Kyjova,Milotice,69605,Dědina,188,0,13469002.0,586382.0
+Vacenovice,Vacenovice,69606,Na Dědině,777,0,85304867.0,586706.0
+Mutěnice,Mutěnice,69611,Masarykova,201,0,26971038.0,586412.0
+Hovorany,Hovorany,69612,,45,0,13405713.0,586170.0
+Šardice,Šardice,69613,,470,0,13572814.0,586641.0
+Čejč,Čejč,69614,,58,0,13371312.0,586099.0
+Čejkovice,Čejkovice,69615,Templářská,159,0,13376608.0,586102.0
+Starý Poddvorov,Starý Poddvorov,69616,,230,0,26596628.0,586561.0
+Dolní Bojanovice,Dolní Bojanovice,69617,Prostřední,125,0,13392832.0,586137.0
+Lužice u Hodonína,Lužice,69618,Velkomoravská,391,316,13460331.0,586358.0
+Mikulčice,Mikulčice,69619,,500,0,23151196.0,586374.0
+Prušánky,Prušánky,69621,Hlavní,100,0,13502182.0,586498.0
+Bukovany,Bukovany,69631,,222,0,13370367.0,586072.0
+Ždánice,Ždánice,69632,Městečko,759,0,13651722.0,586803.0
+Archlebov,Archlebov,69633,,2,0,13351494.0,586030.0
+Žarošice,Žarošice,69634,,85,0,23178868.0,586790.0
+Dambořice,Dambořice,69635,Městečko,498,0,40014924.0,586129.0
+Násedlovice,Násedlovice,69636,,129,0,13485733.0,586421.0
+Želetice,Želetice,69637,,189,0,13654390.0,586811.0
+Strážovice,Strážovice,69638,,196,0,13551639.0,586595.0
+Lovčice,Lovčice,69639,,119,0,13454404.0,586340.0
+Sobůlky,Sobůlky,69640,,105,0,13543091.0,586552.0
+Vlkoš,Vlkoš,69641,,95,0,23174323.0,586749.0
+Vracov,Vracov,69642,náměstí Míru,202,0,13625021.0,586765.0
+Žeravice,Žeravice,69647,,40,0,13655094.0,586820.0
+Ježov,Ježov,69648,,187,0,13421182.0,586226.0
+Žádovice,Žádovice,69649,,41,0,13643436.0,586781.0
+Moravany,Moravany,69650,,205,0,13474766.0,586391.0
+Kostelec,Kostelec,69651,,260,0,13432362.0,586277.0
+Kyjov 3,Kyjov,69655,,4177,0,13366726.0,586307.0
+Vnorovy,Vnorovy,69661,Hlavní,296,0,28458796.0,586757.0
+Strážnice,Strážnice,69662,náměstí Svobody,494,0,23220732.0,586587.0
+Hroznová Lhota,Hroznová Lhota,69663,,408,0,28448626.0,586188.0
+Kněždub,Kněždub,69664,,140,0,13426478.0,586269.0
+Petrov,Petrov,69665,,283,0,13498576.0,586480.0
+Sudoměřice,Sudoměřice,69666,,320,0,25213199.0,586609.0
+Radějov u Hodonína,Radějov,69667,,7,0,13508504.0,586501.0
+Tvarožná Lhota,Tvarožná Lhota,69668,,190,0,13582232.0,586684.0
+Blatnice pod Svatým Antonínkem,Blatnice pod Svatým Antonínkem,69671,,28,0,13355350.0,586048.0
+Lipov,Lipov,69672,,337,0,13447572.0,586323.0
+Hrubá Vrbka,Hrubá Vrbka,69673,,133,0,13413601.0,586196.0
+Velká nad Veličkou,Velká nad Veličkou,69674,,870,0,13605402.0,586714.0
+Nová Lhota,Nová Lhota,69675,,355,0,13494783.0,586455.0
+Louka,Louka,69676,,19,0,13449893.0,586331.0
+Bzenec,Bzenec,69681,B. Němcové,85,0,13659774.0,586081.0
+Domanín,Domanín,69683,,9,0,13400720.0,586145.0
+Těmice,Těmice,69684,,38,0,13577999.0,586668.0
+Moravský Písek,Moravský Písek,69685,Sportovní,251,0,13479806.0,586404.0
+Kyjov 1,Kyjov,69701,třída Komenského,50,10,13688791.0,586307.0
+Veselí nad Moravou,Veselí nad Moravou,69801,náměstí Míru,675,0,13707841.0,586722.0
+Ostrava 30,Ostrava,70030,Bohumíra Četyny,1047,12,23338563.0,554821.0
+Ostrava 36,Ostrava,70036,Sjízdná,5554,2,25936247.0,554821.0
+Ostrava 37,Ostrava,70037,náměstí Antonie Bejdové,1808,7,3301346.0,554821.0
+Ostrava 39,Ostrava,70039,Jantarová,3344,4,41129075.0,554821.0
+Ostrava 45,Ostrava,70045,Na Smyčce,317,5,23339489.0,554821.0
+Ostrava 46,Ostrava,70046,Horní,1492,55,3251969.0,554821.0
+Ostrava 47,Ostrava,70047,Výškovická,714,170,25053230.0,554821.0
+Ostrava 1,Ostrava,70100,Poštovní,1368,20,3186458.0,554821.0
+Ostrava 2,Ostrava,70200,Wattova,1046,19,3205339.0,554821.0
+Ostrava 3,Ostrava,70300,Šalounova,778,18,3331067.0,554821.0
+Ostrava 4,Ostrava,70400,Rodimcevova,2011,26,3272362.0,554821.0
+Ostrava 8,Ostrava,70800,Čkalovova,713,47,3290395.0,554821.0
+Ostrava 9,Ostrava,70900,Mariánské náměstí,1041,3,3317951.0,554821.0
+Ostrava 12,Ostrava,71200,U Kapličky,117,4,3147665.0,554821.0
+Ostrava 15,Ostrava,71500,Československé armády,448,98,3356124.0,554821.0
+Ostrava 16,Ostrava,71600,Vrchlického,288,6,3342751.0,554821.0
+Ostrava 17,Ostrava,71700,U Statku,185,6,3155218.0,554821.0
+Ostrava 20,Ostrava,72000,Bažanova,174,4,3134717.0,554821.0
+Ostrava 21,Ostrava,72100,Peterkova,79,5,3385868.0,554821.0
+Ostrava 23,Ostrava,72300,Martinovská,3168,48,25036645.0,554821.0
+Ostrava 24,Ostrava,72400,Blanická,1068,187,25053515.0,554821.0
+Ostrava 25,Ostrava,72525,1. května,1136,162,25052829.0,554821.0
+Ostrava 26,Ostrava,72526,Družební,576,0,25036947.0,554821.0
+Ostrava 27,Ostrava,72527,Dobroslavická,83,8,3309452.0,554821.0
+Ostrava 28,Ostrava,72528,Postranní,398,0,26747979.0,554821.0
+Ostrava 29,Ostrava,72529,Hlučínská,135,0,3170527.0,554821.0
+Karviná 1,Karviná,73301,Masarykovo náměstí,3,2,24228486.0,598917.0
+Karviná 4,Karviná,73401,tř. Těreškovové,2233,28,24246221.0,598917.0
+Karviná 6,Karviná,73506,náměstí Budovatelů,1402,18,24252182.0,598917.0
+Orlová 1,Orlová,73511,Staré náměstí,1195,0,26699834.0,599069.0
+Orlová 4,Orlová,73514,Osvobození,796,0,16990030.0,599069.0
+Bohumín 3,Bohumín,73531,1. máje,265,0,18816240.0,599051.0
+Rychvald,Rychvald,73532,Mírová,1537,0,26195828.0,599107.0
+Doubrava,Doubrava,73533,,600,0,5817561.0,568864.0
+Stonava,Stonava,73534,,49,0,5745161.0,599140.0
+Horní Suchá,Horní Suchá,73535,Těrlická,936,14,5810388.0,552739.0
+Petřvald u Karviné,Petřvald,73541,Gen. Svobody,929,0,18168469.0,599085.0
+Těrlicko,Těrlicko,73542,Školní,422,1,14250268.0,599158.0
+Albrechtice u Českého Těšína,Albrechtice,73543,Obecní,800,0,18137580.0,598925.0
+Dolní Lutyně,Dolní Lutyně,73553,Koperníkova,666,0,18144055.0,598968.0
+Chotěbuz,Chotěbuz,73561,Chotěbuzská,250,0,23237783.0,555291.0
+Dětmarovice,Dětmarovice,73571,,320,0,27007308.0,598941.0
+Petrovice u Karviné,Petrovice u Karviné,73572,,374,0,18155367.0,599077.0
+Karviná 9,Karviná,73573,tř. 17. listopadu,883,2a,26015811.0,598917.0
+Bohumín 1,Bohumín,73581,Ad. Mickiewicze,67,0,18831796.0,599051.0
+Bohumín 2,Bohumín,73582,Slezská,116,0,18822185.0,599051.0
+Havířov 1,Havířov,73601,Dlouhá třída,464,7a,24900613.0,555088.0
+Havířov 21,Havířov,73608,Dlouhá třída,1161,97,24854077.0,555088.0
+Havířov 7,Havířov,73609,Generála Svobody,268,17,24870684.0,555088.0
+Český Těšín 1,Český Těšín,73701,Nádražní,1166,2a,5773407.0,598933.0
+Český Těšín 7,Český Těšín,73707,Kysucká,1829,14,5779952.0,598933.0
+Frýdek-Místek 1,Frýdek-Místek,73801,Sadová,2379,0,20438737.0,598003.0
+Frýdek-Místek 12,Frýdek-Místek,73802,Antonínovo náměstí,92,0,20569351.0,598003.0
+Baška,Baška,73901,,421,0,12446831.0,598011.0
+Janovice u Frýdku-Místku,Janovice,73902,,247,0,20463529.0,507423.0
+Pržno,Pržno,73903,,201,0,20511761.0,507181.0
+Pražmo,Pražmo,73904,,81,0,15337073.0,568813.0
+Morávka,Morávka,73905,,599,0,72885084.0,598445.0
+Vyšní Lhoty,Vyšní Lhoty,73906,,244,0,15378098.0,552682.0
+Raškovice,Raškovice,73907,,232,0,15345271.0,549665.0
+Nošovice,Nošovice,73909,,58,0,14210410.0,552518.0
+Frýdlant nad Ostravicí,Frýdlant nad Ostravicí,73911,Poštovní,310,0,20590474.0,598143.0
+Čeladná,Čeladná,73912,,643,0,12479136.0,598071.0
+Kunčice pod Ondřejníkem,Kunčice pod Ondřejníkem,73913,,569,0,14158698.0,598356.0
+Ostravice,Ostravice,73914,,603,0,15388531.0,598542.0
+Staré Hamry,Staré Hamry,73915,,283,0,15362949.0,598747.0
+Paskov,Paskov,73921,Nádražní,700,0,20508727.0,598569.0
+Soběšovice,Soběšovice,73922,,10,0,15355721.0,568791.0
+Stará Ves nad Ondřejnicí,Stará Ves nad Ondřejnicí,73923,Zámecká,202,0,20530196.0,598739.0
+Krmelín,Krmelín,73924,Kostelní,70,0,14148501.0,598348.0
+Sviadnov,Sviadnov,73925,Ostravská,26,0,20534809.0,569631.0
+Frýdek-Místek 4,Frýdek-Místek,73930,K Sedlištím,370,0,20480695.0,598003.0
+Řepiště,Řepiště,73931,Mírová,178,0,20519583.0,568830.0
+Vratimov 1,Vratimov,73932,Frýdecká,853,57,12554359.0,598879.0
+Vratimov 3,Vratimov,73933,Vratimovská,258,0,12510173.0,598879.0
+Šenov u Ostravy,Šenov,73934,Radniční náměstí,300,0,20541538.0,598798.0
+Václavovice,Václavovice,73935,Obecní,150,0,20555580.0,598836.0
+Sedliště,Sedliště,73936,,170,0,15351483.0,598674.0
+Horní Bludovice,Horní Bludovice,73937,,434,0,14110989.0,598178.0
+Dolní Domaslavice,Dolní Domaslavice,73938,,4,0,12500810.0,598101.0
+Lučina,Lučina,73939,,1,0,14170850.0,598399.0
+Palkovice,Palkovice,73941,,265,0,15326381.0,598551.0
+Frýdek-Místek 8,Frýdek-Místek,73942,Františka Prokopa,110,0,20448244.0,598003.0
+Staříč,Staříč,73943,Fryčovická,335,0,15368530.0,552569.0
+Brušperk,Brušperk,73944,Kostelní,48,0,20407611.0,598038.0
+Fryčovice,Fryčovice,73945,,83,0,14099080.0,598135.0
+Hukvaldy,Hukvaldy,73946,,175,0,14225158.0,598691.0
+Kozlovice,Kozlovice,73947,,343,0,14132907.0,598321.0
+Metylovice,Metylovice,73949,,146,0,14178028.0,512184.0
+Dobrá,Dobrá,73951,,230,0,12490423.0,598089.0
+Dobratice,Dobratice,73952,,61,0,12498203.0,552542.0
+Hnojník,Hnojník,73953,,116,0,14106213.0,598160.0
+Komorní Lhotka,Komorní Lhotka,73954,,26,0,20468547.0,507237.0
+Smilovice u Třince,Smilovice,73955,,13,0,15353664.0,552658.0
+Ropice,Ropice,73956,,110,0,12526541.0,556971.0
+Střítež,Střítež,73959,,213,0,15372871.0,552674.0
+Třinec 1,Třinec,73961,Poštovní,207,0,12558567.0,598810.0
+Třinec 3,Třinec,73963,Jablunkovská,406,0,12568015.0,598810.0
+Třinec 8,Třinec,73964,Frýdecká,77,0,26645432.0,598810.0
+Milíkov,Milíkov,73981,,130,0,20493843.0,507547.0
+Dolní Lomná,Dolní Lomná,73982,,164,0,14094517.0,511951.0
+Písek,Písek,73984,,51,0,15332187.0,512028.0
+Bukovec,Bukovec,73985,,107,0,12457248.0,511935.0
+Jablunkov,Jablunkov,73991,Bukovecká,106,0,26430819.0,598259.0
+Návsí,Návsí,73992,,511,0,20455054.0,554014.0
+Třanovice,Třanovice,73993,,250,0,15404251.0,552623.0
+Vendryně,Vendryně,73994,,600,0,20564643.0,554928.0
+Bystřice nad Olší,Bystřice,73995,,324,0,12463094.0,598062.0
+Nýdek,Nýdek,73996,,251,0,14214997.0,507091.0
+Hrádek,Hrádek,73997,,352,0,14124211.0,512176.0
+Mosty u Jablunkova,Mosty u Jablunkova,73998,,986,0,14206757.0,598453.0
+Nový Jičín 1,Nový Jičín,74101,Gen. Hlaďo,1849,25,25922548.0,599191.0
+Nový Jičín 3,Nový Jičín,74103,Za Potokem,90,0,8249857.0,599191.0
+Suchdol nad Odrou,Suchdol nad Odrou,74201,Malá strana,238,0,8314071.0,599930.0
+Studénka 1,Studénka,74211,2. května,7,0,8496251.0,599921.0
+Studénka 3,Studénka,74213,Sjednocení,763,0,25404938.0,599921.0
+Kopřivnice,Kopřivnice,74221,Štefánikova,1163,12,8458600.0,599565.0
+Starý Jičín,Starý Jičín,74231,,132,0,8301786.0,599905.0
+Jeseník nad Odrou,Jeseník nad Odrou,74233,,256,0,8211043.0,599468.0
+Vražné,Vražné,74234,,37,0,8475253.0,554910.0
+Odry,Odry,74235,Masarykovo náměstí,1,1,8464154.0,599701.0
+Jakubčovice nad Odrou,Jakubčovice nad Odrou,74236,Oderská,100,0,8203628.0,554065.0
+Spálov,Spálov,74237,,62,0,8293279.0,599867.0
+Bernartice nad Odrou,Bernartice nad Odrou,74241,,200,0,8171068.0,568481.0
+Šenov u Nového Jičína,Šenov u Nového Jičína,74242,Dukelská,174,0,8402159.0,554171.0
+Pustějov,Pustějov,74243,,54,0,8276846.0,568775.0
+Kujavy,Kujavy,74244,,151,0,8234205.0,555312.0
+Fulnek 1,Fulnek,74245,náměstí Komenského,16,0,8441731.0,599352.0
+Fulnek 3,Fulnek,74246,,86,0,8255938.0,599352.0
+Hladké Životice,Hladké Životice,74247,Hlavní,208,0,8191221.0,569666.0
+Mošnov,Mošnov,74251,,175,0,8268517.0,568686.0
+Kunín,Kunín,74253,,56,0,8235694.0,568546.0
+Bartošovice,Bartošovice,74254,,135,0,8166510.0,599212.0
+Albrechtičky,Albrechtičky,74255,,131,0,8163901.0,568741.0
+Sedlnice,Sedlnice,74256,,130,0,8283753.0,599832.0
+Libhošť,Libhošť,74257,,230,0,8241422.0,500046.0
+Příbor,Příbor,74258,Jičínská,240,0,8483876.0,599808.0
+Skotnice,Skotnice,74259,,24,0,8287121.0,568716.0
+Petřvald u Nového Jičína,Petřvald,74260,,18,0,8476811.0,599743.0
+Trnávka u Nového Jičína,Trnávka,74261,,106,0,8337594.0,569755.0
+Rybí,Rybí,74265,,35,0,8279462.0,568554.0
+Štramberk,Štramberk,74266,Zauličí,265,0,8319804.0,599948.0
+Ženklava,Ženklava,74267,,131,0,8378002.0,568732.0
+Hodslavice,Hodslavice,74271,,78,0,8192987.0,599409.0
+Mořkov,Mořkov,74272,Mlýnská,61,0,8260281.0,599689.0
+Veřovice,Veřovice,74273,,670,0,78444551.0,500259.0
+Tichá,Tichá,74274,,1,0,8327882.0,599956.0
+Lichnov,Lichnov,74275,,90,0,8244910.0,599603.0
+Bravantice,Bravantice,74281,,223,0,8181217.0,556858.0
+Jistebník,Jistebník,74282,,331,0,8216401.0,599506.0
+Klimkovice,Klimkovice,74283,Náměstí,31,0,8223572.0,599549.0
+Vřesina u Bílovce,Vřesina,74285,Hlavní,24,0,8364885.0,500291.0
+Velké Albrechtice,Velké Albrechtice,74291,,248,0,8353298.0,568422.0
+Bílovec 5,Bílovec,74292,,35,0,8252424.0,599247.0
+Slatina u Bílovce,Slatina,74293,,170,0,8291772.0,568406.0
+Tísek,Tísek,74294,,62,0,8334242.0,599964.0
+Trojanovice,Trojanovice,74296,,1,0,82036497.0,599999.0
+Bílovec 1,Bílovec,74301,Městský kopec,1138,3,26259630.0,599247.0
+Frenštát pod Radhoštěm,Frenštát pod Radhoštěm,74401,náměstí Míru,22,0,8422028.0,599344.0
+Opava 1,Opava,74601,U Fortny,49,10,24372790.0,505927.0
+Opava 8,Opava,74608,Těšínská,2914,44,26058286.0,505927.0
+Opava 5,Opava,74705,Partyzánská,1521,7,24370428.0,505927.0
+Kozmice u Hlučína,Kozmice,74711,Poručíka Hoši,528,2c,40343723.0,547182.0
+Ludgeřovice,Ludgeřovice,74714,Markvartovická,42,33,4576535.0,507971.0
+Šilheřovice,Šilheřovice,74715,Střední,117,0,4408535.0,510432.0
+Hať u Hlučína,Hať,74716,Lipová,357,86,4290739.0,568210.0
+Darkovice,Darkovice,74717,Dlouhá,180,37,4286201.0,568228.0
+Píšť,Píšť,74718,Opavská,177,19,4362624.0,509647.0
+Bohuslavice u Hlučína,Bohuslavice,74719,Opavská,134,0,4384393.0,506192.0
+Vřesina,Vřesina,74720,21. dubna,247,1,4573048.0,568244.0
+Kravaře u Hlučína,Kravaře,74721,Poštovní,71,2,4437691.0,507580.0
+Dolní Benešov,Dolní Benešov,74722,Poštovní,83,0,4306040.0,506702.0
+Bolatice,Bolatice,74723,Hlučínská,685,4,4596099.0,506214.0
+Chuchelná,Chuchelná,74724,K. M. Lichnovského,267,0,4570243.0,507334.0
+Sudice,Sudice,74725,Hlavní,148,0,4416899.0,510378.0
+Rohov,Rohov,74726,Hlavní,51,0,4388852.0,568376.0
+Kobeřice,Kobeřice,74727,Hlučínská,888,0,79037666.0,507504.0
+Štěpánkovice,Štěpánkovice,74728,Poštovní,364,1,4554744.0,510483.0
+Strahovice,Strahovice,74730,,190,0,4382692.0,512869.0
+Velké Hoštice,Velké Hoštice,74731,Zámecká,74,0,4450256.0,510939.0
+Chlebičov,Chlebičov,74732,Hlavní,65,0,4548281.0,512923.0
+Oldřišov,Oldřišov,74733,Hlinská,90,0,4378296.0,509574.0
+Hněvošice,Hněvošice,74735,Opavská,170,0,4414535.0,507105.0
+Hradec nad Moravicí,Hradec nad Moravicí,74741,Opavská,687,0,4338766.0,507270.0
+Žimrovice,Hradec nad Moravicí,74742,Meleček,90,0,27220231.0,507270.0
+Větřkovice u Vítkova,Větřkovice,74743,,197,0,4534701.0,570036.0
+Březová u Vítkova,Březová,74744,,106,0,4559509.0,506451.0
+Skřipov,Skřipov,74745,,244,0,73548634.0,510131.0
+Vítkov 3,Vítkov,74747,,75,0,25223631.0,511021.0
+Stěbořice,Stěbořice,74751,,17,0,4265131.0,510343.0
+Hlavnice,Hlavnice,74752,,168,0,28334302.0,553093.0
+Jakartovice,Jakartovice,74753,,95,0,4461045.0,507377.0
+Mladecko,Mladecko,74754,,19,0,27580628.0,553042.0
+Litultovice,Litultovice,74755,,51,0,4375459.0,507920.0
+Dolní Životice,Dolní Životice,74756,Štáblovská,35,0,4347404.0,553051.0
+Slavkov u Opavy,Slavkov,74757,Ludvíka Svobody,25,0,4370384.0,510289.0
+Raduň,Raduň,74761,Poštovní,239,0,4258894.0,509841.0
+Mokré Lazce,Mokré Lazce,74762,Pavla Křížkovského,158,0,4303741.0,508373.0
+Hrabyně 1,Hrabyně,74763,,1,0,4573773.0,507261.0
+Velká Polom,Velká Polom,74764,Osvoboditelů,217,0,4279468.0,510882.0
+Hlubočec,Hlubočec,74765,,95,0,4563409.0,568368.0
+Dolní Lhota,Dolní Lhota,74766,Poštovní,250,0,4628748.0,506711.0
+Hrabyně 3,Hrabyně,74767,,204,0,4575652.0,507261.0
+Kyjovice,Kyjovice,74768,,2,0,4633857.0,512907.0
+Pustá Polom,Pustá Polom,74769,Poštovní,73,0,4298837.0,509736.0
+Brumovice,Brumovice,74771,Hlavní,75,56,4528123.0,506320.0
+Vávrovice,Opava,74773,Jantarová,288,18,30934427.0,505927.0
+Neplachovice,Neplachovice,74774,Školní,207,0,4284011.0,553158.0
+Velké Heraltice,Velké Heraltice,74775,Nad Poštou,91,0,4261925.0,510891.0
+Otice,Otice,74781,Hlavní,1,0,4294653.0,509612.0
+Štáblovice,Štáblovice,74782,,166,0,4347021.0,568333.0
+Melč,Melč,74784,,81,0,4273524.0,508144.0
+Kružberk,Kružberk,74786,,43,0,4276001.0,568180.0
+Budišov nad Budišovkou,Budišov nad Budišovkou,74787,9. května,40,0,4351096.0,506460.0
+Štítina,Štítina,74791,Hlavní,68,0,4565304.0,510491.0
+Háj ve Slezsku,Háj ve Slezsku,74792,Antonína Vaška,5,0,4544170.0,506753.0
+Děhylov,Děhylov,74794,Výstavní,179,17,4369203.0,568236.0
+Suché Lazce,Opava,74795,Přerovecká,9,21,24367311.0,505927.0
+Hlučín,Hlučín,74801,Školní,1076,4,4617509.0,507016.0
+Darkovičky,Hlučín,74802,Nový svět,302,2,4606451.0,507016.0
+Bobrovníky,Hlučín,74803,Rekreační,394,9,78688744.0,507016.0
+Vítkov 1,Vítkov,74901,Pivovarská,325,0,25922653.0,511021.0
+Přerov 2,Přerov,75002,Kratochvílova,114,4,27152944.0,511382.0
+Tovačov,Tovačov,75101,Náměstí,21,0,11338156.0,519146.0
+Troubky nad Bečvou,Troubky,75102,Vrbí,425,13,11178078.0,519651.0
+Brodek u Přerova,Brodek u Přerova,75103,Masarykovo náměstí,100,0,11048271.0,512800.0
+Rokytnice,Rokytnice,75104,,348,0,11154586.0,517607.0
+Kokory,Kokory,75105,,57,0,11091631.0,514152.0
+Majetín,Majetín,75106,Lipová,25,0,16187733.0,503738.0
+Stará Ves u Přerova,Stará Ves,75107,,75,0,11164646.0,517887.0
+Bochoř,Bochoř,75108,Náves,364,14,11045591.0,512532.0
+Radslavice,Radslavice,75111,Na Návsi,103,0,11146877.0,517534.0
+Pavlovice u Přerova,Pavlovice u Přerova,75112,,101,0,11133503.0,516694.0
+Dřevohostice,Dřevohostice,75114,Náměstí,67,0,11067357.0,513229.0
+Domaželice u Přerova,Domaželice,75115,,123,0,11066423.0,513211.0
+Želatovice,Želatovice,75116,,156,0,11205750.0,523640.0
+Horní Moštěnice,Horní Moštěnice,75117,Dr. A. Stojana,14,8,11075121.0,513491.0
+Říkovice,Říkovice,75118,,7,0,11156112.0,517666.0
+Vlkoš u Přerova,Vlkoš,75119,Náves,101,13,11195827.0,547433.0
+Prosenice,Prosenice,75121,Na Loukách,219,0,11141484.0,517151.0
+Osek nad Bečvou,Osek nad Bečvou,75122,,65,0,11126418.0,516619.0
+Dolní Újezd,Dolní Újezd,75123,,155,0,11063891.0,513199.0
+Veselíčko u Lipníka nad Bečvou,Veselíčko,75125,,68,0,11191767.0,520420.0
+Lipník nad Bečvou,Lipník nad Bečvou,75131,Novosady,29,17,11311321.0,514705.0
+Týn nad Bečvou,Týn nad Bečvou,75132,Náves B. Smetany,68,0,11183756.0,570079.0
+Jezernice,Jezernice,75135,,82,0,11327707.0,556998.0
+Křenovice u Kojetína,Křenovice,75141,,52,0,11096772.0,569143.0
+Měrovice nad Hanou,Měrovice nad Hanou,75142,,11,0,11113332.0,552909.0
+Polkovice,Polkovice,75144,,15,0,11136111.0,516899.0
+Přerov 1,Přerov,75151,Husova,2846,2,11226293.0,511382.0
+Kojetín,Kojetín,75201,náměstí Dr. E. Beneše,5,0,11295589.0,514055.0
+Hranice 1,Hranice,75301,Tř. 1. máje,1901,0,25218867.0,513750.0
+Teplice nad Bečvou,Teplice nad Bečvou,75351,,53,0,11172622.0,519031.0
+Skalička u Hranic,Skalička,75352,,34,0,11157810.0,517747.0
+Všechovice,Všechovice,75353,,17,0,27027481.0,521531.0
+Soběchleby,Soběchleby,75354,,6,0,11159162.0,517844.0
+Paršovice,Paršovice,75355,,98,0,11130971.0,516635.0
+Opatovice u Hranic,Opatovice,75356,Záhorská,9,0,11121394.0,516201.0
+Hranice 4,Hranice,75361,Nám. Osvobození,56,0,11286105.0,513750.0
+Potštát,Potštát,75362,Bočkovo náměstí,11,0,11334037.0,517101.0
+Střítež nad Ludinou,Střítež nad Ludinou,75363,,122,0,11168285.0,517909.0
+Bělotín,Bělotín,75364,,151,0,11036214.0,512231.0
+Polom,Polom,75365,,95,0,11138572.0,516911.0
+Hustopeče nad Bečvou,Hustopeče nad Bečvou,75366,Dlouhá,92,0,11085991.0,513768.0
+Milotice nad Bečvou,Milotice nad Bečvou,75367,,59,0,11117630.0,515477.0
+Černotín,Černotín,75368,,1,0,11058692.0,513067.0
+Vsetín 1,Vsetín,75501,Mostecká,1144,0,24303844.0,541630.0
+Vsetín 4,Vsetín,75504,Ohrada,1851,0,24310760.0,541630.0
+Hovězí,Hovězí,75601,,1,0,17044863.0,542768.0
+Huslenky,Huslenky,75602,,426,0,21626499.0,542784.0
+Halenkov,Halenkov,75603,,409,0,21612889.0,542679.0
+Nový Hrozenkov,Nový Hrozenkov,75604,,455,0,21658625.0,544566.0
+Karolinka,Karolinka,75605,Radniční náměstí,42,0,17072751.0,542911.0
+Velké Karlovice,Velké Karlovice,75606,,15,0,17166187.0,545163.0
+Zděchov,Zděchov,75607,,175,0,21681465.0,545244.0
+Valašská Polanka,Valašská Polanka,75611,,344,0,17149908.0,544990.0
+Horní Lideč,Horní Lideč,75612,,104,0,17042704.0,542725.0
+Prlov,Prlov,75613,,141,0,17110734.0,544671.0
+Francova Lhota,Francova Lhota,75614,,437,0,17026571.0,542644.0
+Lidečko,Lidečko,75615,,467,0,17091781.0,544370.0
+Ratiboř,Ratiboř,75621,,75,0,17125294.0,544787.0
+Hošťálková u Vsetína,Hošťálková,75622,,35,0,74585185.0,542750.0
+Jablůnka,Jablůnka,75623,,365,0,21633606.0,542865.0
+Bystřička,Bystřička,75624,,159,0,17017513.0,541711.0
+Růžďka,Růžďka,75625,,320,0,17133408.0,544850.0
+Valašská Bystřice,Valašská Bystřice,75627,,316,0,17141290.0,544949.0
+Liptál,Liptál,75631,,81,0,17092973.0,544396.0
+Lešná,Lešná,75641,,35,0,21642699.0,544302.0
+Choryně,Choryně,75642,,199,0,17064597.0,542831.0
+Kelč,Kelč,75643,,30,0,21683301.0,542989.0
+Loučka,Loučka,75644,,82,0,21645892.0,544418.0
+Branky,Branky,75645,,6,0,17011388.0,541648.0
+Zašová,Zašová,75651,,523,0,17186421.0,545236.0
+Střítež nad Bečvou,Střítež nad Bečvou,75652,,193,0,17137357.0,544922.0
+Vidče,Vidče,75653,,252,0,21676305.0,545198.0
+Zubří,Zubří,75654,Hlavní,79,0,17188504.0,545252.0
+Dolní Bečva,Dolní Bečva,75655,,340,0,21604355.0,541800.0
+Prostřední Bečva,Prostřední Bečva,75656,,430,0,17115523.0,544698.0
+Horní Bečva,Horní Bečva,75657,,657,0,17033276.0,542687.0
+Rožnov pod Radhoštěm 1,Rožnov pod Radhoštěm,75661,Náměstí Míru,1268,0,17211689.0,544841.0
+Hutisko-Solanec,Hutisko-Solanec,75662,,512,0,17056837.0,542814.0
+Krhová,Krhová,75663,U Kapličky,573,0,26018047.0,500062.0
+Valašské Meziříčí 1,Valašské Meziříčí,75701,Poláškova,122,10,25600168.0,545058.0
+Zlín 1,Zlín,76001,J. A. Bati,5648,0,28181263.0,585068.0
+Zlín 5,Zlín,76005,Okružní,4695,0,26966310.0,585068.0
+Zlín 6,Zlín,76006,Podlesí IV,5307,0,25155784.0,585068.0
+Zlín 7,Zlín,76007,třída Tomáše Bati,3757,0,4241819.0,585068.0
+Mysločovice,Mysločovice,76301,,95,0,3858260.0,585505.0
+Zlín 4,Zlín,76302,Masarykova,1014,0,4206631.0,585068.0
+Velký Ořechov,Velký Ořechov,76307,,208,0,3965198.0,585912.0
+Želechovice nad Dřevnicí,Želechovice nad Dřevnicí,76311,4. května,214,0,30039355.0,500011.0
+Vizovice,Vizovice,76312,Palackého Nám.,352,0,3951677.0,585939.0
+Jasenná u Vizovic,Jasenná,76313,,190,0,4100000.0,585301.0
+Zlín 12,Zlín,76314,Mariánské náměstí,66,0,25205650.0,585068.0
+Slušovice,Slušovice,76315,Dlouhá,19,0,3966747.0,585777.0
+Fryšták,Fryšták,76316,náměstí Míru,19,0,4001443.0,585211.0
+Lukov u Zlína,Lukov,76317,K Lůčkám,401,0,26547325.0,585467.0
+Trnava u Zlína,Trnava,76318,,156,0,4050894.0,585866.0
+Kašava,Kašava,76319,,235,0,3997839.0,585343.0
+Slavičín,Slavičín,76321,K. Vystrčila,39,0,4111303.0,585751.0
+Dolní Lhota u Luhačovic,Dolní Lhota,76323,,129,0,3929515.0,585173.0
+Vlachovice,Vlachovice,76324,,50,0,4031334.0,585955.0
+Újezd u Valašských Klobouk,Újezd,76325,,372,0,3890490.0,585882.0
+Luhačovice,Luhačovice,76326,Dr. Veselého,468,0,3896196.0,585459.0
+Brumov-Bylnice,Brumov-Bylnice,76331,Č. Kramoliše,1013,0,3872343.0,585114.0
+Nedašov,Nedašov,76332,,370,0,3985563.0,585530.0
+Štítná nad Vláří,Štítná nad Vláří-Popov,76333,,72,0,4150121.0,585831.0
+Biskupice u Luhačovic,Biskupice,76341,,4,0,3851206.0,585076.0
+Březůvky,Březůvky,76345,,1,0,3880109.0,585149.0
+Bohuslavice u Zlína,Bohuslavice u Zlína,76351,,185,0,3918408.0,585092.0
+Napajedla,Napajedla,76361,Palackého,204,0,4084136.0,585513.0
+Tlumačov,Tlumačov,76362,náměstí Komenského,61,0,3930823.0,585858.0
+Halenkovice,Halenkovice,76363,,76,0,3920437.0,585220.0
+Spytihněv,Spytihněv,76364,,359,0,4068122.0,585793.0
+Otrokovice 1,Otrokovice,76501,Tylova,950,0,4142853.0,585599.0
+Otrokovice 2,Otrokovice,76502,tř. Osvobození,1210,0,4132211.0,585599.0
+Valašské Klobouky,Valašské Klobouky,76601,Cyrilometodějská,772,0,4025091.0,585891.0
+Kroměříž 1,Kroměříž,76701,Spáčilova,3763,44,10380353.0,588296.0
+Kroměříž 2,Kroměříž,76702,náměstí Míru,520,1,10350454.0,588296.0
+Zdounky,Zdounky,76802,,177,0,10340203.0,589195.0
+Roštín,Roštín,76803,,393,0,20383525.0,588954.0
+Střílky,Střílky,76804,Koryčanská,47,0,10324305.0,589039.0
+Koryčany,Koryčany,76805,Náměstí,153,0,10246975.0,588601.0
+Chropyně,Chropyně,76811,náměstí Svobody,48,0,13844024.0,588512.0
+Rataje,Rataje,76812,,22,0,10318828.0,588938.0
+Litenčice,Litenčice,76813,,162,0,16013565.0,588695.0
+Kvasice,Kvasice,76821,Kroměřížská,318,0,10261851.0,588644.0
+Břest,Břest,76823,,87,0,10219595.0,588385.0
+Hulín,Hulín,76824,Záhlinická,466,0,25547291.0,588491.0
+Zlobice,Zlobice,76831,,77,0,13842838.0,589217.0
+Zborovice,Zborovice,76832,Hlavní,7,0,16034040.0,589187.0
+Morkovice-Slížany,Morkovice-Slížany,76833,Nádražní,701,0,10281291.0,588768.0
+Pačlavice,Pačlavice,76834,,1,0,10291393.0,588849.0
+Bystřice pod Hostýnem 7,Bystřice pod Hostýnem,76841,,106,0,10228411.0,588393.0
+Prusinovice,Prusinovice,76842,Novosady,204,0,10306510.0,588903.0
+Kostelec u Holešova,Kostelec u Holešova,76843,,58,0,16006682.0,588610.0
+Rusava,Rusava,76845,,248,0,13828746.0,588962.0
+Míškovice u Holešova,Míškovice,76852,,46,0,16016661.0,588750.0
+Bystřice pod Hostýnem 1,Bystřice pod Hostýnem,76861,Meziříčská,1519,0,10399739.0,588393.0
+Rajnochovice,Rajnochovice,76871,,181,0,10310410.0,588920.0
+Chvalčov,Chvalčov,76872,Obřanská,145,0,15996506.0,506737.0
+Loukov,Loukov,76875,,218,0,16016092.0,588709.0
+Holešov,Holešov,76901,Masarykova,655,19,10405747.0,588458.0
+Olomouc 6,Olomouc,77006,Polská,1201,1,42678803.0,500496.0
+Olomouc 10,Olomouc,77010,Foerstrova,717,21,27019021.0,500496.0
+Olomouc 12,Olomouc,77012,Janského,469,8,25056760.0,500496.0
+Olomouc 1,Olomouc,77100,Mariánská,844,2,30517923.0,500496.0
+Olomouc 2,Olomouc,77200,Jeremenkova,104,19,23275804.0,500496.0
+Mobilní pošta 71,Křepice,77777,,25,0,9993525.0,584592.0
+Olomouc 9,Olomouc,77900,Ladova,346,6,25983849.0,500496.0
+Horní Loděnice,Horní Loděnice,78305,,114,0,16147570.0,569798.0
+Domašov nad Bystřicí,Domašov nad Bystřicí,78306,Náměstí,76,0,16112105.0,545279.0
+Město Libavá,Město Libavá,78307,Náměstí,2,0,16193962.0,500160.0
+Hnojice,Hnojice,78311,,160,0,16140621.0,502405.0
+Pňovice,Pňovice,78312,,187,0,16228031.0,552160.0
+Štěpánov u Olomouce,Štěpánov,78313,U parku,353,2,16271882.0,505161.0
+Bohuňovice,Bohuňovice,78314,6. května,109,0,16069978.0,500852.0
+Bělkovice-Lašťany,Bělkovice-Lašťany,78315,,90,0,16331575.0,500526.0
+Dolany u Olomouce,Dolany,78316,,15,0,16099664.0,501646.0
+Cholina,Cholina,78322,,52,0,16158032.0,502839.0
+Vilémov u Litovle,Vilémov,78323,,146,0,16326385.0,568961.0
+Slavětín,Slavětín,78324,,59,0,16260201.0,552194.0
+Bouzov,Bouzov,78325,,60,0,16079388.0,500861.0
+Bílá Lhota,Bílá Lhota,78326,,1,0,16062451.0,500623.0
+Náklo,Náklo,78332,,14,0,16210093.0,504441.0
+Příkazy,Příkazy,78333,,125,0,16236700.0,505013.0
+Skrbeň,Skrbeň,78334,Na Návsi,131,2,16253485.0,552151.0
+Horka nad Moravou,Horka nad Moravou,78335,náměstí Osvobození,16,46,16141024.0,502545.0
+Křelov-Břuchotín,Křelov-Břuchotín,78336,Marie Majerové,45,25,16171225.0,554901.0
+Bystročice,Bystročice,78341,,6,0,16084811.0,500879.0
+Slatinice,Slatinice,78342,,242,0,16257545.0,505111.0
+Drahanovice,Drahanovice,78343,,111,0,16116259.0,501751.0
+Náměšť na Hané,Náměšť na Hané,78344,Sokolská,560,0,26126486.0,504505.0
+Senice na Hané,Senice na Hané,78345,náměstí Míru,15,0,16246349.0,505081.0
+Těšetice,Těšetice,78346,,108,0,16279671.0,505269.0
+Hněvotín,Hněvotín,78347,,253,0,16138180.0,502235.0
+Lutín,Lutín,78349,Olomoucká,124,0,16185056.0,503657.0
+Olomouc 15,Olomouc,78351,náměstí Sadové,7,26,23249897.0,500496.0
+Velká Bystřice,Velká Bystřice,78353,Zámecké náměstí,736,0,16306911.0,505609.0
+Přáslavice,Přáslavice,78354,,23,0,16232828.0,552411.0
+Velký Újezd,Velký Újezd,78355,Olomoucká,15,0,16314514.0,505668.0
+Doloplazy,Doloplazy,78356,,73,0,16108795.0,568392.0
+Tršice,Tršice,78357,,49,0,16287797.0,505366.0
+Hlubočky 1,Hlubočky,78361,Dukelských hrdinů,502,0,16132734.0,502146.0
+Hlubočky 3,Hlubočky,78365,Olomoucká,488,0,16206355.0,502146.0
+Velký Týnec 1,Velký Týnec,78372,Na kříbě,59,0,16309049.0,505650.0
+Grygov,Grygov,78373,U Parku,119,0,16126203.0,501841.0
+Charváty,Charváty,78374,,3,0,16155726.0,568872.0
+Dub nad Moravou,Dub nad Moravou,78375,Náměstí,94,0,16122801.0,501794.0
+Věrovany,Věrovany,78376,,125,0,16322550.0,552119.0
+Kožušany-Tážaly,Kožušany-Tážaly,78378,,1,0,16166086.0,503304.0
+Medlov u Uničova,Medlov,78382,,300,0,40939511.0,552372.0
+Troubelice,Troubelice,78383,,352,0,16287088.0,505293.0
+Nová Hradečná,Nová Hradečná,78384,,96,0,16379357.0,552381.0
+Šumvald u Uničova,Šumvald,78385,,271,0,16277139.0,505218.0
+Dlouhá Loučka,Dlouhá Loučka,78386,Zámecká,8,0,16093836.0,501476.0
+Uničov 1,Uničov,78391,Dr. Beneše,79,0,16367316.0,505587.0
+Mladějovice,Mladějovice,78395,,24,0,16200349.0,552348.0
+Újezd u Uničova,Újezd,78396,,290,0,16296371.0,505501.0
+Paseka u Šternberka,Paseka,78397,,94,0,16223560.0,504785.0
+Jívová,Jívová,78398,,69,0,16160240.0,503142.0
+Litovel,Litovel,78401,Vítězná,176,29a,25279726.0,503444.0
+Šternberk 1,Šternberk,78501,ČSA,118,17,16340311.0,505188.0
+Šumperk 1,Šumperk,78701,Gen. Svobody,100,13,14258790.0,523704.0
+Šumperk 4,Šumperk,78704,Temenická,2782,91,14284804.0,523704.0
+Oskava,Oskava,78801,,135,0,8048053.0,540544.0
+Nový Malín,Nový Malín,78803,,504,0,5829259.0,540501.0
+Hrabišín,Hrabišín,78804,,65,0,7985606.0,536091.0
+Libina,Libina,78805,,212,0,8116172.0,539961.0
+Loučná nad Desnou,Loučná nad Desnou,78811,,57,0,8027382.0,540226.0
+Vikýřovice,Vikýřovice,78813,Petrovská,75,0,8107106.0,569445.0
+Rapotín,Rapotín,78814,Jesenická,344,0,5858003.0,540862.0
+Velké Losiny,Velké Losiny,78815,Lázeňská,414,0,8101337.0,541265.0
+Petrov nad Desnou,Petrov nad Desnou,78816,,156,0,8054878.0,500020.0
+Dolní Studénky,Dolní Studénky,78820,,99,0,18180027.0,553379.0
+Sudkov,Sudkov,78821,,96,0,8088659.0,541109.0
+Jindřichov u Šumperka,Jindřichov,78823,,92,0,5848687.0,536521.0
+Staré Město,Staré Město,78832,náměstí Osvobození,166,0,8082014.0,541079.0
+Hanušovice,Hanušovice,78833,Hlavní,372,0,5839262.0,535532.0
+Zábřeh,Zábřeh,78901,Postřelmovská,465,1a,8139865.0,541354.0
+Mírov,Mírov,78953,,24,0,8035148.0,569381.0
+Bludov,Bludov,78961,tř. A. Kašpara,348,0,7956754.0,525588.0
+Olšany,Olšany,78962,,75,0,8043540.0,540510.0
+Ruda nad Moravou,Ruda nad Moravou,78963,9. května,64,0,5875404.0,540978.0
+Bohdíkov,Bohdíkov,78964,,163,0,5844002.0,525804.0
+Písařov,Písařov,78965,,80,0,8058067.0,540650.0
+Postřelmov,Postřelmov,78969,Komenského,61,0,8061921.0,540773.0
+Leština u Zábřeha,Leština,78971,Družstevní,92,0,8009911.0,537713.0
+Dubicko,Dubicko,78972,Velká Strana,56,0,5852056.0,534927.0
+Úsov,Úsov,78973,náměstí Míru,48,0,5863929.0,541222.0
+Rohle,Rohle,78974,,56,0,8071942.0,540871.0
+Brníčko u Zábřeha,Brníčko,78975,,120,0,7968701.0,530727.0
+Dlouhomilov,Dlouhomilov,78976,,138,0,7975082.0,533688.0
+Moravičany,Moravičany,78982,,67,0,8037906.0,540480.0
+Loštice,Loštice,78983,Hradská,72,2,8016526.0,540196.0
+Mohelnice,Mohelnice,78985,Nádražní,381,9,26315149.0,540471.0
+Štíty,Štíty,78991,Na Pilníku,221,0,8094241.0,541168.0
+Jedlí,Jedlí,78992,,16,0,5866731.0,536288.0
+Jeseník 1,Jeseník,79001,Poštovní,341,3,5887496.0,536385.0
+Jeseník 3,Jeseník,79003,Priessnitzova,311,35,5887194.0,536385.0
+Supíkovice,Supíkovice,79051,,130,0,20656891.0,541117.0
+Velké Kunětice,Velké Kunětice,79052,,146,0,21689342.0,569453.0
+Stará Červená Voda,Stará Červená Voda,79053,,111,0,15437299.0,541036.0
+Černá Voda,Černá Voda,79054,,47,0,20652658.0,533491.0
+Vidnava,Vidnava,79055,Hrdinů,250,0,20660022.0,541303.0
+Bernartice,Bernartice,79057,,60,0,15411788.0,524891.0
+Velká Kraš,Velká Kraš,79058,,132,0,15442764.0,553468.0
+Lipová-lázně 1,Lipová-lázně,79061,,514,0,15420361.0,540030.0
+Lipová-lázně 3,Lipová-lázně,79063,,37,0,15415023.0,540030.0
+Vápenná,Vápenná,79064,,105,0,15438911.0,541249.0
+Žulová,Žulová,79065,Bezručova,51,0,5899184.0,541575.0
+Skorošice,Skorošice,79066,,93,0,15458792.0,553484.0
+Vlčice u Jeseníku,Vlčice,79067,,95,0,15445321.0,541346.0
+Uhelná,Uhelná,79068,,153,0,5902860.0,541214.0
+Bílá Voda,Bílá Voda,79069,,1,0,5908671.0,525227.0
+Javorník u Jeseníku,Javorník,79070,Nádražní,163,0,20661959.0,536148.0
+Česká Ves,Česká Ves,79081,Jánského,328,0,5906458.0,569356.0
+Písečná,Písečná,79082,,305,0,80318746.0,540684.0
+Široký Brod,Mikulovice,79083,,51,0,15428419.0,540382.0
+Mikulovice u Jeseníku 1,Mikulovice,79084,Hlavní,5,0,15422879.0,540382.0
+Bělá pod Pradědem,Bělá pod Pradědem,79085,,488,0,27103765.0,523917.0
+Bruntál 1,Bruntál,79201,M. Tyrše,1499,4,2833891.0,597180.0
+Lomnice,Lomnice,79302,,230,0,2810701.0,597589.0
+Dětřichov nad Bystřicí,Dětřichov nad Bystřicí,79303,,58,0,2806118.0,597252.0
+Moravský Beroun,Moravský Beroun,79305,Masarykova,200,0,14000296.0,597678.0
+Horní Benešov,Horní Benešov,79312,Tyršova,337,0,2770741.0,597350.0
+Svobodné Heřmanice,Svobodné Heřmanice,79313,Sokolovská,157,0,20406398.0,597881.0
+Sosnová,Sosnová,79314,,11,0,14018551.0,597821.0
+Lichnov u Bruntálu,Lichnov,79315,,42,0,2796686.0,597554.0
+Zátor,Zátor,79316,,107,0,2814111.0,597988.0
+Široká Niva,Široká Niva,79322,,79,0,14031043.0,597899.0
+Karlovice,Karlovice,79323,,183,0,20399154.0,597481.0
+Karlova Studánka,Karlova Studánka,79324,,6,0,13974262.0,597473.0
+Vrbno pod Pradědem,Vrbno pod Pradědem,79326,Jesenická,256,12,14045095.0,597961.0
+Světlá Hora,Světlá Hora,79331,,340,0,14028891.0,597872.0
+Andělská Hora,Andělská Hora,79332,,197,0,14024799.0,551929.0
+Staré Město u Bruntálu,Staré Město,79333,,25,0,13954199.0,551767.0
+Malá Morávka,Malá Morávka,79336,,55,0,13986023.0,597601.0
+Václavov u Bruntálu,Václavov u Bruntálu,79341,,69,0,14038251.0,597945.0
+Stará Ves u Rýmařova,Stará Ves,79343,Potočná,289,18,14021358.0,551911.0
+Horní Město,Horní Město,79344,,237,0,20396988.0,597368.0
+Břidličná,Břidličná,79351,Nábřežní,452,0,2803712.0,597228.0
+Ryžoviště,Ryžoviště,79356,náměstí Míru,105,0,2780178.0,597791.0
+Huzová,Huzová,79357,,158,0,2789574.0,597414.0
+Razová,Razová,79364,,351,0,2768208.0,597724.0
+Dvorce u Bruntálu,Dvorce,79368,Opavská,19,0,2773988.0,597317.0
+Holčovice,Holčovice,79371,,175,0,20390688.0,597341.0
+Heřmanovice,Heřmanovice,79374,,131,0,20386834.0,597325.0
+Zlaté Hory v Jeseníkách,Zlaté Hory,79376,Bezručova,144,0,15451305.0,597996.0
+Hošťálkovy,Hošťálkovy,79381,,30,0,2782766.0,597392.0
+Třemešná,Třemešná,79382,,304,0,14035171.0,597911.0
+Jindřichov u Krnova,Jindřichov,79383,,478,0,13973711.0,597449.0
+Janov u Krnova,Janov,79384,,40,0,13966570.0,597431.0
+Úvalno,Úvalno,79391,,58,0,2791161.0,597937.0
+Brantice,Brantice,79393,,121,0,2816091.0,597210.0
+Krasov,Krasov,79394,,29,0,2785773.0,597511.0
+Město Albrechtice,Město Albrechtice,79395,náměstí ČSA,58,11,13989812.0,597635.0
+Liptaň,Liptaň,79396,,269,0,13982753.0,597571.0
+Slezské Rudoltice,Slezské Rudoltice,79397,,53,0,14017601.0,597813.0
+Bohušov,Bohušov,79398,,15,0,13952595.0,597201.0
+Osoblaha,Osoblaha,79399,Na Náměstí,101,0,14008122.0,597716.0
+Krnov 1,Krnov,79401,náměstí Minoritů,88,11,14052458.0,597520.0
+Rýmařov,Rýmařov,79501,náměstí Míru,214,7,31161944.0,597783.0
+Prostějov 1,Prostějov,79601,Poděbradovo náměstí,979,13,24815527.0,589250.0
+Prostějov 2,Prostějov,79602,Janáčkova,3160,4,24838462.0,589250.0
+Prostějov 4,Prostějov,79604,Plumlovská,4126,0,24849162.0,589250.0
+Držovice,Držovice,79607,Konečná,452,23,26050064.0,558419.0
+Prostějov 9,Prostějov,79801,Lipová,134,1,24779164.0,589250.0
+Mostkovice,Mostkovice,79802,Stichovická,321,0,18580548.0,589730.0
+Plumlov,Plumlov,79803,Tyršovo náměstí,160,0,10565396.0,589896.0
+Určice,Určice,79804,,81,0,10629700.0,590126.0
+Myslejovice,Myslejovice,79805,,145,0,10530614.0,589748.0
+Otaslavice,Otaslavice,79806,,343,0,10662596.0,589845.0
+Brodek u Prostějova,Brodek u Prostějova,79807,Císařská,39,0,10429255.0,589322.0
+Vranovice-Kelčice,Vranovice-Kelčice,79808,,75,0,10638296.0,590177.0
+Vřesovice,Vřesovice,79809,,41,0,10648151.0,590207.0
+Kralice na Hané,Kralice na Hané,79812,Masarykovo náměstí,41,0,10504184.0,589659.0
+Vrbátky,Vrbátky,79813,,28,0,10643311.0,590185.0
+Olšany u Prostějova,Olšany u Prostějova,79814,,50,0,10549692.0,589829.0
+Čelechovice na Hané,Čelechovice na Hané,79816,Hlavní,14,0,10445447.0,589403.0
+Smržice,Smržice,79817,Zákostelí,143,1,10604685.0,590029.0
+Bedihošť,Bedihošť,79821,Prostějovská,106,0,10415874.0,589268.0
+Klenovice na Hané,Klenovice na Hané,79823,,95,0,10484591.0,589608.0
+Pivín,Pivín,79824,,220,0,10563415.0,589888.0
+Dobromilice,Dobromilice,79825,,281,0,10457704.0,589446.0
+Nezamyslice u Prostějova,Nezamyslice,79826,1. máje,459,0,31269982.0,589764.0
+Němčice nad Hanou,Němčice nad Hanou,79827,Palackého náměstí,3,0,10531157.0,589756.0
+Mořice,Mořice,79828,,68,0,10526102.0,589721.0
+Tištín,Tištín,79829,,58,0,10621938.0,590100.0
+Pavlovice u Kojetína,Pavlovice u Kojetína,79830,,55,0,10557741.0,557196.0
+Kostelec na Hané,Kostelec na Hané,79841,Tyršova,795,0,10502807.0,589632.0
+Lešany u Prostějova,Lešany,79842,,10,0,10513612.0,589683.0
+Ptení,Ptení,79843,,89,0,10586075.0,589942.0
+Stražisko,Stražisko,79844,,122,0,10665871.0,590070.0
+Suchdol u Prostějova,Suchdol,79845,,72,0,10617370.0,590088.0
+Brodek u Konice,Brodek u Konice,79846,,256,0,10427686.0,589314.0
+Horní Štěpánov,Horní Štěpánov,79847,,326,0,10470450.0,589519.0
+Protivanov,Protivanov,79848,Náměstí,31,0,10574620.0,589926.0
+Malé Hradisko,Malé Hradisko,79849,,60,0,10523685.0,589713.0
+Přemyslovice,Přemyslovice,79851,,281,0,10581693.0,589934.0
+Konice,Konice,79852,Masarykovo náměstí,41,0,10487921.0,589624.0
+Kladky,Kladky,79854,,179,0,10483381.0,589594.0
+Hvozd,Hvozd,79855,,90,0,10476491.0,589560.0
+Bohuslavice,Bohuslavice,79856,,21,0,10421823.0,589292.0
+Laškov,Laškov,79857,,1,0,10512136.0,589675.0
+Čechy pod Kosířem,Čechy pod Kosířem,79858,náměstí Svobody,289,0,10442618.0,589381.0
+Drahany,Drahany,79861,,26,0,10460870.0,589462.0
+Rozstání,Rozstání,79862,,77,0,10595384.0,589977.0
